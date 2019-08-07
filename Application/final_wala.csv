@@ -1,0 +1,1001 @@
+,Unnamed: 0,Customer_id,Customer_age,Customer_sex,Customer_type,Customer_city,Visits,Device_used,Device_Platform,Existing_Customer,Product_id,product_visit,Days_in_cart,Viewd_in_cart,Price,Transcation_amount,discount_offered,Warranty,Warranty_period,Product_age,Support_type,Support_mode,Support_satisfaction,Revenue_Impact,Region,State,Zone,Product_comparison,Tech_score,Purchase_power,Thinking_score,service_category
+0,0,1,50,Female,Old,Kolkata,142,Mobile/Tablet,iOS,No,3,5,13,3,47192,44832,5,1,10,2,Technical_Queries,Customer_support,5,0,Metro,West Bengal,East,3,2,9,3,Platinum1
+1,1,2,26,Male,Young,Tiruvannamalai,210,Laptop/PC,Linux,No,1,5,35,14,89528,68936,23,0,0,34,Product_upgrade,Customer_support,3,26858,Non Metro,Andhra Pradesh,South,8,9,6,5,Gold2
+2,2,3,22,Female,Young,Nagpur,188,Laptop/PC,Linux,Yes,2,7,51,20,86114,75780,12,0,0,18,Parts_change,Service_center,4,1863,Non Metro,Maharashtra,South,8,9,6,5,Gold2
+3,3,4,50,Female,Old,Ahmedabad,140,Mobile/Tablet,Android,Yes,3,3,24,7,47192,39169,17,0,0,29,Parts_change,Service_center,5,1276,Metro,Gujrat,West,3,2,5,3,Silver1
+4,4,5,37,Female,Middle,Kanpur,106,Laptop/PC,Linux,Yes,4,7,36,10,33668,29627,12,0,0,36,Product_upgrade,Customer_support,2,10100,Non Metro,Uttar Pradesh,North,4,9,3,4,Silver2
+5,5,6,39,Male,Middle,Kochi,109,Mobile/Tablet,iOS,Yes,4,7,24,7,33668,27271,19,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,4,4,7,3,Gold1
+6,6,7,44,Female,Middle,Kolkata,178,Mobile/Tablet,iOS,Yes,3,4,17,5,47192,36337,23,0,0,16,Product_upgrade,Customer_support,3,14157,Metro,West Bengal,East,4,4,9,3,Platinum1
+7,7,8,42,Male,Middle,Gwalior,54,Mobile/Tablet,Android,No,3,6,15,4,47192,38225,19,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Madhya Pradesh,West,3,2,5,3,Silver1
+8,8,9,49,Male,Old,Ghaziabad,140,Mobile/Tablet,Android,Yes,3,6,24,7,47192,44832,5,0,0,31,Parts_change,Service_center,5,638,Non Metro,Uttar Pradesh,North,3,2,5,3,Silver1
+9,9,10,33,Female,Young,Bhubaneswar,209,Mobile/Tablet,Android,Yes,3,9,44,17,47192,44832,5,0,0,24,Parts_change,Service_center,5,2212,Non Metro,Orissa,East,9,4,5,5,Silver1
+10,10,11,37,Female,Middle,Warangal,156,Mobile/Tablet,iOS,Yes,3,6,21,6,47192,38225,19,0,0,29,Parts_change,Service_center,4,799,Non Metro,Telangana,South,6,3,9,3,Platinum1
+11,11,12,35,Female,Middle,Raipur,215,Mobile/Tablet,iOS,Yes,4,6,33,9,33668,29627,12,1,2,10,Technical_Queries,Remote_sharing,4,0,Non Metro,Chattisgarh,East,5,3,7,4,Gold1
+12,12,13,27,Male,Young,Visakhapatnam,155,Laptop/PC,Windows,Yes,2,6,45,18,86114,75780,12,1,6,6,Technical_Queries,Customer_support,4,0,Metro,Andhra Pradesh,South,3,2,6,5,Gold1
+13,13,14,42,Male,Middle,Goa,145,Mobile/Tablet,iOS,No,3,6,22,6,47192,44832,5,0,0,15,Parts_change,Service_center,5,1631,Non Metro,Goa,South,6,3,9,3,Platinum1
+14,14,15,47,Male,Old,Asansol,102,Mobile/Tablet,iOS,No,3,5,12,3,47192,41528,12,0,0,26,Product_upgrade,Customer_support,3,14157,Non Metro,West Bengal,East,2,2,9,3,Platinum1
+15,15,16,26,Female,Young,Kottayam,220,Laptop/PC,Windows,No,0,7,52,20,56323,45621,19,0,0,34,Product_upgrade,Customer_support,3,16896,Non Metro,Kerela,South,6,3,5,5,Silver1
+16,16,17,20,Male,Young,Nashik,142,Mobile/Tablet,Android,No,0,7,51,20,56323,45621,19,0,0,19,Product_upgrade,Customer_support,4,16896,Non Metro,Maharashtra,South,6,3,5,5,Silver1
+17,17,18,37,Female,Middle,Bikaner,88,Mobile/Tablet,Android,No,2,3,35,10,86114,69752,19,1,3,9,Technical_Queries,Remote_sharing,5,0,Non Metro,Rajasthan,West,6,3,6,4,Gold1
+18,18,19,21,Female,Young,Kakinada,200,Mobile/Tablet,Android,No,1,6,42,16,89528,72517,19,0,0,39,Product_upgrade,Customer_support,5,26858,Non Metro,Andhra Pradesh,South,8,4,6,5,Gold1
+19,19,20,40,Female,Middle,Nanded,55,Mobile/Tablet,iOS,No,3,8,11,3,47192,38225,19,1,11,1,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,7,4,9,3,Platinum1
+20,20,21,36,Female,Middle,Bhopal,178,Mobile/Tablet,iOS,Yes,3,4,19,5,47192,44832,5,0,0,29,Parts_change,Service_center,5,2110,Non Metro,Madhya Pradesh,West,4,4,9,3,Platinum1
+21,21,22,42,Female,Middle,Amritsar,176,Mobile/Tablet,iOS,Yes,4,8,29,8,33668,27944,17,0,0,36,Product_upgrade,Customer_support,3,10100,Non Metro,Punjab,North,5,3,7,3,Gold1
+22,22,23,22,Male,Young,Rourkela,182,Laptop/PC,Windows,Yes,1,8,49,19,89528,72517,19,1,3,9,Parts_change,Service_center,5,2482,Non Metro,Orissa,East,5,3,6,5,Gold1
+23,23,24,41,Male,Middle,Meerut,162,Laptop/PC,Linux,No,4,7,23,6,33668,29627,12,0,0,18,Product_upgrade,Customer_support,4,10100,Non Metro,Uttar Pradesh,North,7,9,3,3,Silver2
+24,24,25,39,Male,Middle,Durgapur,160,Laptop/PC,Windows,Yes,3,6,34,10,47192,36337,23,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,West Bengal,East,4,4,5,4,Silver1
+25,25,26,51,Male,Old,Cuttack,139,Mobile/Tablet,iOS,Yes,5,5,4,1,78227,63363,19,1,5,7,Technical_Queries,Customer_support,4,0,Non Metro,Orissa,East,4,4,10,2,Platinum1
+26,26,27,19,Female,Young,Warangal,214,Mobile/Tablet,Android,Yes,0,9,55,22,56323,45621,19,1,4,8,Parts_change,Service_center,5,1235,Non Metro,Telangana,South,9,4,5,5,Silver1
+27,27,28,21,Female,Young,Thiruvananthapuram,197,Laptop/PC,Windows,Yes,1,6,40,16,89528,68936,23,1,4,8,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,8,4,6,5,Gold1
+28,28,29,54,Female,Old,Dehradun,104,Laptop/PC,Windows,Yes,4,1,13,3,33668,29627,12,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttrakhand,North,1,2,3,3,Silver1
+29,29,30,37,Male,Middle,Aligarh,137,Laptop/PC,Linux,No,4,4,24,7,33668,31984,5,0,0,33,Product_upgrade,Customer_support,2,10100,Non Metro,Uttar Pradesh,North,3,7,3,3,Silver2
+30,30,31,26,Female,Young,Guntur,195,Mobile/Tablet,iOS,No,1,4,50,20,89528,74308,17,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,6,3,10,5,Platinum1
+31,31,32,50,Female,Old,Lucknow,114,Laptop/PC,Windows,Yes,4,3,5,1,33668,27944,17,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,3,2,3,2,Silver1
+32,32,33,29,Male,Young,Gurgaon,151,Laptop/PC,Linux,Yes,2,3,28,11,86114,75780,12,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Haryana,North,3,7,6,4,Gold2
+33,33,34,60,Female,Old,Firozabad,118,Laptop/PC,Linux,Yes,5,1,20,6,78227,68839,12,0,0,13,Parts_change,Service_center,5,1918,Non Metro,Uttar Pradesh,North,2,7,6,3,Gold2
+34,34,35,46,Female,Old,Gulbarga,127,Laptop/PC,Windows,No,4,3,5,1,33668,31984,5,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,3,2,3,2,Silver1
+35,35,36,38,Male,Middle,Gorakhpur,132,Laptop/PC,Linux,Yes,3,7,25,7,47192,44832,5,1,2,10,Technical_Queries,Remote_sharing,5,0,Non Metro,Haryana,North,5,8,5,3,Silver2
+36,36,37,57,Male,Old,Amritsar,105,Laptop/PC,Windows,No,4,6,9,2,33668,31984,5,0,0,27,Product_upgrade,Customer_support,2,10100,Non Metro,Punjab,North,4,4,3,2,Silver1
+37,37,38,51,Male,Old,Kurnool,148,Mobile/Tablet,Android,Yes,3,6,12,3,47192,44832,5,0,0,31,Product_upgrade,Customer_support,3,14157,Non Metro,Andhra Pradesh,South,3,2,5,3,Silver1
+38,38,39,36,Female,Middle,Jammu,121,Laptop/PC,Windows,No,4,3,27,8,33668,27944,17,0,0,25,Product_upgrade,Customer_support,4,10100,Non Metro,Jammu and Kashmir,North,4,4,3,3,Silver1
+39,39,40,53,Male,Old,Kakinada,128,Mobile/Tablet,Android,No,5,6,30,9,78227,74315,5,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,1,2,6,3,Gold1
+40,40,41,23,Male,Young,Chandigarh,215,Laptop/PC,Windows,Yes,2,6,39,15,86114,71474,17,0,0,18,Product_upgrade,Customer_support,3,25834,Non Metro,Punjab,North,9,4,6,5,Gold1
+41,41,42,20,Male,Young,Madurai,184,Laptop/PC,Linux,Yes,1,6,31,12,89528,72517,19,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,6,8,6,5,Gold2
+42,42,43,58,Male,Old,Nashik,147,Laptop/PC,Windows,No,4,5,24,7,33668,27271,19,0,0,30,Product_upgrade,Customer_support,5,10100,Non Metro,Maharashtra,South,3,2,3,3,Silver1
+43,43,44,36,Female,Middle,Agra,84,Mobile/Tablet,iOS,Yes,2,4,29,8,86114,75780,12,0,0,31,Parts_change,Service_center,5,2361,Non Metro,Uttar Pradesh,North,6,3,10,3,Platinum1
+44,44,45,26,Male,Young,Jammu,187,Laptop/PC,Windows,Yes,2,4,33,13,86114,75780,12,0,0,23,Parts_change,Service_center,4,1853,Non Metro,Jammu and Kashmir,North,6,3,6,5,Gold1
+45,45,46,36,Male,Middle,Nanded,157,Mobile/Tablet,Android,Yes,4,8,39,11,33668,25924,23,0,0,16,Product_upgrade,Customer_support,2,10100,Non Metro,Maharashtra,South,4,4,3,5,Silver1
+46,46,47,38,Male,Middle,Bhubaneswar,51,Laptop/PC,Windows,No,3,8,13,3,47192,39169,17,0,0,13,Product_upgrade,Customer_support,2,14157,Non Metro,Orissa,East,4,4,5,3,Silver1
+47,47,48,19,Female,Young,Kottayam,213,Laptop/PC,Windows,No,1,4,49,19,89528,85051,5,0,0,22,Product_upgrade,Customer_support,3,26858,Non Metro,Kerela,South,5,3,6,5,Gold1
+48,48,49,53,Female,Old,Varanasi,100,Laptop/PC,Linux,Yes,4,5,3,0,33668,31984,5,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,3,7,3,2,Silver2
+49,49,50,48,Male,Old,Siliguri,128,Laptop/PC,Linux,No,4,5,8,2,33668,31984,5,0,0,31,Parts_change,Service_center,5,1162,Non Metro,Assam,East,1,7,3,2,Silver2
+50,50,51,18,Male,Young,Thiruvananthapuram,187,Laptop/PC,Windows,Yes,0,5,54,21,56323,53506,5,1,12,0,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,8,4,5,5,Silver1
+51,51,52,30,Male,Young,Dhanbad,190,Mobile/Tablet,Android,Yes,0,5,31,12,56323,43368,23,1,0,12,Parts_change,Service_center,5,1764,Non Metro,Jharkhand,East,7,4,5,5,Silver1
+52,52,53,57,Male,Old,Pune,101,Laptop/PC,Windows,No,5,1,14,4,78227,64928,17,1,0,12,Parts_change,Service_center,5,1887,Metro,Maharashtra,South,3,2,6,3,Gold1
+53,53,54,41,Male,Middle,Dhanbad,154,Mobile/Tablet,iOS,No,2,6,13,3,86114,69752,19,0,0,22,Parts_change,Service_center,4,1460,Non Metro,Jharkhand,East,6,3,10,3,Platinum1
+54,54,55,49,Female,Old,Faridabad,125,Mobile/Tablet,Android,No,5,6,5,1,78227,74315,5,0,0,31,Parts_change,Service_center,5,2264,Non Metro,Haryana,North,1,2,6,2,Gold1
+55,55,56,18,Male,Young,BokaroSteelCity,141,Laptop/PC,Windows,No,2,6,27,10,86114,66307,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,5,3,6,3,Gold1
+56,56,57,45,Male,Middle,Jamnagar,114,Mobile/Tablet,Android,Yes,3,7,31,9,47192,39169,17,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Gujrat,West,7,4,5,4,Silver1
+57,57,58,47,Female,Old,Bikaner,105,Laptop/PC,Linux,Yes,4,3,3,0,33668,27944,17,0,0,15,Product_upgrade,Customer_support,5,10100,Non Metro,Rajasthan,West,1,7,3,2,Silver2
+58,58,59,41,Male,Middle,Jodhpur,102,Mobile/Tablet,Android,No,4,8,38,11,33668,27944,17,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Rajasthan,West,7,4,3,5,Silver1
+59,59,60,47,Female,Old,Meerut,130,Mobile/Tablet,iOS,Yes,5,1,21,6,78227,63363,19,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,2,2,10,3,Platinum1
+60,60,61,21,Female,Young,Tirunelveli,208,Laptop/PC,Linux,No,2,9,50,20,86114,75780,12,0,0,29,Product_upgrade,Customer_support,5,25834,Non Metro,Tamil Nadu,South,9,9,6,5,Gold2
+61,61,62,44,Female,Middle,Chandigarh,158,Laptop/PC,Windows,Yes,4,6,22,6,33668,27944,17,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,4,4,3,3,Silver1
+62,62,63,19,Male,Young,Ludhiana,181,Mobile/Tablet,iOS,No,1,6,52,20,89528,85051,5,0,0,29,Product_upgrade,Customer_support,5,26858,Non Metro,Punjab,North,3,2,10,5,Platinum1
+63,63,64,33,Female,Young,Cuttack,148,Mobile/Tablet,Android,Yes,2,9,56,22,86114,66307,23,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Orissa,East,6,3,6,5,Gold1
+64,64,65,53,Female,Old,Gorakhpur,119,Mobile/Tablet,iOS,No,4,1,28,8,33668,25924,23,0,0,32,Parts_change,Service_center,5,1001,Non Metro,Haryana,North,3,2,7,3,Gold1
+65,65,66,33,Female,Young,Indore,175,Laptop/PC,Linux,Yes,3,7,49,19,47192,38225,19,0,0,27,Product_upgrade,Customer_support,5,14157,Non Metro,Madhya Pradesh,West,3,7,5,5,Silver2
+66,66,67,28,Male,Young,Mumbai,149,Mobile/Tablet,iOS,Yes,1,7,50,20,89528,72517,19,0,0,21,Parts_change,Service_center,4,1946,Metro,Maharashtra,South,6,3,10,5,Platinum1
+67,67,68,34,Female,Young,Bhiwandi,216,Mobile/Tablet,iOS,Yes,3,9,44,17,47192,38225,19,1,0,12,Parts_change,Service_center,5,2413,Non Metro,Maharashtra,South,3,2,9,5,Platinum1
+68,68,69,34,Male,Young,Jammu,199,Mobile/Tablet,Android,No,2,9,41,16,86114,81808,5,1,2,10,Technical_Queries,Remote_sharing,5,0,Non Metro,Jammu and Kashmir,North,5,3,6,5,Gold1
+69,69,70,46,Female,Old,Thiruvananthapuram,113,Mobile/Tablet,iOS,No,5,3,22,6,78227,63363,19,0,0,36,Product_upgrade,Customer_support,3,23468,Non Metro,Kerela,South,4,4,10,3,Platinum1
+70,70,71,48,Male,Old,Patna,115,Mobile/Tablet,Android,No,4,6,24,7,33668,27944,17,0,0,23,Product_upgrade,Customer_support,5,10100,Non Metro,Bihar,East,3,2,3,3,Silver1
+71,71,72,37,Female,Middle,Tiruppur,68,Mobile/Tablet,Android,Yes,4,6,12,3,33668,27944,17,1,1,11,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,5,3,3,3,Silver1
+72,72,73,57,Female,Old,Tiruchirappalli,149,Laptop/PC,Windows,No,4,5,1,0,33668,27944,17,0,0,25,Product_upgrade,Customer_support,5,10100,Non Metro,Tamil Nadu,South,1,2,3,2,Silver1
+73,73,74,22,Female,Young,Bhilai,150,Laptop/PC,Windows,No,2,4,53,21,86114,81808,5,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Chattisgarh,East,7,4,6,5,Gold1
+74,74,75,51,Female,Old,Mysore,121,Mobile/Tablet,iOS,No,5,3,26,7,78227,74315,5,1,5,7,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,2,2,10,3,Platinum1
+75,75,76,31,Female,Young,Tiruchirappalli,137,Mobile/Tablet,Android,No,2,6,55,22,86114,75780,12,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,7,4,6,5,Gold1
+76,76,77,28,Male,Young,Madurai,187,Mobile/Tablet,Android,No,0,6,28,11,56323,43368,23,1,12,0,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,5,3,5,4,Silver1
+77,77,78,33,Female,Young,Ajmer,178,Mobile/Tablet,iOS,Yes,0,10,51,20,56323,49564,12,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,6,3,9,5,Platinum1
+78,78,79,34,Male,Young,Surat,189,Laptop/PC,Linux,No,1,10,26,10,89528,78784,12,1,0,12,Technical_Queries,Remote_sharing,4,0,Metro,Gujrat,West,7,9,6,3,Gold2
+79,79,80,39,Female,Middle,Goa,174,Mobile/Tablet,iOS,Yes,2,3,23,6,86114,66307,23,0,0,28,Parts_change,Service_center,5,2053,Non Metro,Goa,South,7,4,10,3,Platinum1
+80,80,81,53,Male,Old,Raipur,121,Mobile/Tablet,Android,Yes,4,5,13,3,33668,27271,19,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Chattisgarh,East,3,2,3,3,Silver1
+81,81,82,38,Female,Middle,Vasai-VirarCity,160,Mobile/Tablet,Android,No,3,6,35,10,47192,36337,23,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,3,2,5,4,Silver1
+82,82,83,30,Male,Young,Indore,185,Mobile/Tablet,Android,Yes,1,6,40,16,89528,68936,23,0,0,32,Parts_change,Service_center,4,1899,Non Metro,Madhya Pradesh,West,7,4,6,5,Gold1
+83,83,84,52,Female,Old,Goa,134,Laptop/PC,Windows,Yes,3,3,21,6,47192,38225,19,0,0,39,Product_upgrade,Customer_support,3,14157,Non Metro,Goa,South,2,2,5,3,Silver1
+84,84,85,34,Female,Young,Mathura,142,Laptop/PC,Windows,No,2,9,44,17,86114,69752,19,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,4,4,6,5,Gold1
+85,85,86,33,Female,Young,Coimbatore,191,Laptop/PC,Linux,No,3,7,53,21,47192,36337,23,1,4,8,Parts_change,Service_center,5,1434,Metro,Andhra Pradesh,South,9,9,5,5,Silver2
+86,86,87,45,Female,Middle,Solapur,139,Laptop/PC,Windows,Yes,3,8,15,4,47192,36337,23,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,3,2,5,3,Silver1
+87,87,88,43,Male,Middle,Amravati,119,Laptop/PC,Windows,Yes,2,8,16,4,86114,69752,19,0,0,37,Product_upgrade,Customer_support,2,25834,Non Metro,Maharashtra,South,5,3,6,3,Gold1
+88,88,89,28,Female,Young,Bikaner,154,Mobile/Tablet,Android,Yes,1,7,55,22,89528,74308,17,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Rajasthan,West,5,3,6,5,Gold1
+89,89,90,33,Female,Young,Tiruvannamalai,197,Laptop/PC,Windows,Yes,1,4,44,17,89528,68936,23,1,1,11,Parts_change,Service_center,4,1026,Non Metro,Andhra Pradesh,South,3,2,6,5,Gold1
+90,90,91,58,Male,Old,Jhansi,139,Laptop/PC,Linux,No,4,6,5,1,33668,29627,12,1,3,9,Parts_change,Service_center,5,1301,Non Metro,Uttar Pradesh,North,1,7,3,2,Silver2
+91,91,92,57,Male,Old,Srinagar,134,Laptop/PC,Windows,Yes,5,6,17,5,78227,60234,23,0,0,24,Product_upgrade,Customer_support,4,23468,Non Metro,Jammu and Kashmir,North,3,2,6,3,Gold1
+92,92,93,36,Female,Middle,Mysore,88,Mobile/Tablet,Android,Yes,3,3,33,9,47192,39169,17,0,0,38,Product_upgrade,Customer_support,4,14157,Non Metro,Karnartaka,South,5,3,5,4,Silver1
+93,93,94,37,Male,Middle,Nashik,163,Laptop/PC,Windows,No,4,6,22,6,33668,29627,12,0,0,32,Product_upgrade,Customer_support,4,10100,Non Metro,Maharashtra,South,5,3,3,3,Silver1
+94,94,95,59,Female,Old,Jamnagar,118,Laptop/PC,Linux,No,3,6,18,5,47192,36337,23,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Gujrat,West,3,7,5,3,Silver2
+95,95,96,60,Female,Old,Jabalpur,123,Laptop/PC,Linux,Yes,3,6,19,5,47192,38225,19,1,3,9,Technical_Queries,Remote_sharing,5,0,Non Metro,Madhya Pradesh,West,3,7,5,3,Silver2
+96,96,97,49,Female,Old,Chennai,136,Laptop/PC,Linux,No,4,3,16,4,33668,25924,23,1,3,9,Technical_Queries,Remote_sharing,4,0,Metro,Tamil Nadu,South,3,7,3,3,Silver2
+97,97,98,35,Female,Old,Ahmedabad,144,Laptop/PC,Linux,Yes,5,1,30,9,78227,64928,17,1,2,10,Technical_Queries,Customer_support,5,0,Metro,Gujrat,West,3,7,6,3,Gold2
+98,98,99,21,Male,Young,Nellore,157,Mobile/Tablet,Android,Yes,1,1,41,16,89528,72517,19,0,0,13,Product_upgrade,Customer_support,2,26858,Non Metro,Andhra Pradesh,South,6,3,6,5,Gold1
+99,99,100,58,Male,Old,Jalandhar,104,Mobile/Tablet,Android,Yes,5,3,11,3,78227,63363,19,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Punjab,North,1,2,6,3,Gold1
+100,100,101,58,Male,Old,Jalandhar,142,Laptop/PC,Linux,No,3,3,16,4,47192,39169,17,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,1,7,5,3,Silver2
+101,101,102,28,Female,Young,Jaipur,165,Mobile/Tablet,Android,Yes,0,4,44,17,56323,46748,17,0,0,14,Product_upgrade,Customer_support,3,16896,Non Metro,Rajasthan,West,8,4,5,5,Silver1
+102,102,103,33,Male,Young,Jodhpur,139,Mobile/Tablet,iOS,Yes,0,4,41,16,56323,53506,5,0,0,33,Parts_change,Service_center,4,1715,Non Metro,Rajasthan,West,6,3,9,5,Platinum1
+103,103,104,22,Male,Young,Tirunelveli,189,Mobile/Tablet,Android,No,0,4,49,19,56323,45621,19,1,4,8,Parts_change,Service_center,4,671,Non Metro,Tamil Nadu,South,8,4,5,5,Silver1
+104,104,105,38,Male,Middle,Jaipur,110,Laptop/PC,Windows,Yes,4,8,26,7,33668,29627,12,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,7,4,3,3,Silver1
+105,105,106,56,Male,Old,Jalandhar,148,Laptop/PC,Linux,Yes,3,1,5,1,47192,41528,12,0,0,33,Product_upgrade,Customer_support,5,14157,Non Metro,Punjab,North,4,9,5,2,Silver2
+106,106,107,51,Male,Old,Tirunelveli,142,Laptop/PC,Linux,Yes,5,5,19,5,78227,74315,5,1,2,10,Parts_change,Service_center,4,1290,Non Metro,Tamil Nadu,South,4,9,6,3,Gold2
+107,107,108,18,Male,Young,Amritsar,211,Laptop/PC,Windows,Yes,2,5,46,18,86114,66307,23,0,0,37,Product_upgrade,Customer_support,4,25834,Non Metro,Punjab,North,5,3,6,5,Gold1
+108,108,109,44,Male,Middle,Bikaner,130,Mobile/Tablet,iOS,No,2,4,19,5,86114,69752,19,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,4,4,10,3,Platinum1
+109,109,110,26,Male,Young,Vijayawada,172,Laptop/PC,Linux,Yes,1,4,31,12,89528,78784,12,1,3,9,Parts_change,Service_center,4,2191,Non Metro,Andhra Pradesh,South,3,7,6,5,Gold2
+110,110,111,42,Female,Middle,Kanpur,78,Laptop/PC,Linux,Yes,3,3,33,9,47192,44832,5,1,0,12,Parts_change,Service_center,5,862,Non Metro,Uttar Pradesh,North,7,9,5,4,Silver2
+111,111,112,53,Female,Old,Vasai-VirarCity,142,Mobile/Tablet,Android,Yes,4,1,27,8,33668,29627,12,0,0,24,Parts_change,Service_center,4,974,Non Metro,Maharashtra,South,4,4,3,3,Silver1
+112,112,113,18,Male,Young,Ludhiana,195,Laptop/PC,Windows,No,1,1,52,20,89528,68936,23,0,0,38,Product_upgrade,Customer_support,5,26858,Non Metro,Punjab,North,9,4,6,5,Gold1
+113,113,114,46,Female,Old,Sangli,121,Mobile/Tablet,Android,No,3,6,27,8,47192,41528,12,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,2,2,5,3,Silver1
+114,114,115,28,Male,Young,Ujjain,134,Laptop/PC,Windows,Yes,0,6,40,16,56323,53506,5,0,0,32,Product_upgrade,Customer_support,3,16896,Non Metro,Punjab,North,4,4,5,5,Silver1
+115,115,116,37,Male,Middle,Bangalore,149,Mobile/Tablet,Android,No,3,7,16,4,47192,41528,12,1,12,0,Technical_Queries,Customer_support,5,0,Metro,Karnartaka,South,7,4,5,3,Silver1
+116,116,117,23,Male,Young,Kota,175,Laptop/PC,Linux,No,1,7,46,18,89528,68936,23,0,0,37,Product_upgrade,Customer_support,4,26858,Non Metro,Rajasthan,West,6,8,6,5,Gold2
+117,117,118,51,Male,Old,Tirunelveli,137,Laptop/PC,Windows,Yes,4,3,13,3,33668,29627,12,0,0,24,Product_upgrade,Customer_support,5,10100,Non Metro,Tamil Nadu,South,4,4,3,3,Silver1
+118,118,119,47,Female,Old,Asansol,106,Mobile/Tablet,Android,No,4,5,24,7,33668,27944,17,0,0,15,Product_upgrade,Customer_support,4,10100,Non Metro,West Bengal,East,3,2,3,3,Silver1
+119,119,120,58,Female,Old,Kanpur,146,Laptop/PC,Windows,Yes,3,3,11,3,47192,44832,5,0,0,37,Product_upgrade,Customer_support,3,14157,Non Metro,Uttar Pradesh,North,4,4,5,3,Silver1
+120,120,121,23,Female,Young,Ajmer,194,Mobile/Tablet,Android,No,3,4,46,18,47192,44832,5,0,0,15,Parts_change,Service_center,4,530,Non Metro,Rajasthan,West,8,4,5,5,Silver1
+121,121,122,41,Female,Middle,Guwahati,55,Laptop/PC,Windows,No,3,7,17,5,47192,44832,5,1,2,10,Technical_Queries,Customer_support,4,0,Non Metro,Assam,East,3,2,5,3,Silver1
+122,122,123,59,Female,Old,Gwalior,143,Mobile/Tablet,iOS,No,3,3,12,3,47192,38225,19,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Madhya Pradesh,West,3,2,9,3,Platinum1
+123,123,124,55,Female,Old,Bareilly,131,Laptop/PC,Windows,No,4,5,27,8,33668,27271,19,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,4,4,3,3,Silver1
+124,124,125,20,Male,Young,Jalandhar,208,Laptop/PC,Windows,Yes,0,5,36,14,56323,49564,12,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Punjab,North,5,3,5,5,Silver1
+125,125,126,40,Male,Middle,Tirunelveli,174,Laptop/PC,Linux,Yes,3,6,29,8,47192,38225,19,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,4,9,5,3,Silver2
+126,126,127,34,Female,Young,Mangalore,143,Mobile/Tablet,iOS,Yes,0,9,60,24,56323,46748,17,1,3,9,Parts_change,Service_center,4,536,Non Metro,Karnartaka,South,9,4,9,5,Platinum1
+127,127,128,30,Male,Young,Ghaziabad,172,Laptop/PC,Windows,Yes,1,9,57,22,89528,78784,12,0,0,15,Product_upgrade,Customer_support,5,26858,Non Metro,Uttar Pradesh,North,7,4,6,5,Gold1
+128,128,129,19,Female,Young,Nellore,172,Laptop/PC,Linux,Yes,2,6,40,16,86114,71474,17,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,7,9,6,5,Gold2
+129,129,130,60,Male,Old,Bangalore,140,Mobile/Tablet,Android,No,4,6,24,7,33668,25924,23,0,0,34,Parts_change,Service_center,4,1267,Metro,Karnartaka,South,1,2,3,3,Silver1
+130,130,131,40,Male,Middle,Amravati,128,Laptop/PC,Windows,Yes,2,3,22,6,86114,69752,19,0,0,15,Parts_change,Service_center,4,670,Non Metro,Maharashtra,South,6,3,6,3,Gold1
+131,131,132,60,Male,Old,Dhanbad,102,Mobile/Tablet,Android,Yes,4,6,21,6,33668,27944,17,1,4,8,Parts_change,Service_center,5,824,Non Metro,Jharkhand,East,4,4,3,3,Silver1
+132,132,133,37,Female,Middle,Jodhpur,162,Mobile/Tablet,Android,No,2,3,35,10,86114,75780,12,0,0,16,Parts_change,Service_center,5,1674,Non Metro,Rajasthan,West,5,3,6,4,Gold1
+133,133,134,32,Female,Young,Madurai,169,Laptop/PC,Linux,Yes,1,6,60,24,89528,74308,17,1,4,8,Parts_change,Service_center,4,1365,Non Metro,Tamil Nadu,South,4,9,6,5,Gold2
+134,134,135,38,Male,Middle,Rourkela,150,Mobile/Tablet,Android,Yes,4,7,11,3,33668,27271,19,0,0,35,Parts_change,Service_center,4,1383,Non Metro,Orissa,East,3,2,3,3,Silver1
+135,135,136,58,Male,Old,Chandigarh,122,Laptop/PC,Windows,No,3,1,7,2,47192,38225,19,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Punjab,North,2,2,5,2,Silver1
+136,136,137,60,Male,Old,Srinagar,140,Laptop/PC,Linux,Yes,5,5,21,6,78227,60234,23,0,0,23,Product_upgrade,Customer_support,2,23468,Non Metro,Jammu and Kashmir,North,3,7,6,3,Gold2
+137,137,138,18,Male,Young,Pune,211,Laptop/PC,Windows,Yes,2,5,43,17,86114,75780,12,0,0,13,Parts_change,Service_center,4,2165,Metro,Maharashtra,South,7,4,6,5,Gold1
+138,138,139,48,Female,Old,Warangal,127,Mobile/Tablet,Android,No,4,5,22,6,33668,29627,12,0,0,15,Parts_change,Service_center,4,2466,Non Metro,Telangana,South,3,2,3,3,Silver1
+139,139,140,23,Male,Young,Jalandhar,145,Mobile/Tablet,Android,Yes,2,5,46,18,86114,69752,19,1,0,12,Technical_Queries,Remote_sharing,5,0,Non Metro,Punjab,North,3,2,6,5,Gold1
+140,140,141,35,Female,Young,Bijapur,193,Laptop/PC,Windows,No,3,9,40,16,47192,36337,23,0,0,14,Parts_change,Service_center,5,948,Non Metro,Karnartaka,South,9,4,5,5,Silver1
+141,141,142,46,Female,Old,Jaipur,117,Laptop/PC,Windows,Yes,3,1,7,2,47192,39169,17,0,0,39,Product_upgrade,Customer_support,3,14157,Non Metro,Rajasthan,West,4,4,5,2,Silver1
+142,142,143,59,Male,Old,Tiruppur,119,Mobile/Tablet,iOS,No,3,1,28,8,47192,39169,17,0,0,13,Parts_change,Service_center,5,716,Non Metro,Tamil Nadu,South,1,2,9,3,Platinum1
+143,143,144,49,Male,Old,Tiruvannamalai,100,Mobile/Tablet,iOS,Yes,4,3,22,6,33668,25924,23,0,0,29,Product_upgrade,Customer_support,3,10100,Non Metro,Andhra Pradesh,South,1,2,7,3,Gold1
+144,144,145,24,Female,Young,Kurnool,146,Mobile/Tablet,Android,Yes,2,9,49,19,86114,71474,17,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,3,2,6,5,Gold1
+145,145,146,47,Male,Old,Rourkela,103,Laptop/PC,Windows,Yes,5,1,26,7,78227,60234,23,0,0,22,Product_upgrade,Customer_support,2,23468,Non Metro,Orissa,East,3,2,6,3,Gold1
+146,146,147,35,Male,Old,Durgapur,177,Laptop/PC,Windows,No,4,5,3,0,33668,31984,5,0,0,20,Parts_change,Service_center,5,1024,Non Metro,West Bengal,East,1,2,3,2,Silver1
+147,147,148,39,Male,Middle,Noida,153,Mobile/Tablet,iOS,No,4,3,27,8,33668,31984,5,0,0,35,Product_upgrade,Customer_support,4,10100,Non Metro,Uttar Pradesh,North,7,4,7,3,Gold1
+148,148,149,37,Female,Middle,Rajahmundry,152,Laptop/PC,Linux,Yes,3,7,36,10,47192,38225,19,0,0,28,Product_upgrade,Customer_support,3,14157,Non Metro,Andhra Pradesh,South,5,8,5,4,Silver2
+149,149,150,32,Female,Young,Kolkata,164,Mobile/Tablet,iOS,Yes,1,9,58,23,89528,68936,23,0,0,13,Parts_change,Service_center,5,1537,Metro,West Bengal,East,7,4,10,5,Platinum1
+150,150,151,30,Male,Young,Thiruvananthapuram,185,Mobile/Tablet,Android,No,0,9,38,15,56323,45621,19,0,0,31,Product_upgrade,Customer_support,5,16896,Non Metro,Kerela,South,7,4,5,5,Silver1
+151,151,152,51,Female,Old,Palakkad,114,Laptop/PC,Windows,Yes,5,1,12,3,78227,68839,12,1,2,10,Parts_change,Service_center,4,693,Non Metro,Kerela,South,3,2,6,3,Gold1
+152,152,153,51,Male,Old,Jammu,122,Mobile/Tablet,iOS,No,3,6,21,6,47192,38225,19,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Jammu and Kashmir,North,4,4,9,3,Platinum1
+153,153,154,20,Male,Young,Palakkad,173,Laptop/PC,Linux,No,2,6,42,16,86114,71474,17,0,0,19,Product_upgrade,Customer_support,2,25834,Non Metro,Kerela,South,3,7,6,5,Gold2
+154,154,155,21,Female,Young,Moradabad,158,Mobile/Tablet,iOS,No,1,6,41,16,89528,74308,17,0,0,18,Parts_change,Service_center,4,2378,Non Metro,Uttar Pradesh,North,8,4,10,5,Platinum1
+155,155,156,59,Male,Old,Mysore,149,Mobile/Tablet,Android,Yes,4,6,20,6,33668,25924,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,2,2,3,3,Silver1
+156,156,157,60,Female,Old,Thrissur,137,Laptop/PC,Windows,No,3,5,17,5,47192,36337,23,0,0,34,Product_upgrade,Customer_support,4,14157,Non Metro,Kerela,South,3,2,5,3,Silver1
+157,157,158,36,Female,Middle,Siliguri,53,Mobile/Tablet,iOS,Yes,3,4,10,3,47192,44832,5,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Assam,East,6,3,9,2,Platinum1
+158,158,159,52,Female,Old,Mangalore,117,Mobile/Tablet,Android,No,4,3,24,7,33668,27271,19,0,0,36,Product_upgrade,Customer_support,2,10100,Non Metro,Karnartaka,South,2,2,3,3,Silver1
+159,159,160,35,Female,Old,Chandigarh,153,Laptop/PC,Windows,No,3,3,9,2,47192,41528,12,0,0,32,Product_upgrade,Customer_support,3,14157,Non Metro,Punjab,North,4,4,5,2,Silver1
+160,160,161,53,Male,Old,Hyderabad,107,Laptop/PC,Windows,No,4,1,16,4,33668,27944,17,1,11,1,Technical_Queries,Customer_support,4,0,Metro,Telangana,South,1,2,3,3,Silver1
+161,161,162,21,Male,Young,Sangli,168,Mobile/Tablet,Android,Yes,2,1,25,10,86114,71474,17,0,0,28,Product_upgrade,Customer_support,5,25834,Non Metro,Maharashtra,South,4,4,6,3,Gold1
+162,162,163,26,Male,Young,Guntur,172,Laptop/PC,Linux,Yes,0,1,50,20,56323,49564,12,0,0,34,Product_upgrade,Customer_support,4,16896,Non Metro,Andhra Pradesh,South,4,9,5,5,Silver2
+163,163,164,40,Female,Middle,Bijapur,124,Mobile/Tablet,iOS,No,4,3,19,5,33668,27271,19,1,6,6,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,3,2,7,3,Gold1
+164,164,165,53,Male,Old,Mumbai,117,Laptop/PC,Windows,No,5,1,20,6,78227,74315,5,0,0,20,Parts_change,Service_center,4,1023,Metro,Maharashtra,South,2,2,6,3,Gold1
+165,165,166,19,Female,Young,Bareilly,220,Laptop/PC,Linux,Yes,0,9,43,17,56323,43368,23,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,6,8,5,5,Silver2
+166,166,167,23,Male,Young,Jaipur,207,Laptop/PC,Linux,Yes,1,9,34,13,89528,74308,17,0,0,24,Product_upgrade,Customer_support,5,26858,Non Metro,Rajasthan,West,7,9,6,5,Gold2
+167,167,168,44,Female,Middle,Rajahmundry,151,Laptop/PC,Linux,No,2,6,10,3,86114,71474,17,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,3,7,6,2,Gold2
+168,168,169,54,Male,Old,Goa,119,Mobile/Tablet,iOS,No,5,5,13,3,78227,60234,23,1,1,11,Technical_Queries,Remote_sharing,5,0,Non Metro,Goa,South,4,4,10,3,Platinum1
+169,169,170,40,Male,Middle,Rajahmundry,173,Mobile/Tablet,Android,No,2,7,36,10,86114,81808,5,1,2,10,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,7,4,6,4,Gold1
+170,170,171,39,Female,Middle,Jodhpur,158,Laptop/PC,Linux,No,2,8,35,10,86114,69752,19,0,0,29,Product_upgrade,Customer_support,2,25834,Non Metro,Rajasthan,West,4,9,6,4,Gold2
+171,171,172,41,Male,Middle,Kozhikode,157,Mobile/Tablet,Android,No,4,3,37,11,33668,31984,5,0,0,14,Product_upgrade,Customer_support,4,10100,Non Metro,Kerela,South,3,2,3,5,Silver1
+172,172,173,31,Male,Young,Faridabad,133,Mobile/Tablet,Android,No,1,3,33,13,89528,85051,5,0,0,37,Product_upgrade,Customer_support,3,26858,Non Metro,Haryana,North,3,2,6,5,Gold1
+173,173,174,47,Male,Old,Bijapur,123,Laptop/PC,Linux,No,3,5,25,7,47192,39169,17,0,0,20,Product_upgrade,Customer_support,3,14157,Non Metro,Karnartaka,South,2,7,5,3,Silver2
+174,174,175,39,Female,Middle,Dehradun,86,Mobile/Tablet,Android,No,3,4,37,11,47192,38225,19,0,0,25,Product_upgrade,Customer_support,5,14157,Non Metro,Uttrakhand,North,7,4,5,5,Silver1
+175,175,176,58,Male,Old,Noida,149,Mobile/Tablet,iOS,No,3,3,5,1,47192,38225,19,0,0,29,Parts_change,Service_center,5,1405,Non Metro,Uttar Pradesh,North,4,4,9,2,Platinum1
+176,176,177,50,Male,Old,Chennai,116,Laptop/PC,Windows,Yes,5,6,28,8,78227,60234,23,1,11,1,Technical_Queries,Customer_support,5,0,Metro,Tamil Nadu,South,1,2,6,3,Gold1
+177,177,178,46,Male,Old,Kottayam,109,Mobile/Tablet,iOS,No,5,5,23,6,78227,63363,19,0,0,24,Parts_change,Service_center,4,1015,Non Metro,Kerela,South,2,2,10,3,Platinum1
+178,178,179,36,Female,Middle,Siliguri,87,Laptop/PC,Windows,No,3,6,12,3,47192,36337,23,1,12,0,Technical_Queries,Remote_sharing,4,0,Non Metro,Assam,East,4,4,5,3,Silver1
+179,179,180,20,Male,Young,Guntur,167,Laptop/PC,Linux,Yes,2,6,46,18,86114,66307,23,0,0,15,Product_upgrade,Customer_support,4,25834,Non Metro,Andhra Pradesh,South,6,8,6,5,Gold2
+180,180,181,54,Male,Old,Faridabad,122,Mobile/Tablet,iOS,Yes,4,6,25,7,33668,27944,17,0,0,25,Parts_change,Service_center,5,1289,Non Metro,Haryana,North,2,2,7,3,Gold1
+181,181,182,27,Female,Young,Rajkot,220,Mobile/Tablet,Android,No,2,7,42,16,86114,81808,5,0,0,30,Parts_change,Service_center,4,1141,Non Metro,Gujrat,West,8,4,6,5,Gold1
+182,182,183,26,Female,Young,Tirupati,213,Mobile/Tablet,Android,No,3,9,44,17,47192,39169,17,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,5,3,5,5,Silver1
+183,183,184,36,Female,Middle,Bareilly,138,Laptop/PC,Windows,No,2,6,40,12,86114,69752,19,0,0,21,Product_upgrade,Customer_support,2,25834,Non Metro,Uttar Pradesh,North,3,2,6,5,Gold1
+184,184,185,26,Female,Young,Belgaum,216,Mobile/Tablet,iOS,No,0,4,58,23,56323,49564,12,0,0,35,Product_upgrade,Customer_support,2,16896,Non Metro,Karnartaka,South,9,4,9,5,Platinum1
+185,185,186,42,Male,Middle,Vijayawada,130,Mobile/Tablet,Android,No,3,3,26,7,47192,36337,23,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,7,4,5,3,Silver1
+186,186,187,23,Male,Young,Ajmer,196,Mobile/Tablet,iOS,No,2,3,36,14,86114,81808,5,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,8,4,10,5,Platinum1
+187,187,188,36,Male,Middle,Tiruvannamalai,61,Laptop/PC,Linux,No,4,4,12,3,33668,27271,19,0,0,24,Product_upgrade,Customer_support,5,10100,Non Metro,Andhra Pradesh,South,5,8,3,3,Silver2
+188,188,189,49,Male,Old,Faridabad,145,Laptop/PC,Windows,No,4,6,24,7,33668,25924,23,0,0,28,Product_upgrade,Customer_support,5,10100,Non Metro,Haryana,North,4,4,3,3,Silver1
+189,189,190,51,Male,Old,BokaroSteelCity,138,Laptop/PC,Linux,No,3,5,13,3,47192,41528,12,0,0,29,Product_upgrade,Customer_support,5,14157,Non Metro,Jharkhand,East,1,7,5,3,Silver2
+190,190,191,51,Female,Old,Ahmedabad,108,Mobile/Tablet,iOS,No,5,1,6,1,78227,60234,23,0,0,39,Product_upgrade,Customer_support,2,23468,Metro,Gujrat,West,2,2,10,2,Platinum1
+191,191,192,52,Female,Old,Belgaum,144,Mobile/Tablet,Android,Yes,3,1,22,6,47192,38225,19,1,5,7,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,3,2,5,3,Silver1
+192,192,193,43,Female,Middle,Gulbarga,124,Mobile/Tablet,Android,Yes,2,8,23,6,86114,75780,12,0,0,13,Parts_change,Service_center,5,1675,Non Metro,Karnartaka,South,7,4,6,3,Gold1
+193,193,194,27,Female,Young,Amritsar,177,Mobile/Tablet,iOS,No,1,10,42,16,89528,78784,12,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,8,4,10,5,Platinum1
+194,194,195,50,Female,Old,Mathura,137,Laptop/PC,Windows,Yes,5,5,20,6,78227,64928,17,1,0,12,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,1,2,6,3,Gold1
+195,195,196,35,Female,Old,Jamshedpur,205,Mobile/Tablet,Android,No,5,3,7,2,78227,68839,12,1,1,11,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,2,2,6,2,Gold1
+196,196,197,54,Male,Old,Kota,103,Laptop/PC,Windows,No,3,3,2,0,47192,39169,17,0,0,25,Product_upgrade,Customer_support,3,14157,Non Metro,Rajasthan,West,3,2,5,2,Silver1
+197,197,198,30,Male,Young,Bangalore,193,Mobile/Tablet,Android,Yes,0,3,44,17,56323,43368,23,0,0,14,Parts_change,Service_center,5,2082,Metro,Karnartaka,South,4,4,5,5,Silver1
+198,198,199,31,Female,Young,Jodhpur,165,Mobile/Tablet,Android,No,1,10,55,22,89528,78784,12,1,2,10,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,3,2,6,5,Gold1
+199,199,200,60,Female,Old,Jabalpur,122,Mobile/Tablet,iOS,Yes,4,5,19,5,33668,25924,23,0,0,23,Parts_change,Service_center,4,1972,Non Metro,Madhya Pradesh,West,3,2,7,3,Gold1
+200,200,201,38,Female,Middle,Malappuram,161,Laptop/PC,Linux,Yes,2,6,40,12,86114,75780,12,1,3,9,Parts_change,Service_center,4,592,Non Metro,Kerela,South,6,8,6,5,Gold2
+201,201,202,21,Male,Young,Nashik,137,Laptop/PC,Linux,No,2,6,60,24,86114,66307,23,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,9,9,6,5,Gold2
+202,202,203,58,Male,Old,Dehradun,150,Mobile/Tablet,iOS,Yes,3,6,20,6,47192,39169,17,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttrakhand,North,3,2,9,3,Platinum1
+203,203,204,44,Male,Middle,Agra,78,Mobile/Tablet,Android,No,2,6,14,4,86114,81808,5,0,0,15,Product_upgrade,Customer_support,2,25834,Non Metro,Uttar Pradesh,North,3,2,6,3,Gold1
+204,204,205,28,Female,Young,Meerut,193,Mobile/Tablet,Android,Yes,2,4,51,20,86114,71474,17,1,5,7,Parts_change,Service_center,4,1421,Non Metro,Uttar Pradesh,North,9,4,6,5,Gold1
+205,205,206,53,Female,Old,Vadodara,137,Laptop/PC,Linux,Yes,3,5,10,3,47192,38225,19,1,3,9,Parts_change,Service_center,4,1599,Non Metro,Gujrat,West,3,7,5,2,Silver2
+206,206,207,44,Female,Middle,Solapur,129,Mobile/Tablet,iOS,No,3,7,23,6,47192,44832,5,0,0,39,Product_upgrade,Customer_support,2,14157,Non Metro,Maharashtra,South,3,2,9,3,Platinum1
+207,207,208,44,Male,Middle,Pondicherry,162,Mobile/Tablet,Android,Yes,2,6,30,9,86114,75780,12,0,0,38,Product_upgrade,Customer_support,3,25834,Non Metro,Tamil Nadu,South,5,3,6,3,Gold1
+208,208,209,26,Male,Young,Patna,182,Mobile/Tablet,iOS,No,1,6,45,18,89528,68936,23,0,0,26,Product_upgrade,Customer_support,4,26858,Non Metro,Bihar,East,5,3,10,5,Platinum1
+209,209,210,18,Female,Young,Madurai,167,Mobile/Tablet,Android,No,0,10,48,19,56323,49564,12,0,0,26,Parts_change,Service_center,5,2315,Non Metro,Tamil Nadu,South,9,4,5,5,Silver1
+210,210,211,45,Female,Middle,Gulbarga,101,Laptop/PC,Linux,No,2,3,20,6,86114,71474,17,0,0,27,Product_upgrade,Customer_support,5,25834,Non Metro,Karnartaka,South,4,9,6,3,Gold2
+211,211,212,48,Female,Old,Dehradun,139,Laptop/PC,Windows,No,3,5,19,5,47192,39169,17,1,1,11,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttrakhand,North,4,4,5,3,Silver1
+212,212,213,40,Male,Middle,Bikaner,127,Laptop/PC,Windows,No,3,8,22,6,47192,36337,23,0,0,28,Product_upgrade,Customer_support,3,14157,Non Metro,Rajasthan,West,3,2,5,3,Silver1
+213,213,214,20,Male,Young,Cuttack,178,Mobile/Tablet,Android,No,0,8,45,18,56323,49564,12,0,0,30,Parts_change,Service_center,5,1075,Non Metro,Orissa,East,6,3,5,5,Silver1
+214,214,215,47,Female,Old,Durgapur,144,Laptop/PC,Linux,Yes,3,3,17,5,47192,41528,12,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,West Bengal,East,4,9,5,3,Silver2
+215,215,216,59,Female,Old,Pune,132,Mobile/Tablet,iOS,Yes,5,5,15,4,78227,68839,12,0,0,18,Product_upgrade,Customer_support,3,23468,Metro,Maharashtra,South,2,2,10,3,Platinum1
+216,216,217,22,Male,Young,Siliguri,152,Laptop/PC,Windows,No,0,5,42,16,56323,49564,12,1,1,11,Technical_Queries,Remote_sharing,4,0,Non Metro,Assam,East,6,3,5,5,Silver1
+217,217,218,29,Male,Young,Bhopal,154,Laptop/PC,Windows,Yes,2,5,32,12,86114,69752,19,0,0,19,Parts_change,Service_center,4,1070,Non Metro,Madhya Pradesh,West,3,2,6,5,Gold1
+218,218,219,48,Female,Old,Kanpur,109,Mobile/Tablet,Android,No,4,5,11,3,33668,27271,19,0,0,35,Product_upgrade,Customer_support,5,10100,Non Metro,Uttar Pradesh,North,3,2,3,3,Silver1
+219,219,220,38,Male,Middle,Bhavnagar,166,Laptop/PC,Linux,Yes,2,3,31,9,86114,81808,5,0,0,27,Parts_change,Service_center,5,2249,Non Metro,Gujrat,West,3,7,6,4,Gold2
+220,220,221,39,Female,Middle,Vasai-VirarCity,89,Mobile/Tablet,Android,Yes,3,7,23,6,47192,39169,17,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,6,3,5,3,Silver1
+221,221,222,22,Male,Young,Tiruppur,139,Mobile/Tablet,Android,Yes,2,7,39,15,86114,75780,12,0,0,20,Product_upgrade,Customer_support,2,25834,Non Metro,Tamil Nadu,South,3,2,6,5,Gold1
+222,222,223,30,Male,Young,Belgaum,141,Laptop/PC,Windows,Yes,0,7,45,18,56323,53506,5,0,0,28,Parts_change,Service_center,5,1118,Non Metro,Karnartaka,South,6,3,5,5,Silver1
+223,223,224,57,Male,Old,Kolkata,136,Laptop/PC,Windows,Yes,5,6,23,6,78227,63363,19,0,0,29,Parts_change,Service_center,5,1199,Metro,West Bengal,East,4,4,6,3,Gold1
+224,224,225,30,Female,Young,Bijapur,131,Laptop/PC,Linux,Yes,3,6,45,18,47192,44832,5,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,4,9,5,5,Silver2
+225,225,226,43,Female,Middle,Thiruvananthapuram,153,Mobile/Tablet,iOS,No,4,3,10,3,33668,31984,5,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Kerela,South,6,3,7,2,Gold1
+226,226,227,35,Male,Middle,Chandigarh,140,Laptop/PC,Linux,Yes,4,4,35,10,33668,25924,23,0,0,24,Parts_change,Service_center,5,1282,Non Metro,Punjab,North,4,9,3,4,Silver2
+227,227,228,32,Female,Young,Sangli,143,Laptop/PC,Windows,Yes,0,10,42,16,56323,43368,23,0,0,23,Product_upgrade,Customer_support,3,16896,Non Metro,Maharashtra,South,6,3,5,5,Silver1
+228,228,229,46,Male,Old,Palakkad,137,Mobile/Tablet,Android,No,3,3,11,3,47192,36337,23,1,0,12,Technical_Queries,Customer_support,5,0,Non Metro,Kerela,South,2,2,5,3,Silver1
+229,229,230,33,Female,Young,Sangli,159,Mobile/Tablet,iOS,Yes,1,4,49,19,89528,85051,5,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,8,4,10,5,Platinum1
+230,230,231,34,Male,Young,Belgaum,135,Laptop/PC,Windows,No,2,4,39,15,86114,75780,12,0,0,22,Parts_change,Service_center,4,1733,Non Metro,Karnartaka,South,3,2,6,5,Gold1
+231,231,232,55,Male,Old,Gurgaon,143,Laptop/PC,Windows,No,5,1,22,6,78227,63363,19,0,0,22,Parts_change,Service_center,4,677,Non Metro,Haryana,North,3,2,6,3,Gold1
+232,232,233,49,Male,Old,Kota,150,Laptop/PC,Linux,No,5,1,18,5,78227,60234,23,0,0,24,Parts_change,Service_center,5,689,Non Metro,Rajasthan,West,4,9,6,3,Gold2
+233,233,234,38,Male,Middle,Aurangabad,137,Mobile/Tablet,iOS,No,3,4,33,9,47192,36337,23,1,5,7,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,4,4,9,4,Platinum1
+234,234,235,47,Female,Old,Jamshedpur,134,Laptop/PC,Windows,Yes,3,1,29,8,47192,39169,17,1,0,12,Parts_change,Service_center,4,653,Non Metro,Jharkhand,East,3,2,5,3,Silver1
+235,235,236,53,Male,Old,Faridabad,108,Mobile/Tablet,Android,No,4,1,5,1,33668,31984,5,1,5,7,Technical_Queries,Remote_sharing,4,0,Non Metro,Haryana,North,2,2,3,2,Silver1
+236,236,237,25,Female,Young,Madurai,183,Laptop/PC,Windows,Yes,2,10,51,20,86114,69752,19,0,0,36,Product_upgrade,Customer_support,5,25834,Non Metro,Tamil Nadu,South,3,2,6,5,Gold1
+237,237,238,51,Female,Old,Ujjain,108,Mobile/Tablet,Android,No,3,3,13,3,47192,39169,17,0,0,16,Parts_change,Service_center,5,1364,Non Metro,Punjab,North,1,2,5,3,Silver1
+238,238,239,54,Male,Old,Jaipur,116,Laptop/PC,Linux,Yes,4,3,2,0,33668,27944,17,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,2,7,3,2,Silver2
+239,239,240,37,Male,Middle,Madurai,63,Laptop/PC,Linux,No,4,4,20,6,33668,31984,5,0,0,19,Product_upgrade,Customer_support,4,10100,Non Metro,Tamil Nadu,South,5,8,3,3,Silver2
+240,240,241,37,Female,Middle,Kottayam,106,Mobile/Tablet,iOS,Yes,3,3,18,5,47192,39169,17,0,0,37,Product_upgrade,Customer_support,5,14157,Non Metro,Kerela,South,3,2,9,3,Platinum1
+241,241,242,20,Male,Young,Palakkad,161,Mobile/Tablet,iOS,Yes,0,3,57,22,56323,46748,17,0,0,39,Product_upgrade,Customer_support,5,16896,Non Metro,Kerela,South,5,3,9,5,Platinum1
+242,242,243,26,Male,Young,Ghaziabad,206,Laptop/PC,Windows,Yes,0,3,57,22,56323,53506,5,0,0,26,Parts_change,Service_center,4,1676,Non Metro,Uttar Pradesh,North,4,4,5,5,Silver1
+243,243,244,34,Female,Young,Allahabad,154,Mobile/Tablet,Android,Yes,0,10,42,16,56323,45621,19,0,0,35,Parts_change,Service_center,4,1193,Non Metro,Uttar Pradesh,North,5,3,5,5,Silver1
+244,244,245,55,Female,Old,Kottayam,106,Mobile/Tablet,Android,No,5,5,13,3,78227,60234,23,0,0,21,Parts_change,Service_center,5,1901,Non Metro,Kerela,South,1,2,6,3,Gold1
+245,245,246,38,Male,Middle,Erode,69,Mobile/Tablet,iOS,Yes,4,8,22,6,33668,27944,17,0,0,27,Parts_change,Service_center,4,689,Non Metro,Tamil Nadu,South,4,4,7,3,Gold1
+246,246,247,31,Male,Young,Meerut,168,Laptop/PC,Windows,Yes,2,8,48,19,86114,66307,23,0,0,19,Parts_change,Service_center,4,1259,Non Metro,Uttar Pradesh,North,7,4,6,5,Gold1
+247,247,248,29,Female,Young,Agra,154,Laptop/PC,Windows,No,0,10,49,19,56323,43368,23,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,6,3,5,5,Silver1
+248,248,249,30,Male,Young,Tiruppur,132,Laptop/PC,Windows,Yes,2,10,49,19,86114,71474,17,0,0,26,Product_upgrade,Customer_support,3,25834,Non Metro,Tamil Nadu,South,5,3,6,5,Gold1
+249,249,250,21,Female,Young,Hubli–Dharwad,215,Laptop/PC,Windows,No,2,4,50,20,86114,66307,23,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Karnartaka,South,6,3,6,5,Gold1
+250,250,251,19,Male,Young,Bhilai,207,Mobile/Tablet,Android,No,2,4,30,12,86114,69752,19,0,0,21,Parts_change,Service_center,5,2131,Non Metro,Chattisgarh,East,7,4,6,4,Gold1
+251,251,252,23,Female,Young,Ranchi,144,Mobile/Tablet,iOS,Yes,3,6,54,21,47192,39169,17,0,0,31,Parts_change,Service_center,5,1221,Non Metro,Jharkhand,East,9,4,9,5,Platinum1
+252,252,253,59,Female,Old,Jodhpur,116,Mobile/Tablet,iOS,No,3,3,16,4,47192,44832,5,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Rajasthan,West,3,2,9,3,Platinum1
+253,253,254,22,Male,Young,Nellore,186,Laptop/PC,Windows,Yes,0,3,36,14,56323,53506,5,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,3,2,5,5,Silver1
+254,254,255,48,Male,Old,Varanasi,126,Laptop/PC,Linux,No,4,5,23,6,33668,27944,17,0,0,14,Parts_change,Service_center,5,1946,Non Metro,Uttar Pradesh,North,4,9,3,3,Silver2
+255,255,256,42,Female,Middle,Kochi,114,Mobile/Tablet,iOS,No,3,3,22,6,47192,39169,17,0,0,17,Product_upgrade,Customer_support,2,14157,Non Metro,Kerela,South,3,2,9,3,Platinum1
+256,256,257,33,Female,Young,Surat,186,Laptop/PC,Windows,Yes,1,7,41,16,89528,74308,17,0,0,16,Product_upgrade,Customer_support,2,26858,Metro,Gujrat,West,8,4,6,5,Gold1
+257,257,258,44,Male,Middle,Jhansi,174,Laptop/PC,Linux,No,3,7,18,5,47192,38225,19,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,6,8,5,3,Silver2
+258,258,259,22,Female,Young,Malappuram,147,Mobile/Tablet,iOS,No,1,6,56,22,89528,78784,12,0,0,28,Parts_change,Service_center,5,1121,Non Metro,Kerela,South,6,3,10,5,Platinum1
+259,259,260,37,Male,Middle,Mysore,50,Laptop/PC,Linux,Yes,3,6,30,9,47192,38225,19,0,0,33,Parts_change,Service_center,5,1575,Non Metro,Karnartaka,South,4,9,5,3,Silver2
+260,260,261,27,Female,Young,Patna,205,Mobile/Tablet,iOS,Yes,1,4,50,20,89528,74308,17,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Bihar,East,7,4,10,5,Platinum1
+261,261,262,55,Female,Old,Bareilly,134,Mobile/Tablet,Android,Yes,5,1,18,5,78227,64928,17,1,0,12,Parts_change,Service_center,5,2377,Non Metro,Uttar Pradesh,North,2,2,6,3,Gold1
+262,262,263,39,Female,Middle,Kollam,141,Laptop/PC,Linux,Yes,2,4,11,3,86114,69752,19,0,0,19,Parts_change,Service_center,4,857,Non Metro,Kerela,South,6,8,6,3,Gold2
+263,263,264,25,Male,Young,Ludhiana,197,Mobile/Tablet,iOS,No,2,4,51,20,86114,71474,17,1,2,10,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,5,3,10,5,Platinum1
+264,264,265,55,Male,Old,Aligarh,139,Mobile/Tablet,iOS,Yes,3,5,24,7,47192,38225,19,1,6,6,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,4,4,9,3,Platinum1
+265,265,266,54,Male,Old,Mysore,106,Mobile/Tablet,iOS,No,3,3,16,4,47192,44832,5,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,4,4,9,3,Platinum1
+266,266,267,41,Male,Middle,Ranchi,136,Laptop/PC,Linux,Yes,4,6,20,6,33668,29627,12,0,0,22,Product_upgrade,Customer_support,2,10100,Non Metro,Jharkhand,East,4,9,3,3,Silver2
+267,267,268,28,Female,Young,Bhilai,169,Laptop/PC,Linux,No,3,9,40,16,47192,36337,23,1,3,9,Parts_change,Service_center,4,2427,Non Metro,Chattisgarh,East,6,8,5,5,Silver2
+268,268,269,35,Female,Young,Warangal,214,Laptop/PC,Linux,No,3,6,49,19,47192,36337,23,0,0,25,Product_upgrade,Customer_support,2,14157,Non Metro,Telangana,South,6,8,5,5,Silver2
+269,269,270,30,Female,Young,Chandigarh,219,Mobile/Tablet,Android,No,3,4,60,24,47192,39169,17,0,0,25,Product_upgrade,Customer_support,2,14157,Non Metro,Punjab,North,3,2,5,5,Silver1
+270,270,271,39,Male,Middle,Jamshedpur,92,Mobile/Tablet,Android,Yes,4,7,37,11,33668,27944,17,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,4,4,3,5,Silver1
+271,271,272,40,Female,Middle,Malappuram,69,Mobile/Tablet,Android,Yes,3,8,14,4,47192,41528,12,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,3,2,5,3,Silver1
+272,272,273,35,Male,Middle,Gwalior,191,Mobile/Tablet,Android,No,4,4,36,10,33668,29627,12,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Madhya Pradesh,West,5,3,3,4,Silver1
+273,273,274,37,Female,Middle,Visakhapatnam,124,Laptop/PC,Linux,Yes,2,4,25,7,86114,71474,17,1,7,5,Technical_Queries,Remote_sharing,4,0,Metro,Andhra Pradesh,South,6,8,6,3,Gold2
+274,274,275,43,Male,Middle,Mangalore,176,Mobile/Tablet,iOS,Yes,3,7,25,7,47192,44832,5,0,0,39,Product_upgrade,Customer_support,3,14157,Non Metro,Karnartaka,South,6,3,9,3,Platinum1
+275,275,276,23,Female,Young,Vasai-VirarCity,206,Mobile/Tablet,Android,No,1,9,54,21,89528,72517,19,0,0,28,Product_upgrade,Customer_support,2,26858,Non Metro,Maharashtra,South,8,4,6,5,Gold1
+276,276,277,55,Male,Old,Faridabad,150,Mobile/Tablet,Android,No,5,3,15,4,78227,60234,23,1,1,11,Technical_Queries,Customer_support,5,0,Non Metro,Haryana,North,1,2,6,3,Gold1
+277,277,278,35,Female,Old,Vijayawada,202,Mobile/Tablet,iOS,No,3,5,24,7,47192,41528,12,1,3,9,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,2,2,9,3,Platinum1
+278,278,279,60,Male,Old,Pune,105,Mobile/Tablet,Android,No,5,5,20,6,78227,60234,23,1,8,4,Technical_Queries,Remote_sharing,4,0,Metro,Maharashtra,South,4,4,6,3,Gold1
+279,279,280,26,Male,Young,Kolhapur,167,Laptop/PC,Windows,Yes,2,5,58,23,86114,69752,19,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,6,3,6,5,Gold1
+280,280,281,52,Male,Old,Vellore,110,Laptop/PC,Linux,Yes,3,3,23,6,47192,36337,23,0,0,22,Parts_change,Service_center,4,1443,Non Metro,Tamil Nadu,South,4,9,5,3,Silver2
+281,281,282,39,Female,Middle,Amravati,85,Laptop/PC,Windows,Yes,3,4,34,10,47192,36337,23,1,7,5,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,4,4,5,4,Silver1
+282,282,283,52,Female,Old,Tiruchirappalli,130,Laptop/PC,Windows,No,4,5,2,0,33668,27944,17,0,0,23,Product_upgrade,Customer_support,2,10100,Non Metro,Tamil Nadu,South,2,2,3,2,Silver1
+283,283,284,52,Female,Old,Ujjain,117,Laptop/PC,Linux,No,5,5,9,2,78227,68839,12,0,0,16,Parts_change,Service_center,5,862,Non Metro,Punjab,North,3,7,6,2,Gold2
+284,284,285,50,Male,Old,Dhanbad,148,Mobile/Tablet,iOS,Yes,5,6,7,2,78227,74315,5,1,3,9,Parts_change,Service_center,5,1740,Non Metro,Jharkhand,East,4,4,10,2,Platinum1
+285,285,286,37,Male,Middle,Nanded,136,Laptop/PC,Windows,Yes,2,4,40,12,86114,71474,17,0,0,38,Product_upgrade,Customer_support,4,25834,Non Metro,Maharashtra,South,7,4,6,5,Gold1
+286,286,287,36,Male,Middle,Dhanbad,161,Mobile/Tablet,iOS,Yes,2,8,39,11,86114,66307,23,0,0,19,Parts_change,Service_center,4,461,Non Metro,Jharkhand,East,3,2,10,5,Platinum1
+287,287,288,39,Male,Middle,Jodhpur,132,Laptop/PC,Windows,Yes,3,7,25,7,47192,41528,12,1,0,12,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,3,2,5,3,Silver1
+288,288,289,57,Male,Old,Visakhapatnam,115,Laptop/PC,Linux,Yes,3,1,23,6,47192,41528,12,0,0,13,Parts_change,Service_center,4,1221,Metro,Andhra Pradesh,South,4,9,5,3,Silver2
+289,289,290,34,Male,Young,Rajkot,219,Laptop/PC,Linux,No,0,1,33,13,56323,45621,19,1,0,12,Parts_change,Service_center,5,1724,Non Metro,Gujrat,West,9,9,5,5,Silver2
+290,290,291,31,Male,Young,BokaroSteelCity,201,Laptop/PC,Linux,No,1,1,50,20,89528,68936,23,0,0,22,Parts_change,Service_center,5,2131,Non Metro,Jharkhand,East,5,8,6,5,Gold2
+291,291,292,21,Female,Young,Jabalpur,165,Mobile/Tablet,iOS,No,0,6,60,24,56323,49564,12,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Madhya Pradesh,West,3,2,9,5,Platinum1
+292,292,293,34,Male,Young,Kolhapur,193,Laptop/PC,Windows,No,2,6,48,19,86114,66307,23,0,0,19,Product_upgrade,Customer_support,5,25834,Non Metro,Maharashtra,South,7,4,6,5,Gold1
+293,293,294,45,Female,Middle,Ahmedabad,109,Mobile/Tablet,Android,Yes,2,6,12,3,86114,71474,17,0,0,29,Parts_change,Service_center,4,1106,Metro,Gujrat,West,4,4,6,3,Gold1
+294,294,295,36,Female,Middle,Guntur,127,Mobile/Tablet,Android,No,4,6,30,9,33668,27944,17,0,0,35,Product_upgrade,Customer_support,2,10100,Non Metro,Andhra Pradesh,South,4,4,3,3,Silver1
+295,295,296,22,Female,Young,Rajahmundry,205,Mobile/Tablet,iOS,No,3,4,54,21,47192,39169,17,1,0,12,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,7,4,9,5,Platinum1
+296,296,297,30,Male,Young,Pune,175,Mobile/Tablet,Android,Yes,0,4,35,14,56323,49564,12,1,12,0,Technical_Queries,Customer_support,5,0,Metro,Maharashtra,South,9,4,5,5,Silver1
+297,297,298,48,Female,Old,Visakhapatnam,120,Laptop/PC,Windows,No,3,6,26,7,47192,41528,12,1,6,6,Technical_Queries,Remote_sharing,4,0,Metro,Andhra Pradesh,South,2,2,5,3,Silver1
+298,298,299,47,Female,Old,Bhavnagar,128,Mobile/Tablet,Android,Yes,5,3,12,3,78227,68839,12,1,5,7,Technical_Queries,Customer_support,5,0,Non Metro,Gujrat,West,3,2,6,3,Gold1
+299,299,300,50,Male,Old,Visakhapatnam,147,Mobile/Tablet,iOS,No,5,3,25,7,78227,63363,19,0,0,14,Parts_change,Service_center,5,2129,Metro,Andhra Pradesh,South,2,2,10,3,Platinum1
+300,300,301,21,Male,Young,Srinagar,213,Mobile/Tablet,Android,Yes,1,3,53,21,89528,74308,17,0,0,28,Parts_change,Service_center,4,2242,Non Metro,Jammu and Kashmir,North,5,3,6,5,Gold1
+301,301,302,44,Male,Middle,Faridabad,170,Laptop/PC,Windows,Yes,3,4,20,6,47192,44832,5,0,0,16,Product_upgrade,Customer_support,2,14157,Non Metro,Haryana,North,3,2,5,3,Silver1
+302,302,303,51,Female,Old,Jamshedpur,128,Laptop/PC,Linux,Yes,4,3,17,5,33668,31984,5,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,3,7,3,3,Silver2
+303,303,304,38,Male,Middle,Tiruvannamalai,84,Mobile/Tablet,Android,Yes,4,4,36,10,33668,31984,5,1,5,7,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,6,3,3,4,Silver1
+304,304,305,44,Male,Middle,Siliguri,125,Mobile/Tablet,Android,Yes,2,3,35,10,86114,66307,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Assam,East,4,4,6,4,Gold1
+305,305,306,55,Female,Old,Aurangabad,140,Laptop/PC,Linux,No,3,1,14,4,47192,36337,23,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,1,7,5,3,Silver2
+306,306,307,59,Male,Old,Gwalior,127,Mobile/Tablet,Android,No,3,1,20,6,47192,44832,5,0,0,13,Product_upgrade,Customer_support,5,14157,Non Metro,Madhya Pradesh,West,3,2,5,3,Silver1
+307,307,308,26,Male,Young,Kozhikode,151,Laptop/PC,Windows,No,2,1,27,10,86114,66307,23,1,3,9,Parts_change,Service_center,4,468,Non Metro,Kerela,South,5,3,6,3,Gold1
+308,308,309,30,Male,Young,Hyderabad,195,Mobile/Tablet,Android,No,2,1,43,17,86114,81808,5,1,2,10,Parts_change,Service_center,4,1941,Metro,Telangana,South,9,4,6,5,Gold1
+309,309,310,49,Female,Old,Kakinada,143,Mobile/Tablet,Android,Yes,4,3,28,8,33668,29627,12,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,2,2,3,3,Silver1
+310,310,311,23,Male,Young,Ajmer,166,Mobile/Tablet,iOS,No,1,3,49,19,89528,72517,19,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,4,4,10,5,Platinum1
+311,311,312,46,Male,Old,Ludhiana,129,Mobile/Tablet,Android,No,3,3,30,9,47192,41528,12,0,0,37,Product_upgrade,Customer_support,5,14157,Non Metro,Punjab,North,3,2,5,3,Silver1
+312,312,313,26,Female,Young,Meerut,215,Laptop/PC,Linux,No,0,4,52,20,56323,43368,23,0,0,17,Product_upgrade,Customer_support,5,16896,Non Metro,Uttar Pradesh,North,3,7,5,5,Silver2
+313,313,314,43,Female,Middle,Agra,62,Laptop/PC,Linux,No,4,6,22,6,33668,31984,5,0,0,37,Product_upgrade,Customer_support,4,10100,Non Metro,Uttar Pradesh,North,6,8,3,3,Silver2
+314,314,315,59,Female,Old,Salem,103,Mobile/Tablet,iOS,Yes,4,5,26,7,33668,29627,12,0,0,39,Product_upgrade,Customer_support,2,10100,Non Metro,Tamil Nadu,South,1,2,7,3,Gold1
+315,315,316,18,Male,Young,Surat,149,Mobile/Tablet,iOS,Yes,2,5,36,14,86114,71474,17,0,0,29,Product_upgrade,Customer_support,2,25834,Metro,Gujrat,West,4,4,10,5,Platinum1
+316,316,317,46,Female,Old,Bhiwandi,144,Laptop/PC,Windows,No,4,6,20,6,33668,31984,5,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,4,4,3,3,Silver1
+317,317,318,25,Female,Young,Malappuram,175,Mobile/Tablet,iOS,Yes,3,6,50,20,47192,44832,5,1,5,7,Parts_change,Service_center,5,1801,Non Metro,Kerela,South,8,4,9,5,Platinum1
+318,318,319,45,Male,Middle,Hubli–Dharwad,129,Laptop/PC,Windows,Yes,2,8,23,6,86114,81808,5,0,0,34,Product_upgrade,Customer_support,2,25834,Non Metro,Karnartaka,South,5,3,6,3,Gold1
+319,319,320,50,Male,Old,Sangli,124,Mobile/Tablet,Android,No,3,5,19,5,47192,41528,12,0,0,36,Product_upgrade,Customer_support,2,14157,Non Metro,Maharashtra,South,3,2,5,3,Silver1
+320,320,321,38,Male,Middle,Ghaziabad,65,Laptop/PC,Linux,Yes,2,8,11,3,86114,69752,19,0,0,27,Product_upgrade,Customer_support,3,25834,Non Metro,Uttar Pradesh,North,6,8,6,3,Gold2
+321,321,322,25,Male,Young,Tirupati,213,Mobile/Tablet,iOS,No,1,8,40,16,89528,68936,23,1,2,10,Parts_change,Service_center,5,1855,Non Metro,Andhra Pradesh,South,4,4,10,5,Platinum1
+322,322,323,21,Female,Young,Kakinada,200,Laptop/PC,Windows,Yes,3,4,46,18,47192,44832,5,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,5,3,5,5,Silver1
+323,323,324,27,Female,Young,Gorakhpur,166,Laptop/PC,Linux,No,0,10,53,21,56323,49564,12,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Haryana,North,3,7,5,5,Silver2
+324,324,325,43,Male,Middle,Mathura,50,Mobile/Tablet,iOS,No,3,8,18,5,47192,44832,5,0,0,27,Parts_change,Service_center,5,770,Non Metro,Uttar Pradesh,North,5,3,9,3,Platinum1
+325,325,326,55,Male,Old,Noida,125,Laptop/PC,Linux,No,4,5,1,0,33668,25924,23,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,1,7,3,2,Silver2
+326,326,327,23,Male,Young,Siliguri,213,Laptop/PC,Linux,Yes,2,5,57,22,86114,69752,19,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Assam,East,6,8,6,5,Gold2
+327,327,328,43,Male,Middle,Ujjain,123,Mobile/Tablet,Android,No,4,7,19,5,33668,27271,19,0,0,39,Product_upgrade,Customer_support,5,10100,Non Metro,Punjab,North,3,2,3,3,Silver1
+328,328,329,42,Female,Middle,Firozabad,176,Mobile/Tablet,iOS,No,3,8,39,11,47192,36337,23,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,5,3,9,5,Platinum1
+329,329,330,52,Male,Old,Bhiwandi,116,Laptop/PC,Linux,Yes,4,5,10,3,33668,25924,23,0,0,21,Product_upgrade,Customer_support,5,10100,Non Metro,Maharashtra,South,2,7,3,2,Silver2
+330,330,331,23,Male,Young,Ujjain,194,Mobile/Tablet,Android,Yes,0,5,55,22,56323,46748,17,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,9,4,5,5,Silver1
+331,331,332,51,Female,Old,Bhavnagar,118,Laptop/PC,Windows,No,3,5,18,5,47192,39169,17,0,0,26,Product_upgrade,Customer_support,4,14157,Non Metro,Gujrat,West,3,2,5,3,Silver1
+332,332,333,22,Female,Young,BokaroSteelCity,131,Laptop/PC,Linux,No,0,10,40,16,56323,46748,17,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,4,9,5,5,Silver2
+333,333,334,58,Female,Old,Jalandhar,100,Laptop/PC,Windows,Yes,5,1,30,9,78227,68839,12,0,0,38,Product_upgrade,Customer_support,4,23468,Non Metro,Punjab,North,3,2,6,3,Gold1
+334,334,335,19,Male,Young,Jhansi,202,Mobile/Tablet,iOS,No,0,1,31,12,56323,53506,5,0,0,33,Product_upgrade,Customer_support,4,16896,Non Metro,Uttar Pradesh,North,6,3,9,5,Platinum1
+335,335,336,47,Male,Old,Vellore,145,Laptop/PC,Linux,No,3,6,26,7,47192,36337,23,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,2,7,5,3,Silver2
+336,336,337,20,Female,Young,Kannur,213,Mobile/Tablet,iOS,Yes,1,10,50,20,89528,78784,12,0,0,39,Product_upgrade,Customer_support,5,26858,Non Metro,Kerela,South,5,3,10,5,Platinum1
+337,337,338,53,Female,Old,Bareilly,115,Laptop/PC,Linux,Yes,5,1,24,7,78227,74315,5,0,0,17,Product_upgrade,Customer_support,3,23468,Non Metro,Uttar Pradesh,North,2,7,6,3,Gold2
+338,338,339,52,Male,Old,Jammu,136,Laptop/PC,Windows,No,4,6,29,8,33668,31984,5,0,0,22,Product_upgrade,Customer_support,2,10100,Non Metro,Jammu and Kashmir,North,3,2,3,3,Silver1
+339,339,340,53,Male,Old,Patna,113,Laptop/PC,Windows,No,5,3,4,1,78227,60234,23,1,5,7,Technical_Queries,Remote_sharing,5,0,Non Metro,Bihar,East,2,2,6,2,Gold1
+340,340,341,38,Male,Middle,Varanasi,110,Mobile/Tablet,Android,Yes,2,3,32,9,86114,66307,23,0,0,20,Product_upgrade,Customer_support,2,25834,Non Metro,Uttar Pradesh,North,6,3,6,4,Gold1
+341,341,342,45,Female,Middle,Dhanbad,116,Mobile/Tablet,iOS,No,3,7,33,9,47192,41528,12,0,0,29,Parts_change,Service_center,5,706,Non Metro,Jharkhand,East,4,4,9,4,Platinum1
+342,342,343,23,Male,Young,Jalandhar,197,Laptop/PC,Linux,No,0,7,40,16,56323,45621,19,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Punjab,North,9,9,5,5,Silver2
+343,343,344,26,Female,Young,Kolhapur,155,Laptop/PC,Linux,Yes,1,4,45,18,89528,72517,19,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,6,8,6,5,Gold2
+344,344,345,56,Female,Old,Belgaum,122,Mobile/Tablet,iOS,Yes,4,5,8,2,33668,27944,17,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,1,2,7,2,Gold1
+345,345,346,42,Male,Middle,Allahabad,130,Laptop/PC,Linux,Yes,4,3,10,3,33668,29627,12,1,3,9,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,5,8,3,2,Silver2
+346,346,347,58,Male,Old,Gurgaon,104,Mobile/Tablet,Android,Yes,3,6,29,8,47192,44832,5,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Haryana,North,2,2,5,3,Silver1
+347,347,348,24,Female,Young,Siliguri,162,Laptop/PC,Windows,No,1,6,56,22,89528,74308,17,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Assam,East,4,4,6,5,Gold1
+348,348,349,52,Male,Old,Agra,134,Laptop/PC,Windows,No,5,6,9,2,78227,60234,23,1,0,12,Parts_change,Service_center,4,1346,Non Metro,Uttar Pradesh,North,3,2,6,2,Gold1
+349,349,350,37,Male,Middle,Ujjain,132,Laptop/PC,Windows,Yes,4,3,34,10,33668,27944,17,0,0,26,Product_upgrade,Customer_support,5,10100,Non Metro,Punjab,North,3,2,3,4,Silver1
+350,350,351,35,Male,Middle,Belgaum,172,Mobile/Tablet,iOS,No,3,3,37,11,47192,44832,5,0,0,15,Parts_change,Service_center,5,1096,Non Metro,Karnartaka,South,6,3,9,5,Platinum1
+351,351,352,44,Male,Middle,Tirupati,149,Mobile/Tablet,Android,Yes,3,6,25,7,47192,36337,23,1,12,0,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,6,3,5,3,Silver1
+352,352,353,42,Male,Middle,Warangal,150,Mobile/Tablet,Android,Yes,4,3,29,8,33668,29627,12,1,8,4,Technical_Queries,Customer_support,5,0,Non Metro,Telangana,South,7,4,3,3,Silver1
+353,353,354,52,Female,Old,Solapur,121,Laptop/PC,Linux,No,3,1,17,5,47192,39169,17,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,1,7,5,3,Silver2
+354,354,355,32,Male,Young,Jhansi,170,Laptop/PC,Windows,No,0,1,59,23,56323,49564,12,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,3,2,5,5,Silver1
+355,355,356,50,Female,Old,Mysore,109,Laptop/PC,Linux,Yes,3,5,24,7,47192,36337,23,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,1,7,5,3,Silver2
+356,356,357,36,Female,Middle,Tiruchirappalli,170,Mobile/Tablet,Android,No,2,4,24,7,86114,71474,17,1,5,7,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,7,4,6,3,Gold1
+357,357,358,27,Female,Young,Ahmedabad,160,Mobile/Tablet,iOS,No,3,9,50,20,47192,36337,23,0,0,36,Product_upgrade,Customer_support,3,14157,Metro,Gujrat,West,4,4,9,5,Platinum1
+358,358,359,50,Female,Old,Dehradun,142,Mobile/Tablet,Android,Yes,5,1,11,3,78227,63363,19,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Uttrakhand,North,2,2,6,3,Gold1
+359,359,360,24,Male,Young,Ghaziabad,173,Mobile/Tablet,iOS,No,2,1,55,22,86114,81808,5,0,0,22,Product_upgrade,Customer_support,2,25834,Non Metro,Uttar Pradesh,North,7,4,10,5,Platinum1
+360,360,361,40,Male,Middle,Pune,168,Laptop/PC,Linux,Yes,4,8,18,5,33668,29627,12,0,0,30,Parts_change,Service_center,5,1572,Metro,Maharashtra,South,4,9,3,3,Silver2
+361,361,362,20,Male,Young,Jamnagar,152,Mobile/Tablet,iOS,Yes,0,8,45,18,56323,49564,12,0,0,32,Parts_change,Service_center,5,1411,Non Metro,Gujrat,West,6,3,9,5,Platinum1
+362,362,363,60,Male,Old,Bikaner,127,Mobile/Tablet,iOS,Yes,4,5,15,4,33668,31984,5,0,0,17,Parts_change,Service_center,5,2439,Non Metro,Rajasthan,West,3,2,7,3,Gold1
+363,363,364,45,Male,Middle,Varanasi,139,Mobile/Tablet,Android,Yes,2,8,24,7,86114,75780,12,1,2,10,Parts_change,Service_center,5,1568,Non Metro,Uttar Pradesh,North,7,4,6,3,Gold1
+364,364,365,24,Male,Young,Belgaum,216,Mobile/Tablet,iOS,Yes,2,8,29,11,86114,75780,12,0,0,19,Parts_change,Service_center,5,1753,Non Metro,Karnartaka,South,9,4,10,4,Platinum1
+365,365,366,31,Female,Young,Kolhapur,194,Mobile/Tablet,iOS,Yes,2,4,44,17,86114,81808,5,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,7,4,10,5,Platinum1
+366,366,367,57,Female,Old,Tirupati,117,Mobile/Tablet,Android,No,4,6,20,6,33668,29627,12,0,0,34,Parts_change,Service_center,5,590,Non Metro,Andhra Pradesh,South,3,2,3,3,Silver1
+367,367,368,57,Male,Old,Tiruppur,150,Mobile/Tablet,Android,No,3,6,5,1,47192,41528,12,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,2,2,5,2,Silver1
+368,368,369,22,Female,Young,Rourkela,166,Laptop/PC,Linux,No,3,6,49,19,47192,44832,5,0,0,21,Parts_change,Service_center,4,2029,Non Metro,Orissa,East,8,9,5,5,Silver2
+369,369,370,31,Female,Young,Palakkad,170,Laptop/PC,Windows,No,2,9,48,19,86114,66307,23,0,0,34,Parts_change,Service_center,4,1332,Non Metro,Kerela,South,4,4,6,5,Gold1
+370,370,371,35,Male,Young,Kochi,147,Mobile/Tablet,iOS,Yes,1,9,26,10,89528,72517,19,1,5,7,Parts_change,Service_center,5,658,Non Metro,Kerela,South,7,4,10,3,Platinum1
+371,371,372,51,Female,Old,Nanded,105,Laptop/PC,Linux,Yes,4,6,15,4,33668,31984,5,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Maharashtra,South,1,7,3,3,Silver2
+372,372,373,33,Female,Young,Bhubaneswar,183,Laptop/PC,Windows,No,3,6,44,17,47192,38225,19,0,0,24,Parts_change,Service_center,4,1238,Non Metro,Orissa,East,5,3,5,5,Silver1
+373,373,374,48,Male,Old,Kolhapur,131,Mobile/Tablet,Android,No,5,3,9,2,78227,68839,12,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,1,2,6,2,Gold1
+374,374,375,44,Male,Middle,Kannur,179,Laptop/PC,Windows,Yes,3,3,13,3,47192,36337,23,0,0,22,Product_upgrade,Customer_support,4,14157,Non Metro,Kerela,South,5,3,5,3,Silver1
+375,375,376,60,Male,Old,Hyderabad,148,Mobile/Tablet,Android,Yes,4,6,14,4,33668,27271,19,0,0,35,Parts_change,Service_center,5,2287,Metro,Telangana,South,1,2,3,3,Silver1
+376,376,377,22,Female,Young,Jhansi,216,Laptop/PC,Windows,No,2,10,43,17,86114,69752,19,0,0,29,Parts_change,Service_center,4,2010,Non Metro,Uttar Pradesh,North,5,3,6,5,Gold1
+377,377,378,40,Male,Middle,Surat,137,Laptop/PC,Windows,No,4,6,30,9,33668,31984,5,1,11,1,Technical_Queries,Remote_sharing,4,0,Metro,Gujrat,West,4,4,3,3,Silver1
+378,378,379,50,Female,Old,Kolhapur,121,Mobile/Tablet,Android,No,4,1,12,3,33668,27944,17,0,0,14,Parts_change,Service_center,4,1386,Non Metro,Maharashtra,South,2,2,3,3,Silver1
+379,379,380,47,Male,Old,Bhopal,110,Laptop/PC,Windows,No,3,3,22,6,47192,36337,23,0,0,28,Parts_change,Service_center,5,2331,Non Metro,Madhya Pradesh,West,2,2,5,3,Silver1
+380,380,381,55,Male,Old,Dehradun,123,Laptop/PC,Linux,No,3,1,12,3,47192,39169,17,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Uttrakhand,North,4,9,5,3,Silver2
+381,381,382,33,Male,Young,Jamshedpur,140,Mobile/Tablet,Android,No,0,1,40,16,56323,53506,5,1,8,4,Technical_Queries,Customer_support,5,0,Non Metro,Jharkhand,East,4,4,5,5,Silver1
+382,382,383,18,Male,Young,Meerut,130,Laptop/PC,Windows,Yes,1,1,29,11,89528,78784,12,0,0,35,Product_upgrade,Customer_support,5,26858,Non Metro,Uttar Pradesh,North,9,4,6,4,Gold1
+383,383,384,43,Female,Middle,Bhilai,62,Laptop/PC,Linux,No,3,8,32,9,47192,41528,12,0,0,29,Product_upgrade,Customer_support,3,14157,Non Metro,Chattisgarh,East,5,8,5,4,Silver2
+384,384,385,56,Female,Old,Bangalore,126,Mobile/Tablet,Android,No,5,5,10,3,78227,68839,12,1,10,2,Technical_Queries,Customer_support,4,0,Metro,Karnartaka,South,4,4,6,2,Gold1
+385,385,386,26,Male,Young,Kannur,170,Mobile/Tablet,iOS,Yes,2,5,44,17,86114,75780,12,0,0,18,Parts_change,Service_center,4,959,Non Metro,Kerela,South,7,4,10,5,Platinum1
+386,386,387,48,Female,Old,Patna,145,Mobile/Tablet,Android,No,3,6,27,8,47192,41528,12,0,0,23,Product_upgrade,Customer_support,3,14157,Non Metro,Bihar,East,1,2,5,3,Silver1
+387,387,388,19,Male,Young,Jaipur,212,Mobile/Tablet,Android,Yes,0,6,42,16,56323,43368,23,1,3,9,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,3,2,5,5,Silver1
+388,388,389,44,Female,Middle,Lucknow,92,Mobile/Tablet,iOS,Yes,2,3,36,10,86114,66307,23,0,0,16,Parts_change,Service_center,4,1730,Non Metro,Uttar Pradesh,North,4,4,10,4,Platinum1
+389,389,390,48,Male,Old,Gorakhpur,142,Mobile/Tablet,iOS,No,5,1,26,7,78227,68839,12,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Haryana,North,1,2,10,3,Platinum1
+390,390,391,31,Male,Young,Siliguri,140,Mobile/Tablet,iOS,No,0,1,51,20,56323,43368,23,0,0,22,Product_upgrade,Customer_support,2,16896,Non Metro,Assam,East,7,4,9,5,Platinum1
+391,391,392,27,Male,Young,Solapur,165,Mobile/Tablet,Android,Yes,1,1,43,17,89528,74308,17,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,6,3,6,5,Gold1
+392,392,393,18,Male,Young,Hyderabad,168,Laptop/PC,Windows,No,1,1,49,19,89528,72517,19,1,2,10,Technical_Queries,Remote_sharing,5,0,Metro,Telangana,South,4,4,6,5,Gold1
+393,393,394,57,Female,Old,Belgaum,131,Laptop/PC,Linux,No,5,6,8,2,78227,64928,17,0,0,27,Product_upgrade,Customer_support,5,23468,Non Metro,Karnartaka,South,1,7,6,2,Gold2
+394,394,395,48,Female,Old,Bhavnagar,136,Laptop/PC,Linux,Yes,4,5,28,8,33668,27944,17,0,0,16,Parts_change,Service_center,4,688,Non Metro,Gujrat,West,1,7,3,3,Silver2
+395,395,396,40,Male,Middle,Kottayam,167,Mobile/Tablet,Android,Yes,4,8,15,4,33668,27944,17,0,0,20,Parts_change,Service_center,5,516,Non Metro,Kerela,South,3,2,3,3,Silver1
+396,396,397,55,Male,Old,Pune,146,Laptop/PC,Linux,No,5,5,1,0,78227,63363,19,0,0,34,Parts_change,Service_center,4,1949,Metro,Maharashtra,South,3,7,6,2,Gold2
+397,397,398,49,Male,Old,Bareilly,139,Laptop/PC,Linux,Yes,5,6,1,0,78227,68839,12,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,2,7,6,2,Gold2
+398,398,399,54,Female,Old,Kottayam,133,Mobile/Tablet,iOS,Yes,4,1,25,7,33668,25924,23,0,0,30,Parts_change,Service_center,5,1783,Non Metro,Kerela,South,4,4,7,3,Gold1
+399,399,400,30,Male,Young,Ajmer,137,Laptop/PC,Windows,Yes,1,1,25,10,89528,72517,19,1,4,8,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,3,2,6,3,Gold1
+400,400,401,29,Female,Young,Warangal,216,Mobile/Tablet,Android,Yes,3,7,54,21,47192,41528,12,1,5,7,Technical_Queries,Customer_support,4,0,Non Metro,Telangana,South,7,4,5,5,Silver1
+401,401,402,29,Female,Young,Ghaziabad,132,Mobile/Tablet,iOS,Yes,3,9,49,19,47192,36337,23,1,3,9,Parts_change,Service_center,5,1626,Non Metro,Uttar Pradesh,North,7,4,9,5,Platinum1
+402,402,403,41,Male,Middle,Jamnagar,132,Laptop/PC,Windows,Yes,4,7,32,9,33668,27271,19,1,2,10,Parts_change,Service_center,4,493,Non Metro,Gujrat,West,4,4,3,4,Silver1
+403,403,404,41,Male,Middle,Jamshedpur,179,Laptop/PC,Windows,No,2,6,31,9,86114,71474,17,0,0,28,Product_upgrade,Customer_support,3,25834,Non Metro,Jharkhand,East,4,4,6,4,Gold1
+404,404,405,27,Female,Young,Jabalpur,172,Laptop/PC,Linux,Yes,2,10,56,22,86114,71474,17,0,0,27,Parts_change,Service_center,5,1656,Non Metro,Madhya Pradesh,West,8,9,6,5,Gold2
+405,405,406,48,Male,Old,Aligarh,130,Laptop/PC,Linux,No,5,6,30,9,78227,60234,23,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,4,9,6,3,Gold2
+406,406,407,60,Female,Old,Bangalore,122,Mobile/Tablet,Android,Yes,5,3,15,4,78227,60234,23,1,6,6,Technical_Queries,Remote_sharing,5,0,Metro,Karnartaka,South,2,2,6,3,Gold1
+407,407,408,49,Male,Old,Kota,115,Mobile/Tablet,iOS,No,5,6,19,5,78227,68839,12,1,5,7,Parts_change,Service_center,4,664,Non Metro,Rajasthan,West,1,2,10,3,Platinum1
+408,408,409,29,Female,Young,Gurgaon,133,Mobile/Tablet,iOS,No,1,9,40,16,89528,68936,23,0,0,38,Product_upgrade,Customer_support,4,26858,Non Metro,Haryana,North,3,2,10,5,Platinum1
+409,409,410,24,Female,Young,Bareilly,185,Mobile/Tablet,iOS,Yes,0,7,42,16,56323,49564,12,0,0,13,Product_upgrade,Customer_support,5,16896,Non Metro,Uttar Pradesh,North,7,4,9,5,Platinum1
+410,410,411,39,Male,Middle,Vijayawada,105,Mobile/Tablet,iOS,No,4,8,13,3,33668,29627,12,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,3,2,7,3,Gold1
+411,411,412,60,Male,Old,Warangal,150,Laptop/PC,Linux,No,5,6,17,5,78227,63363,19,0,0,31,Parts_change,Service_center,5,2091,Non Metro,Telangana,South,2,7,6,3,Gold2
+412,412,413,28,Female,Young,Tirupati,137,Laptop/PC,Windows,Yes,0,10,60,24,56323,43368,23,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,4,4,5,5,Silver1
+413,413,414,24,Male,Young,Dhanbad,185,Laptop/PC,Linux,Yes,0,10,58,23,56323,43368,23,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Jharkhand,East,3,7,5,5,Silver2
+414,414,415,27,Female,Young,Asansol,159,Laptop/PC,Linux,No,3,6,54,21,47192,38225,19,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,West Bengal,East,6,8,5,5,Silver2
+415,415,416,36,Male,Middle,Kota,113,Mobile/Tablet,iOS,Yes,2,7,21,6,86114,75780,12,0,0,36,Product_upgrade,Customer_support,3,25834,Non Metro,Rajasthan,West,7,4,10,3,Platinum1
+416,416,417,55,Female,Old,Jalandhar,119,Mobile/Tablet,Android,Yes,3,6,24,7,47192,39169,17,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,4,4,5,3,Silver1
+417,417,418,57,Female,Old,Goa,116,Laptop/PC,Windows,Yes,4,3,24,7,33668,25924,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Goa,South,4,4,3,3,Silver1
+418,418,419,18,Female,Young,Belgaum,142,Mobile/Tablet,Android,Yes,0,10,48,19,56323,43368,23,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,9,4,5,5,Silver1
+419,419,420,54,Female,Old,Kakinada,138,Mobile/Tablet,Android,Yes,5,5,29,8,78227,63363,19,0,0,19,Product_upgrade,Customer_support,4,23468,Non Metro,Andhra Pradesh,South,4,4,6,3,Gold1
+420,420,421,39,Male,Middle,Aligarh,103,Mobile/Tablet,Android,Yes,2,8,21,6,86114,69752,19,0,0,35,Product_upgrade,Customer_support,4,25834,Non Metro,Uttar Pradesh,North,6,3,6,3,Gold1
+421,421,422,48,Female,Old,Vijayawada,109,Laptop/PC,Linux,Yes,4,6,11,3,33668,27271,19,0,0,15,Parts_change,Service_center,5,2386,Non Metro,Andhra Pradesh,South,4,9,3,3,Silver2
+422,422,423,58,Female,Old,Sangli,126,Laptop/PC,Windows,No,3,1,4,1,47192,36337,23,0,0,24,Parts_change,Service_center,4,2318,Non Metro,Maharashtra,South,1,2,5,2,Silver1
+423,423,424,60,Female,Old,Nashik,112,Laptop/PC,Linux,Yes,5,6,5,1,78227,63363,19,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,3,7,6,2,Gold2
+424,424,425,59,Female,Old,Erode,101,Laptop/PC,Windows,Yes,3,6,18,5,47192,39169,17,0,0,13,Parts_change,Service_center,5,1818,Non Metro,Tamil Nadu,South,2,2,5,3,Silver1
+425,425,426,59,Male,Old,Rajkot,104,Laptop/PC,Linux,No,4,6,27,8,33668,31984,5,1,1,11,Technical_Queries,Remote_sharing,4,0,Non Metro,Gujrat,West,4,9,3,3,Silver2
+426,426,427,45,Female,Middle,Jamnagar,112,Laptop/PC,Windows,No,4,8,39,11,33668,25924,23,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Gujrat,West,5,3,3,5,Silver1
+427,427,428,46,Female,Old,Mysore,109,Mobile/Tablet,iOS,Yes,4,1,5,1,33668,31984,5,1,2,10,Parts_change,Service_center,4,2118,Non Metro,Karnartaka,South,1,2,7,2,Gold1
+428,428,429,39,Male,Middle,Noida,68,Laptop/PC,Linux,No,4,6,37,11,33668,25924,23,0,0,26,Parts_change,Service_center,4,1949,Non Metro,Uttar Pradesh,North,5,8,3,5,Silver2
+429,429,430,43,Male,Middle,Nagpur,135,Mobile/Tablet,Android,Yes,3,8,22,6,47192,41528,12,0,0,17,Parts_change,Service_center,5,1971,Non Metro,Maharashtra,South,7,4,5,3,Silver1
+430,430,431,43,Male,Middle,Thrissur,134,Mobile/Tablet,Android,Yes,4,6,14,4,33668,31984,5,0,0,38,Product_upgrade,Customer_support,4,10100,Non Metro,Kerela,South,6,3,3,3,Silver1
+431,431,432,57,Female,Old,Solapur,114,Mobile/Tablet,Android,No,4,6,4,1,33668,27271,19,0,0,35,Product_upgrade,Customer_support,5,10100,Non Metro,Maharashtra,South,3,2,3,2,Silver1
+432,432,433,36,Male,Middle,Aurangabad,157,Mobile/Tablet,iOS,Yes,3,4,38,11,47192,44832,5,1,1,11,Parts_change,Service_center,4,957,Non Metro,Uttar Pradesh,North,6,3,9,5,Platinum1
+433,433,434,37,Female,Middle,Jabalpur,154,Mobile/Tablet,Android,Yes,4,7,27,8,33668,25924,23,0,0,37,Product_upgrade,Customer_support,5,10100,Non Metro,Madhya Pradesh,West,4,4,3,3,Silver1
+434,434,435,43,Male,Middle,Tirupati,137,Laptop/PC,Windows,No,2,8,31,9,86114,71474,17,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,6,3,6,4,Gold1
+435,435,436,46,Male,Old,Amravati,138,Mobile/Tablet,iOS,No,3,5,5,1,47192,41528,12,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,3,2,9,2,Platinum1
+436,436,437,29,Female,Young,Hyderabad,209,Laptop/PC,Windows,Yes,1,4,40,16,89528,74308,17,0,0,13,Product_upgrade,Customer_support,3,26858,Metro,Telangana,South,4,4,6,5,Gold1
+437,437,438,46,Male,Old,Mysore,110,Laptop/PC,Linux,Yes,5,1,28,8,78227,60234,23,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,2,7,6,3,Gold2
+438,438,439,18,Male,Young,Gwalior,161,Laptop/PC,Linux,No,1,1,48,19,89528,68936,23,0,0,37,Product_upgrade,Customer_support,3,26858,Non Metro,Madhya Pradesh,West,8,9,6,5,Gold2
+439,439,440,20,Female,Young,Meerut,149,Laptop/PC,Windows,No,2,4,46,18,86114,69752,19,1,5,7,Parts_change,Service_center,4,750,Non Metro,Uttar Pradesh,North,4,4,6,5,Gold1
+440,440,441,36,Female,Middle,Noida,125,Mobile/Tablet,iOS,No,2,7,14,4,86114,71474,17,0,0,39,Product_upgrade,Customer_support,5,25834,Non Metro,Uttar Pradesh,North,7,4,10,3,Platinum1
+441,441,442,42,Male,Middle,Bhubaneswar,93,Mobile/Tablet,iOS,Yes,2,7,20,6,86114,66307,23,0,0,30,Product_upgrade,Customer_support,5,25834,Non Metro,Orissa,East,4,4,10,3,Platinum1
+442,442,443,50,Female,Old,Pondicherry,123,Mobile/Tablet,iOS,Yes,5,6,17,5,78227,60234,23,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,3,2,10,3,Platinum1
+443,443,444,26,Male,Young,Jhansi,194,Mobile/Tablet,iOS,Yes,1,6,30,12,89528,78784,12,0,0,22,Parts_change,Service_center,4,868,Non Metro,Uttar Pradesh,North,8,4,10,4,Platinum1
+444,444,445,53,Female,Old,Indore,110,Laptop/PC,Linux,No,5,1,1,0,78227,68839,12,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Madhya Pradesh,West,2,7,6,2,Gold2
+445,445,446,22,Female,Young,Chennai,144,Mobile/Tablet,iOS,No,1,4,44,17,89528,72517,19,1,7,5,Technical_Queries,Remote_sharing,4,0,Metro,Tamil Nadu,South,4,4,10,5,Platinum1
+446,446,447,47,Male,Old,Faridabad,148,Mobile/Tablet,iOS,No,4,5,18,5,33668,29627,12,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Haryana,North,4,4,7,3,Gold1
+447,447,448,21,Female,Young,Madurai,134,Laptop/PC,Linux,No,0,4,52,20,56323,45621,19,0,0,31,Product_upgrade,Customer_support,5,16896,Non Metro,Tamil Nadu,South,4,9,5,5,Silver2
+448,448,449,27,Female,Young,Gurgaon,133,Mobile/Tablet,iOS,No,3,6,52,20,47192,36337,23,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Haryana,North,3,2,9,5,Platinum1
+449,449,450,20,Male,Young,Kozhikode,213,Mobile/Tablet,Android,Yes,0,6,42,16,56323,46748,17,0,0,27,Product_upgrade,Customer_support,2,16896,Non Metro,Kerela,South,5,3,5,5,Silver1
+450,450,451,58,Male,Old,Madurai,135,Mobile/Tablet,Android,No,4,6,4,1,33668,29627,12,1,5,7,Parts_change,Service_center,5,1234,Non Metro,Tamil Nadu,South,2,2,3,2,Silver1
+451,451,452,35,Female,Old,Bhavnagar,188,Mobile/Tablet,Android,Yes,4,3,8,2,33668,29627,12,1,5,7,Technical_Queries,Remote_sharing,5,0,Non Metro,Gujrat,West,1,2,3,2,Silver1
+452,452,453,53,Female,Old,Nellore,105,Laptop/PC,Linux,No,5,5,5,1,78227,64928,17,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,1,7,6,2,Gold2
+453,453,454,42,Female,Middle,Kakinada,115,Laptop/PC,Windows,Yes,4,8,12,3,33668,31984,5,1,7,5,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,5,3,3,3,Silver1
+454,454,455,38,Male,Middle,Meerut,126,Laptop/PC,Windows,No,4,4,15,4,33668,31984,5,0,0,35,Parts_change,Service_center,4,2206,Non Metro,Uttar Pradesh,North,7,4,3,3,Silver1
+455,455,456,50,Male,Old,Visakhapatnam,129,Mobile/Tablet,iOS,No,5,3,7,2,78227,64928,17,1,0,12,Parts_change,Service_center,5,822,Metro,Andhra Pradesh,South,1,2,10,2,Platinum1
+456,456,457,28,Male,Young,Lucknow,201,Mobile/Tablet,iOS,Yes,1,3,58,23,89528,78784,12,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,5,3,10,5,Platinum1
+457,457,458,28,Male,Young,Firozabad,177,Laptop/PC,Windows,No,1,3,38,15,89528,78784,12,0,0,38,Product_upgrade,Customer_support,3,26858,Non Metro,Uttar Pradesh,North,8,4,6,5,Gold1
+458,458,459,43,Male,Middle,Asansol,154,Mobile/Tablet,Android,Yes,3,7,38,11,47192,38225,19,1,1,11,Parts_change,Service_center,4,996,Non Metro,West Bengal,East,7,4,5,5,Silver1
+459,459,460,47,Female,Old,Thiruvananthapuram,128,Mobile/Tablet,Android,Yes,4,6,3,0,33668,27944,17,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,4,4,3,2,Silver1
+460,460,461,57,Male,Old,Coimbatore,146,Laptop/PC,Linux,No,4,6,10,3,33668,31984,5,1,6,6,Technical_Queries,Remote_sharing,4,0,Metro,Andhra Pradesh,South,1,7,3,2,Silver2
+461,461,462,45,Female,Middle,BokaroSteelCity,142,Mobile/Tablet,Android,No,4,7,40,12,33668,27944,17,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Jharkhand,East,5,3,3,5,Silver1
+462,462,463,42,Male,Middle,Salem,137,Mobile/Tablet,Android,No,3,3,32,9,47192,38225,19,0,0,25,Parts_change,Service_center,4,1767,Non Metro,Tamil Nadu,South,6,3,5,4,Silver1
+463,463,464,33,Female,Young,Aurangabad,205,Laptop/PC,Windows,Yes,3,7,58,23,47192,44832,5,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,3,2,5,5,Silver1
+464,464,465,27,Female,Young,Guwahati,180,Laptop/PC,Windows,Yes,1,6,47,18,89528,72517,19,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Assam,East,7,4,6,5,Gold1
+465,465,466,44,Male,Middle,Chennai,113,Laptop/PC,Linux,No,2,8,33,9,86114,66307,23,0,0,13,Parts_change,Service_center,5,1164,Metro,Tamil Nadu,South,3,7,6,4,Gold2
+466,466,467,55,Male,Old,Warangal,118,Mobile/Tablet,Android,Yes,5,1,13,3,78227,63363,19,1,4,8,Parts_change,Service_center,4,1455,Non Metro,Telangana,South,4,4,6,3,Gold1
+467,467,468,35,Male,Old,Kakinada,134,Mobile/Tablet,iOS,No,3,6,29,8,47192,39169,17,1,12,0,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,4,4,9,3,Platinum1
+468,468,469,53,Female,Old,Surat,112,Mobile/Tablet,iOS,Yes,3,6,27,8,47192,36337,23,0,0,34,Parts_change,Service_center,5,1818,Metro,Gujrat,West,3,2,9,3,Platinum1
+469,469,470,54,Male,Old,Srinagar,103,Mobile/Tablet,iOS,No,4,6,16,4,33668,27944,17,0,0,32,Product_upgrade,Customer_support,3,10100,Non Metro,Jammu and Kashmir,North,1,2,7,3,Gold1
+470,470,471,18,Male,Young,Tiruvannamalai,139,Mobile/Tablet,iOS,No,0,6,33,13,56323,49564,12,0,0,20,Parts_change,Service_center,4,1978,Non Metro,Andhra Pradesh,South,5,3,9,5,Platinum1
+471,471,472,43,Female,Middle,Belgaum,126,Mobile/Tablet,Android,No,3,3,30,9,47192,39169,17,1,1,11,Technical_Queries,Customer_support,5,0,Non Metro,Karnartaka,South,6,3,5,3,Silver1
+472,472,473,18,Female,Young,Vellore,144,Laptop/PC,Windows,Yes,0,9,44,17,56323,53506,5,0,0,30,Parts_change,Service_center,4,1420,Non Metro,Tamil Nadu,South,3,2,5,5,Silver1
+473,473,474,34,Female,Young,Kozhikode,195,Laptop/PC,Windows,No,2,10,47,18,86114,66307,23,0,0,17,Product_upgrade,Customer_support,4,25834,Non Metro,Kerela,South,7,4,6,5,Gold1
+474,474,475,51,Male,Old,Jhansi,134,Laptop/PC,Windows,Yes,4,5,1,0,33668,27271,19,0,0,28,Product_upgrade,Customer_support,2,10100,Non Metro,Uttar Pradesh,North,1,2,3,2,Silver1
+475,475,476,30,Male,Young,Hyderabad,189,Laptop/PC,Windows,Yes,1,5,46,18,89528,78784,12,1,4,8,Parts_change,Service_center,5,664,Metro,Telangana,South,8,4,6,5,Gold1
+476,476,477,50,Male,Old,Jaipur,148,Laptop/PC,Linux,No,3,3,22,6,47192,39169,17,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,3,7,5,3,Silver2
+477,477,478,44,Female,Middle,Kurnool,105,Laptop/PC,Windows,No,4,6,17,5,33668,29627,12,1,2,10,Parts_change,Service_center,5,962,Non Metro,Andhra Pradesh,South,5,3,3,3,Silver1
+478,478,479,44,Male,Middle,Durgapur,134,Mobile/Tablet,Android,Yes,4,7,10,3,33668,27944,17,0,0,15,Product_upgrade,Customer_support,4,10100,Non Metro,West Bengal,East,4,4,3,2,Silver1
+479,479,480,43,Male,Middle,Tiruvannamalai,143,Laptop/PC,Windows,Yes,2,8,10,3,86114,75780,12,1,4,8,Parts_change,Service_center,4,955,Non Metro,Andhra Pradesh,South,4,4,6,2,Gold1
+480,480,481,40,Male,Middle,Hyderabad,178,Mobile/Tablet,iOS,No,3,4,17,5,47192,38225,19,1,0,12,Parts_change,Service_center,4,1741,Metro,Telangana,South,3,2,9,3,Platinum1
+481,481,482,21,Female,Young,Bijapur,186,Mobile/Tablet,iOS,Yes,2,4,56,22,86114,66307,23,0,0,19,Product_upgrade,Customer_support,2,25834,Non Metro,Karnartaka,South,9,4,10,5,Platinum1
+482,482,483,26,Female,Young,Moradabad,164,Mobile/Tablet,iOS,No,2,6,40,16,86114,81808,5,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,6,3,10,5,Platinum1
+483,483,484,19,Female,Young,Kochi,138,Mobile/Tablet,Android,No,1,9,56,22,89528,72517,19,0,0,23,Parts_change,Service_center,4,1019,Non Metro,Kerela,South,6,3,6,5,Gold1
+484,484,485,48,Female,Old,Gwalior,112,Laptop/PC,Windows,No,3,1,11,3,47192,36337,23,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Madhya Pradesh,West,3,2,5,3,Silver1
+485,485,486,34,Female,Young,Meerut,187,Laptop/PC,Linux,Yes,3,4,59,23,47192,41528,12,0,0,34,Product_upgrade,Customer_support,5,14157,Non Metro,Uttar Pradesh,North,8,9,5,5,Silver2
+486,486,487,42,Male,Middle,Thiruvananthapuram,114,Laptop/PC,Linux,Yes,2,4,12,3,86114,75780,12,0,0,18,Parts_change,Service_center,5,1209,Non Metro,Kerela,South,6,8,6,3,Gold2
+487,487,488,30,Female,Young,Goa,141,Laptop/PC,Linux,Yes,1,6,58,23,89528,78784,12,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Goa,South,9,9,6,5,Gold2
+488,488,489,60,Female,Old,Thrissur,107,Laptop/PC,Windows,No,5,1,10,3,78227,64928,17,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,1,2,6,2,Gold1
+489,489,490,45,Female,Middle,Madurai,107,Mobile/Tablet,Android,No,2,4,22,6,86114,75780,12,0,0,30,Product_upgrade,Customer_support,2,25834,Non Metro,Tamil Nadu,South,4,4,6,3,Gold1
+490,490,491,39,Male,Middle,Bikaner,155,Mobile/Tablet,Android,Yes,2,7,25,7,86114,81808,5,0,0,28,Parts_change,Service_center,5,1956,Non Metro,Rajasthan,West,3,2,6,3,Gold1
+491,491,492,58,Female,Old,Jodhpur,115,Laptop/PC,Windows,Yes,4,1,17,5,33668,27944,17,0,0,30,Product_upgrade,Customer_support,3,10100,Non Metro,Rajasthan,West,2,2,3,3,Silver1
+492,492,493,33,Male,Young,Hyderabad,206,Mobile/Tablet,Android,No,2,1,49,19,86114,81808,5,0,0,24,Parts_change,Service_center,4,1235,Metro,Telangana,South,5,3,6,5,Gold1
+493,493,494,31,Female,Young,Belgaum,191,Laptop/PC,Linux,Yes,1,9,46,18,89528,78784,12,0,0,22,Product_upgrade,Customer_support,2,26858,Non Metro,Karnartaka,South,3,7,6,5,Gold2
+494,494,495,50,Male,Old,Jaipur,131,Mobile/Tablet,Android,Yes,5,5,19,5,78227,74315,5,0,0,14,Parts_change,Service_center,5,819,Non Metro,Rajasthan,West,1,2,6,3,Gold1
+495,495,496,54,Female,Old,Madurai,121,Laptop/PC,Windows,No,4,5,22,6,33668,31984,5,0,0,34,Parts_change,Service_center,4,598,Non Metro,Tamil Nadu,South,3,2,3,3,Silver1
+496,496,497,20,Female,Young,Mangalore,186,Mobile/Tablet,iOS,Yes,1,7,45,18,89528,72517,19,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,4,4,10,5,Platinum1
+497,497,498,33,Male,Young,Gurgaon,141,Mobile/Tablet,iOS,No,0,7,31,12,56323,45621,19,0,0,38,Product_upgrade,Customer_support,4,16896,Non Metro,Haryana,North,6,3,9,5,Platinum1
+498,498,499,34,Male,Young,Agra,188,Laptop/PC,Linux,Yes,0,7,30,12,56323,45621,19,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,5,8,5,4,Silver2
+499,499,500,22,Male,Young,Cuttack,174,Mobile/Tablet,Android,No,2,7,58,23,86114,66307,23,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Orissa,East,4,4,6,5,Gold1
+500,500,501,56,Female,Old,Mathura,138,Laptop/PC,Windows,No,3,3,18,5,47192,41528,12,1,0,12,Parts_change,Service_center,4,2139,Non Metro,Uttar Pradesh,North,3,2,5,3,Silver1
+501,501,502,45,Male,Middle,Raipur,129,Mobile/Tablet,iOS,Yes,4,4,17,5,33668,27944,17,1,5,7,Parts_change,Service_center,5,1251,Non Metro,Chattisgarh,East,4,4,7,3,Gold1
+502,502,503,51,Female,Old,Jhansi,107,Laptop/PC,Windows,No,4,1,2,0,33668,27944,17,1,6,6,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,3,2,3,2,Silver1
+503,503,504,25,Female,Young,Vadodara,199,Laptop/PC,Linux,No,1,4,40,16,89528,74308,17,0,0,13,Product_upgrade,Customer_support,5,26858,Non Metro,Gujrat,West,3,7,6,5,Gold2
+504,504,505,39,Male,Middle,Jamnagar,98,Mobile/Tablet,Android,Yes,2,8,14,4,86114,81808,5,0,0,31,Product_upgrade,Customer_support,3,25834,Non Metro,Gujrat,West,3,2,6,3,Gold1
+505,505,506,25,Female,Young,Amravati,132,Mobile/Tablet,Android,Yes,3,7,49,19,47192,36337,23,1,0,12,Parts_change,Service_center,4,834,Non Metro,Maharashtra,South,7,4,5,5,Silver1
+506,506,507,18,Female,Young,Bhiwandi,140,Mobile/Tablet,Android,No,2,4,50,20,86114,75780,12,0,0,31,Parts_change,Service_center,5,1648,Non Metro,Maharashtra,South,6,3,6,5,Gold1
+507,507,508,44,Female,Middle,Asansol,166,Laptop/PC,Linux,No,4,7,38,11,33668,31984,5,0,0,26,Parts_change,Service_center,4,2133,Non Metro,West Bengal,East,5,8,3,5,Silver2
+508,508,509,58,Male,Old,Thrissur,112,Mobile/Tablet,Android,Yes,3,5,1,0,47192,41528,12,0,0,25,Parts_change,Service_center,5,732,Non Metro,Kerela,South,4,4,5,2,Silver1
+509,509,510,18,Male,Young,Lucknow,183,Mobile/Tablet,Android,No,2,5,49,19,86114,81808,5,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,6,3,6,5,Gold1
+510,510,511,59,Male,Old,Nashik,126,Mobile/Tablet,Android,Yes,4,6,24,7,33668,29627,12,0,0,35,Parts_change,Service_center,5,1661,Non Metro,Maharashtra,South,3,2,3,3,Silver1
+511,511,512,39,Female,Middle,Bhiwandi,176,Laptop/PC,Windows,No,3,4,19,5,47192,41528,12,1,3,9,Parts_change,Service_center,5,2379,Non Metro,Maharashtra,South,6,3,5,3,Silver1
+512,512,513,26,Female,Young,Dehradun,130,Mobile/Tablet,iOS,Yes,2,4,53,21,86114,71474,17,0,0,13,Parts_change,Service_center,4,2151,Non Metro,Uttrakhand,North,8,4,10,5,Platinum1
+513,513,514,53,Male,Old,Gorakhpur,134,Laptop/PC,Linux,Yes,4,6,27,8,33668,31984,5,0,0,35,Product_upgrade,Customer_support,3,10100,Non Metro,Haryana,North,3,7,3,3,Silver2
+514,514,515,51,Male,Old,Visakhapatnam,135,Mobile/Tablet,Android,Yes,4,6,24,7,33668,25924,23,0,0,25,Product_upgrade,Customer_support,3,10100,Metro,Andhra Pradesh,South,3,2,3,3,Silver1
+515,515,516,51,Female,Old,Madurai,101,Mobile/Tablet,Android,Yes,4,6,12,3,33668,29627,12,0,0,36,Product_upgrade,Customer_support,5,10100,Non Metro,Tamil Nadu,South,1,2,3,3,Silver1
+516,516,517,57,Male,Old,Kurnool,108,Laptop/PC,Windows,No,4,6,17,5,33668,25924,23,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,4,4,3,3,Silver1
+517,517,518,35,Male,Old,Bijapur,182,Laptop/PC,Linux,No,3,1,27,8,47192,39169,17,0,0,28,Product_upgrade,Customer_support,5,14157,Non Metro,Karnartaka,South,4,9,5,3,Silver2
+518,518,519,35,Male,Old,Firozabad,149,Mobile/Tablet,iOS,Yes,4,1,19,5,33668,27944,17,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,4,4,7,3,Gold1
+519,519,520,24,Female,Young,Ahmedabad,169,Mobile/Tablet,iOS,No,1,6,40,16,89528,74308,17,1,3,9,Technical_Queries,Remote_sharing,5,0,Metro,Gujrat,West,4,4,10,5,Platinum1
+520,520,521,31,Female,Young,Tirupati,132,Mobile/Tablet,iOS,No,2,7,58,23,86114,75780,12,1,1,11,Parts_change,Service_center,4,1919,Non Metro,Andhra Pradesh,South,4,4,10,5,Platinum1
+521,521,522,48,Female,Old,Meerut,146,Mobile/Tablet,iOS,Yes,3,6,23,6,47192,41528,12,0,0,15,Product_upgrade,Customer_support,3,14157,Non Metro,Uttar Pradesh,North,2,2,9,3,Platinum1
+522,522,523,24,Female,Young,Mangalore,135,Mobile/Tablet,Android,Yes,0,10,44,17,56323,53506,5,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,9,4,5,5,Silver1
+523,523,524,42,Male,Middle,Bikaner,71,Laptop/PC,Windows,Yes,4,4,16,4,33668,27944,17,0,0,26,Parts_change,Service_center,4,1646,Non Metro,Rajasthan,West,4,4,3,3,Silver1
+524,524,525,43,Female,Middle,Palakkad,169,Laptop/PC,Windows,No,4,4,22,6,33668,27944,17,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,3,2,3,3,Silver1
+525,525,526,27,Male,Young,Lucknow,146,Laptop/PC,Linux,No,2,4,53,21,86114,66307,23,0,0,28,Parts_change,Service_center,5,567,Non Metro,Uttar Pradesh,North,4,9,6,5,Gold2
+526,526,527,27,Male,Young,Jaipur,140,Laptop/PC,Linux,Yes,0,4,28,11,56323,45621,19,0,0,38,Product_upgrade,Customer_support,2,16896,Non Metro,Rajasthan,West,4,9,5,4,Silver2
+527,527,528,50,Female,Old,Firozabad,144,Mobile/Tablet,Android,No,5,1,27,8,78227,74315,5,0,0,22,Parts_change,Service_center,4,1878,Non Metro,Uttar Pradesh,North,2,2,6,3,Gold1
+528,528,529,57,Female,Old,Jalandhar,127,Mobile/Tablet,iOS,Yes,5,6,3,0,78227,64928,17,0,0,31,Product_upgrade,Customer_support,3,23468,Non Metro,Punjab,North,1,2,10,2,Platinum1
+529,529,530,19,Female,Young,Moradabad,184,Mobile/Tablet,iOS,Yes,0,6,53,21,56323,45621,19,0,0,13,Product_upgrade,Customer_support,4,16896,Non Metro,Uttar Pradesh,North,3,2,9,5,Platinum1
+530,530,531,59,Female,Old,Rajkot,124,Mobile/Tablet,Android,No,3,5,7,2,47192,36337,23,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Gujrat,West,3,2,5,2,Silver1
+531,531,532,34,Male,Young,Kolhapur,147,Laptop/PC,Windows,Yes,0,5,26,10,56323,53506,5,0,0,39,Product_upgrade,Customer_support,2,16896,Non Metro,Maharashtra,South,6,3,5,3,Silver1
+532,532,533,30,Female,Young,Moradabad,151,Mobile/Tablet,iOS,No,0,4,52,20,56323,46748,17,0,0,26,Product_upgrade,Customer_support,4,16896,Non Metro,Uttar Pradesh,North,4,4,9,5,Platinum1
+533,533,534,57,Male,Old,Pondicherry,133,Mobile/Tablet,iOS,Yes,3,3,20,6,47192,39169,17,0,0,24,Product_upgrade,Customer_support,2,14157,Non Metro,Tamil Nadu,South,3,2,9,3,Platinum1
+534,534,535,34,Female,Young,Vasai-VirarCity,184,Laptop/PC,Windows,No,0,4,52,20,56323,45621,19,0,0,21,Product_upgrade,Customer_support,3,16896,Non Metro,Maharashtra,South,3,2,5,5,Silver1
+535,535,536,51,Male,Old,Tiruchirappalli,124,Laptop/PC,Linux,No,3,6,12,3,47192,38225,19,1,0,12,Parts_change,Service_center,5,2476,Non Metro,Tamil Nadu,South,1,7,5,3,Silver2
+536,536,537,51,Female,Old,Goa,137,Mobile/Tablet,Android,No,5,3,9,2,78227,63363,19,0,0,32,Parts_change,Service_center,4,2056,Non Metro,Goa,South,4,4,6,2,Gold1
+537,537,538,28,Female,Young,Jamshedpur,205,Laptop/PC,Windows,No,2,4,52,20,86114,71474,17,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Jharkhand,East,9,4,6,5,Gold1
+538,538,539,19,Male,Young,Jabalpur,214,Laptop/PC,Windows,No,1,4,31,12,89528,74308,17,0,0,24,Product_upgrade,Customer_support,2,26858,Non Metro,Madhya Pradesh,West,5,3,6,5,Gold1
+539,539,540,48,Male,Old,Cuttack,146,Laptop/PC,Windows,Yes,4,5,8,2,33668,27944,17,0,0,16,Product_upgrade,Customer_support,3,10100,Non Metro,Orissa,East,4,4,3,2,Silver1
+540,540,541,24,Male,Young,Bareilly,210,Laptop/PC,Windows,No,0,5,32,12,56323,53506,5,1,2,10,Parts_change,Service_center,4,2404,Non Metro,Uttar Pradesh,North,7,4,5,5,Silver1
+541,541,542,49,Female,Old,Surat,125,Laptop/PC,Windows,No,3,6,24,7,47192,36337,23,1,11,1,Technical_Queries,Remote_sharing,4,0,Metro,Gujrat,West,1,2,5,3,Silver1
+542,542,543,29,Female,Young,Warangal,201,Laptop/PC,Windows,No,3,9,58,23,47192,36337,23,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Telangana,South,5,3,5,5,Silver1
+543,543,544,22,Female,Young,Jaipur,183,Mobile/Tablet,Android,No,1,6,59,23,89528,78784,12,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Rajasthan,West,4,4,6,5,Gold1
+544,544,545,21,Female,Young,Amritsar,202,Laptop/PC,Linux,Yes,0,10,52,20,56323,49564,12,0,0,18,Parts_change,Service_center,5,1615,Non Metro,Punjab,North,6,8,5,5,Silver2
+545,545,546,19,Male,Young,Chennai,188,Mobile/Tablet,Android,Yes,1,10,58,23,89528,74308,17,0,0,38,Product_upgrade,Customer_support,2,26858,Metro,Tamil Nadu,South,3,2,6,5,Gold1
+546,546,547,29,Male,Young,Raipur,181,Mobile/Tablet,Android,No,0,10,33,13,56323,43368,23,0,0,16,Parts_change,Service_center,4,2182,Non Metro,Chattisgarh,East,7,4,5,5,Silver1
+547,547,548,45,Male,Middle,Asansol,130,Mobile/Tablet,Android,No,2,6,35,10,86114,81808,5,0,0,33,Product_upgrade,Customer_support,3,25834,Non Metro,West Bengal,East,3,2,6,4,Gold1
+548,548,549,39,Male,Middle,Bhavnagar,67,Mobile/Tablet,Android,No,2,6,12,3,86114,71474,17,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Gujrat,West,4,4,6,3,Gold1
+549,549,550,57,Male,Old,Bhiwandi,133,Laptop/PC,Linux,Yes,3,1,2,0,47192,38225,19,1,0,12,Parts_change,Service_center,5,864,Non Metro,Maharashtra,South,3,7,5,2,Silver2
+550,550,551,34,Female,Young,Bhiwandi,206,Mobile/Tablet,Android,No,2,4,55,22,86114,66307,23,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,4,4,6,5,Gold1
+551,551,552,43,Male,Middle,Kolkata,84,Laptop/PC,Windows,No,2,4,14,4,86114,75780,12,0,0,17,Parts_change,Service_center,4,2413,Metro,West Bengal,East,4,4,6,3,Gold1
+552,552,553,56,Male,Old,Vijayawada,129,Mobile/Tablet,iOS,No,4,3,22,6,33668,27271,19,1,2,10,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,2,2,7,3,Gold1
+553,553,554,57,Female,Old,Vijayawada,126,Laptop/PC,Linux,No,4,6,15,4,33668,31984,5,1,6,6,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,2,7,3,3,Silver2
+554,554,555,38,Male,Middle,Kozhikode,155,Mobile/Tablet,iOS,Yes,3,7,23,6,47192,39169,17,1,3,9,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,6,3,9,3,Platinum1
+555,555,556,18,Male,Young,Pune,168,Mobile/Tablet,Android,Yes,1,7,52,20,89528,72517,19,0,0,24,Parts_change,Service_center,4,2465,Metro,Maharashtra,South,5,3,6,5,Gold1
+556,556,557,55,Female,Old,Aurangabad,150,Mobile/Tablet,iOS,Yes,3,5,28,8,47192,39169,17,0,0,35,Parts_change,Service_center,5,1318,Non Metro,Uttar Pradesh,North,3,2,9,3,Platinum1
+557,557,558,38,Female,Middle,Gulbarga,70,Mobile/Tablet,Android,Yes,4,4,38,11,33668,27271,19,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,5,3,3,5,Silver1
+558,558,559,32,Female,Young,Bijapur,184,Mobile/Tablet,Android,Yes,1,6,49,19,89528,68936,23,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,3,2,6,5,Gold1
+559,559,560,41,Male,Middle,Bangalore,103,Mobile/Tablet,Android,Yes,2,3,14,4,86114,75780,12,0,0,27,Parts_change,Service_center,5,2072,Metro,Karnartaka,South,6,3,6,3,Gold1
+560,560,561,40,Female,Middle,Tirunelveli,171,Mobile/Tablet,Android,No,4,7,11,3,33668,25924,23,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,3,2,3,3,Silver1
+561,561,562,46,Male,Old,Tirupati,150,Laptop/PC,Linux,Yes,5,3,4,1,78227,74315,5,0,0,27,Product_upgrade,Customer_support,4,23468,Non Metro,Andhra Pradesh,South,4,9,6,2,Gold2
+562,562,563,23,Male,Young,Nanded,138,Laptop/PC,Linux,No,1,3,39,15,89528,68936,23,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,5,8,6,5,Gold2
+563,563,564,54,Female,Old,Nashik,101,Laptop/PC,Windows,Yes,4,6,14,4,33668,25924,23,0,0,35,Product_upgrade,Customer_support,3,10100,Non Metro,Maharashtra,South,2,2,3,3,Silver1
+564,564,565,22,Male,Young,Sangli,130,Mobile/Tablet,iOS,No,1,6,53,21,89528,74308,17,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,5,3,10,5,Platinum1
+565,565,566,26,Female,Young,Ajmer,139,Mobile/Tablet,Android,No,1,6,57,22,89528,85051,5,0,0,31,Product_upgrade,Customer_support,4,26858,Non Metro,Rajasthan,West,4,4,6,5,Gold1
+566,566,567,23,Female,Young,Tiruppur,133,Mobile/Tablet,iOS,Yes,2,6,49,19,86114,66307,23,0,0,28,Parts_change,Service_center,4,876,Non Metro,Tamil Nadu,South,6,3,10,5,Platinum1
+567,567,568,37,Female,Middle,Bhilai,129,Mobile/Tablet,Android,Yes,4,4,24,7,33668,27944,17,1,3,9,Parts_change,Service_center,5,846,Non Metro,Chattisgarh,East,7,4,3,3,Silver1
+568,568,569,27,Female,Young,Mysore,148,Laptop/PC,Linux,Yes,1,4,56,22,89528,85051,5,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,3,7,6,5,Gold2
+569,569,570,59,Male,Old,Kozhikode,120,Laptop/PC,Windows,Yes,5,6,8,2,78227,63363,19,0,0,28,Product_upgrade,Customer_support,2,23468,Non Metro,Kerela,South,3,2,6,2,Gold1
+570,570,571,58,Female,Old,Madurai,122,Laptop/PC,Windows,Yes,3,3,19,5,47192,39169,17,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,3,2,5,3,Silver1
+571,571,572,29,Male,Young,Bhavnagar,168,Mobile/Tablet,Android,Yes,1,3,47,18,89528,74308,17,0,0,31,Product_upgrade,Customer_support,4,26858,Non Metro,Gujrat,West,3,2,6,5,Gold1
+572,572,573,29,Female,Young,Kurnool,161,Laptop/PC,Linux,Yes,0,9,60,24,56323,45621,19,0,0,28,Parts_change,Service_center,5,1696,Non Metro,Andhra Pradesh,South,7,9,5,5,Silver2
+573,573,574,53,Male,Old,Nellore,137,Laptop/PC,Linux,No,3,6,16,4,47192,44832,5,0,0,39,Product_upgrade,Customer_support,2,14157,Non Metro,Andhra Pradesh,South,4,9,5,3,Silver2
+574,574,575,49,Female,Old,Agra,127,Laptop/PC,Windows,Yes,5,5,10,3,78227,64928,17,1,12,0,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,1,2,6,2,Gold1
+575,575,576,22,Female,Young,Malappuram,183,Laptop/PC,Windows,No,0,7,42,16,56323,45621,19,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,6,3,5,5,Silver1
+576,576,577,21,Female,Young,Kolkata,187,Laptop/PC,Windows,Yes,1,4,57,22,89528,74308,17,0,0,14,Product_upgrade,Customer_support,2,26858,Metro,West Bengal,East,4,4,6,5,Gold1
+577,577,578,39,Female,Middle,Kannur,134,Laptop/PC,Linux,No,2,8,10,3,86114,69752,19,1,0,12,Parts_change,Service_center,5,750,Non Metro,Kerela,South,5,8,6,2,Gold2
+578,578,579,24,Male,Young,Coimbatore,150,Mobile/Tablet,iOS,No,0,8,25,10,56323,53506,5,0,0,16,Parts_change,Service_center,5,1919,Metro,Andhra Pradesh,South,5,3,9,3,Platinum1
+579,579,580,29,Male,Young,Thrissur,188,Laptop/PC,Windows,Yes,0,8,25,10,56323,53506,5,1,6,6,Technical_Queries,Customer_support,5,0,Non Metro,Kerela,South,8,4,5,3,Silver1
+580,580,581,22,Male,Young,Chandigarh,149,Laptop/PC,Windows,No,2,8,54,21,86114,71474,17,1,3,9,Parts_change,Service_center,4,2415,Non Metro,Punjab,North,6,3,6,5,Gold1
+581,581,582,23,Female,Young,Durgapur,178,Mobile/Tablet,Android,No,1,10,49,19,89528,78784,12,1,4,8,Parts_change,Service_center,5,1932,Non Metro,West Bengal,East,6,3,6,5,Gold1
+582,582,583,50,Male,Old,BokaroSteelCity,117,Laptop/PC,Linux,Yes,5,6,11,3,78227,68839,12,1,3,9,Parts_change,Service_center,4,1182,Non Metro,Jharkhand,East,1,7,6,3,Gold2
+583,583,584,49,Male,Old,Palakkad,110,Laptop/PC,Linux,Yes,3,5,22,6,47192,41528,12,0,0,36,Product_upgrade,Customer_support,2,14157,Non Metro,Kerela,South,4,9,5,3,Silver2
+584,584,585,50,Male,Old,Guntur,111,Laptop/PC,Linux,No,4,1,15,4,33668,27271,19,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,3,7,3,3,Silver2
+585,585,586,53,Male,Old,Jhansi,103,Laptop/PC,Windows,No,3,1,10,3,47192,41528,12,0,0,38,Product_upgrade,Customer_support,2,14157,Non Metro,Uttar Pradesh,North,3,2,5,2,Silver1
+586,586,587,53,Male,Old,Kottayam,145,Laptop/PC,Linux,Yes,4,5,19,5,33668,31984,5,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Kerela,South,4,9,3,3,Silver2
+587,587,588,53,Male,Old,Jaipur,118,Laptop/PC,Linux,No,4,6,2,0,33668,29627,12,0,0,26,Product_upgrade,Customer_support,2,10100,Non Metro,Rajasthan,West,4,9,3,2,Silver2
+588,588,589,26,Female,Young,Hubli–Dharwad,184,Laptop/PC,Linux,No,0,4,41,16,56323,45621,19,0,0,21,Product_upgrade,Customer_support,5,16896,Non Metro,Karnartaka,South,4,9,5,5,Silver2
+589,589,590,27,Male,Young,Kolkata,210,Laptop/PC,Windows,No,0,4,42,16,56323,43368,23,0,0,24,Parts_change,Service_center,5,549,Metro,West Bengal,East,3,2,5,5,Silver1
+590,590,591,27,Female,Young,Jabalpur,203,Mobile/Tablet,iOS,Yes,1,7,60,24,89528,68936,23,0,0,15,Product_upgrade,Customer_support,3,26858,Non Metro,Madhya Pradesh,West,8,4,10,5,Platinum1
+591,591,592,59,Female,Old,Vijayawada,121,Laptop/PC,Linux,No,3,3,12,3,47192,36337,23,0,0,18,Product_upgrade,Customer_support,4,14157,Non Metro,Andhra Pradesh,South,4,9,5,3,Silver2
+592,592,593,31,Female,Young,Varanasi,137,Mobile/Tablet,Android,Yes,0,7,53,21,56323,46748,17,0,0,21,Product_upgrade,Customer_support,5,16896,Non Metro,Uttar Pradesh,North,4,4,5,5,Silver1
+593,593,594,27,Male,Young,Meerut,143,Laptop/PC,Windows,Yes,0,7,29,11,56323,45621,19,0,0,33,Parts_change,Service_center,5,1055,Non Metro,Uttar Pradesh,North,3,2,5,4,Silver1
+594,594,595,43,Female,Middle,Tirupati,179,Laptop/PC,Linux,Yes,2,8,33,9,86114,71474,17,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,6,8,6,4,Gold2
+595,595,596,51,Male,Old,Bhubaneswar,134,Laptop/PC,Linux,Yes,5,1,19,5,78227,60234,23,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Orissa,East,1,7,6,3,Gold2
+596,596,597,42,Male,Middle,Tiruchirappalli,65,Mobile/Tablet,Android,No,4,4,23,6,33668,27944,17,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,3,2,3,3,Silver1
+597,597,598,43,Female,Middle,Solapur,107,Mobile/Tablet,Android,No,2,4,12,3,86114,75780,12,0,0,17,Product_upgrade,Customer_support,3,25834,Non Metro,Maharashtra,South,5,3,6,3,Gold1
+598,598,599,57,Male,Old,Gwalior,133,Laptop/PC,Linux,Yes,3,6,12,3,47192,41528,12,0,0,19,Parts_change,Service_center,5,1378,Non Metro,Madhya Pradesh,West,1,7,5,3,Silver2
+599,599,600,45,Male,Middle,Lucknow,144,Laptop/PC,Linux,No,4,6,13,3,33668,31984,5,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,4,9,3,3,Silver2
+600,600,601,41,Female,Middle,Mangalore,156,Mobile/Tablet,Android,Yes,2,6,19,5,86114,71474,17,1,5,7,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,5,3,6,3,Gold1
+601,601,602,58,Male,Old,Bhiwandi,104,Laptop/PC,Linux,Yes,5,3,22,6,78227,64928,17,1,8,4,Technical_Queries,Customer_support,5,0,Non Metro,Maharashtra,South,4,9,6,3,Gold2
+602,602,603,18,Male,Young,Kottayam,178,Mobile/Tablet,Android,Yes,1,3,38,15,89528,68936,23,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,3,2,6,5,Gold1
+603,603,604,34,Male,Young,Erode,145,Laptop/PC,Linux,Yes,2,3,42,16,86114,66307,23,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,3,7,6,5,Gold2
+604,604,605,31,Female,Young,Bhopal,209,Laptop/PC,Linux,No,0,9,40,16,56323,43368,23,0,0,15,Product_upgrade,Customer_support,5,16896,Non Metro,Madhya Pradesh,West,4,9,5,5,Silver2
+605,605,606,38,Female,Middle,Mumbai,102,Laptop/PC,Linux,No,3,6,12,3,47192,41528,12,1,5,7,Technical_Queries,Remote_sharing,5,0,Metro,Maharashtra,South,7,9,5,3,Silver2
+606,606,607,50,Male,Old,Hyderabad,133,Laptop/PC,Windows,No,5,1,25,7,78227,68839,12,0,0,28,Product_upgrade,Customer_support,2,23468,Metro,Telangana,South,1,2,6,3,Gold1
+607,607,608,28,Male,Young,Kozhikode,169,Laptop/PC,Linux,No,2,1,54,21,86114,75780,12,0,0,39,Product_upgrade,Customer_support,5,25834,Non Metro,Kerela,South,8,9,6,5,Gold2
+608,608,609,39,Female,Middle,Vijayawada,88,Mobile/Tablet,Android,Yes,4,8,40,12,33668,31984,5,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,5,3,3,5,Silver1
+609,609,610,41,Female,Middle,Cuttack,131,Laptop/PC,Windows,Yes,4,8,34,10,33668,31984,5,0,0,28,Parts_change,Service_center,4,1252,Non Metro,Orissa,East,5,3,3,4,Silver1
+610,610,611,58,Male,Old,Tiruppur,147,Mobile/Tablet,iOS,No,3,3,8,2,47192,44832,5,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,4,4,9,2,Platinum1
+611,611,612,51,Female,Old,Kollam,125,Mobile/Tablet,Android,Yes,3,6,17,5,47192,38225,19,0,0,30,Parts_change,Service_center,4,2037,Non Metro,Kerela,South,3,2,5,3,Silver1
+612,612,613,19,Male,Young,Indore,173,Mobile/Tablet,iOS,No,1,6,48,19,89528,68936,23,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Madhya Pradesh,West,5,3,10,5,Platinum1
+613,613,614,49,Male,Old,Vadodara,122,Laptop/PC,Linux,Yes,4,6,28,8,33668,27944,17,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Gujrat,West,1,7,3,3,Silver2
+614,614,615,25,Male,Young,Mysore,174,Laptop/PC,Linux,No,2,6,37,14,86114,69752,19,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,7,9,6,5,Gold2
+615,615,616,26,Male,Young,Thrissur,218,Mobile/Tablet,Android,Yes,2,6,36,14,86114,69752,19,1,4,8,Parts_change,Service_center,5,2452,Non Metro,Kerela,South,9,4,6,5,Gold1
+616,616,617,28,Female,Young,Vellore,141,Mobile/Tablet,iOS,Yes,2,7,40,16,86114,66307,23,1,5,7,Technical_Queries,Customer_support,4,0,Non Metro,Tamil Nadu,South,6,3,10,5,Platinum1
+617,617,618,18,Male,Young,Salem,130,Laptop/PC,Linux,No,2,7,30,12,86114,69752,19,1,6,6,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,4,9,6,4,Gold2
+618,618,619,44,Male,Middle,Amravati,175,Laptop/PC,Linux,No,3,8,38,11,47192,41528,12,0,0,38,Product_upgrade,Customer_support,4,14157,Non Metro,Maharashtra,South,4,9,5,5,Silver2
+619,619,620,19,Female,Young,Gulbarga,133,Mobile/Tablet,iOS,Yes,3,6,44,17,47192,44832,5,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,9,4,9,5,Platinum1
+620,620,621,33,Female,Young,Jamnagar,164,Laptop/PC,Windows,Yes,3,6,57,22,47192,36337,23,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Gujrat,West,5,3,5,5,Silver1
+621,621,622,32,Male,Young,Hyderabad,157,Mobile/Tablet,iOS,No,2,6,38,15,86114,81808,5,1,12,0,Technical_Queries,Customer_support,5,0,Metro,Telangana,South,8,4,10,5,Platinum1
+622,622,623,54,Male,Old,Coimbatore,145,Mobile/Tablet,Android,No,5,1,28,8,78227,60234,23,1,10,2,Technical_Queries,Customer_support,4,0,Metro,Andhra Pradesh,South,2,2,6,3,Gold1
+623,623,624,39,Male,Middle,Pondicherry,156,Laptop/PC,Windows,Yes,4,7,36,10,33668,31984,5,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,6,3,3,4,Silver1
+624,624,625,44,Male,Middle,Agra,64,Laptop/PC,Windows,Yes,2,7,35,10,86114,69752,19,0,0,18,Product_upgrade,Customer_support,5,25834,Non Metro,Uttar Pradesh,North,4,4,6,4,Gold1
+625,625,626,38,Female,Middle,Vasai-VirarCity,73,Mobile/Tablet,Android,Yes,2,7,30,9,86114,66307,23,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,6,3,6,3,Gold1
+626,626,627,55,Male,Old,Hyderabad,112,Mobile/Tablet,Android,No,3,1,27,8,47192,44832,5,0,0,17,Parts_change,Service_center,4,1782,Metro,Telangana,South,1,2,5,3,Silver1
+627,627,628,34,Male,Young,Bangalore,205,Mobile/Tablet,Android,Yes,2,1,59,23,86114,81808,5,1,11,1,Technical_Queries,Customer_support,5,0,Metro,Karnartaka,South,4,4,6,5,Gold1
+628,628,629,52,Male,Old,Jammu,121,Laptop/PC,Windows,Yes,5,1,23,6,78227,63363,19,1,5,7,Technical_Queries,Remote_sharing,4,0,Non Metro,Jammu and Kashmir,North,2,2,6,3,Gold1
+629,629,630,54,Male,Old,Nanded,102,Laptop/PC,Windows,No,3,6,5,1,47192,36337,23,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Maharashtra,South,1,2,5,2,Silver1
+630,630,631,42,Female,Middle,Kanpur,84,Mobile/Tablet,iOS,Yes,2,6,36,10,86114,81808,5,1,4,8,Parts_change,Service_center,5,1110,Non Metro,Uttar Pradesh,North,6,3,10,4,Platinum1
+631,631,632,39,Male,Middle,Indore,179,Mobile/Tablet,iOS,No,2,4,34,10,86114,69752,19,1,1,11,Parts_change,Service_center,4,820,Non Metro,Madhya Pradesh,West,7,4,10,4,Platinum1
+632,632,633,24,Female,Young,Dehradun,148,Mobile/Tablet,iOS,Yes,2,6,49,19,86114,69752,19,0,0,27,Product_upgrade,Customer_support,4,25834,Non Metro,Uttrakhand,North,6,3,10,5,Platinum1
+633,633,634,20,Male,Young,Ajmer,170,Mobile/Tablet,Android,Yes,2,6,25,10,86114,71474,17,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Rajasthan,West,6,3,6,3,Gold1
+634,634,635,46,Male,Old,Thiruvananthapuram,144,Laptop/PC,Linux,Yes,4,6,14,4,33668,27944,17,0,0,34,Product_upgrade,Customer_support,5,10100,Non Metro,Kerela,South,3,7,3,3,Silver2
+635,635,636,60,Female,Old,Tiruvannamalai,128,Mobile/Tablet,Android,No,3,6,7,2,47192,36337,23,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,4,4,5,2,Silver1
+636,636,637,53,Female,Old,Chennai,137,Mobile/Tablet,iOS,No,5,5,27,8,78227,74315,5,0,0,21,Parts_change,Service_center,5,2272,Metro,Tamil Nadu,South,3,2,10,3,Platinum1
+637,637,638,43,Female,Middle,Ghaziabad,54,Laptop/PC,Linux,Yes,3,6,38,11,47192,44832,5,0,0,21,Parts_change,Service_center,5,1985,Non Metro,Uttar Pradesh,North,7,9,5,5,Silver2
+638,638,639,46,Female,Old,Srinagar,103,Mobile/Tablet,iOS,No,3,1,6,1,47192,44832,5,0,0,15,Product_upgrade,Customer_support,3,14157,Non Metro,Jammu and Kashmir,North,4,4,9,2,Platinum1
+639,639,640,41,Female,Middle,Aligarh,160,Laptop/PC,Windows,No,4,6,16,4,33668,25924,23,0,0,39,Product_upgrade,Customer_support,4,10100,Non Metro,Uttar Pradesh,North,6,3,3,3,Silver1
+640,640,641,60,Female,Old,Bhubaneswar,117,Laptop/PC,Windows,No,5,5,2,0,78227,60234,23,0,0,22,Parts_change,Service_center,4,530,Non Metro,Orissa,East,4,4,6,2,Gold1
+641,641,642,36,Male,Middle,Kottayam,89,Mobile/Tablet,iOS,No,3,7,29,8,47192,39169,17,1,5,7,Parts_change,Service_center,5,567,Non Metro,Kerela,South,5,3,9,3,Platinum1
+642,642,643,52,Male,Old,Siliguri,100,Laptop/PC,Linux,Yes,3,6,24,7,47192,41528,12,0,0,36,Product_upgrade,Customer_support,3,14157,Non Metro,Assam,East,2,7,5,3,Silver2
+643,643,644,24,Female,Young,Visakhapatnam,149,Mobile/Tablet,Android,Yes,2,7,41,16,86114,71474,17,0,0,30,Parts_change,Service_center,5,2439,Metro,Andhra Pradesh,South,4,4,6,5,Gold1
+644,644,645,29,Female,Young,Nagpur,179,Mobile/Tablet,iOS,No,2,6,54,21,86114,81808,5,0,0,17,Product_upgrade,Customer_support,2,25834,Non Metro,Maharashtra,South,6,3,10,5,Platinum1
+645,645,646,58,Female,Old,Kollam,148,Laptop/PC,Linux,No,5,6,11,3,78227,74315,5,1,0,12,Parts_change,Service_center,4,734,Non Metro,Kerela,South,1,7,6,3,Gold2
+646,646,647,29,Female,Young,Indore,210,Laptop/PC,Windows,Yes,3,6,42,16,47192,44832,5,0,0,19,Product_upgrade,Customer_support,5,14157,Non Metro,Madhya Pradesh,West,5,3,5,5,Silver1
+647,647,648,28,Female,Young,Jodhpur,173,Laptop/PC,Windows,Yes,0,6,49,19,56323,43368,23,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Rajasthan,West,4,4,5,5,Silver1
+648,648,649,58,Female,Old,Nanded,136,Laptop/PC,Linux,No,4,5,24,7,33668,27944,17,0,0,39,Product_upgrade,Customer_support,5,10100,Non Metro,Maharashtra,South,4,9,3,3,Silver2
+649,649,650,34,Male,Young,Nagpur,198,Laptop/PC,Linux,No,0,5,36,14,56323,53506,5,1,2,10,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,6,8,5,5,Silver2
+650,650,651,33,Male,Young,Tiruppur,133,Laptop/PC,Linux,Yes,1,5,30,12,89528,68936,23,0,0,15,Product_upgrade,Customer_support,5,26858,Non Metro,Tamil Nadu,South,9,9,6,4,Gold2
+651,651,652,58,Male,Old,Tiruppur,102,Mobile/Tablet,Android,Yes,3,6,1,0,47192,44832,5,1,3,9,Parts_change,Service_center,4,1553,Non Metro,Tamil Nadu,South,1,2,5,2,Silver1
+652,652,653,56,Male,Old,Belgaum,140,Laptop/PC,Linux,No,5,1,19,5,78227,68839,12,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,4,9,6,3,Gold2
+653,653,654,50,Female,Old,Delhi,108,Laptop/PC,Windows,No,3,1,4,1,47192,44832,5,1,4,8,Technical_Queries,Remote_sharing,5,0,Metro,Delhi,North,1,2,5,2,Silver1
+654,654,655,32,Male,Young,Kurnool,214,Mobile/Tablet,iOS,No,2,1,37,14,86114,81808,5,1,1,11,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,7,4,10,5,Platinum1
+655,655,656,55,Male,Old,Kota,148,Mobile/Tablet,Android,No,3,1,10,3,47192,38225,19,0,0,27,Parts_change,Service_center,4,1205,Non Metro,Rajasthan,West,2,2,5,2,Silver1
+656,656,657,42,Female,Middle,Jhansi,125,Mobile/Tablet,Android,No,2,7,15,4,86114,71474,17,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,4,4,6,3,Gold1
+657,657,658,44,Male,Middle,Thiruvananthapuram,177,Mobile/Tablet,Android,No,4,8,37,11,33668,29627,12,1,0,12,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,6,3,3,5,Silver1
+658,658,659,50,Female,Old,Kurnool,115,Laptop/PC,Windows,Yes,5,5,15,4,78227,68839,12,0,0,26,Product_upgrade,Customer_support,3,23468,Non Metro,Andhra Pradesh,South,3,2,6,3,Gold1
+659,659,660,29,Male,Young,Kollam,196,Mobile/Tablet,Android,No,1,5,58,23,89528,74308,17,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,5,3,6,5,Gold1
+660,660,661,47,Female,Old,Bangalore,144,Mobile/Tablet,Android,No,4,3,1,0,33668,25924,23,0,0,25,Parts_change,Service_center,5,1413,Metro,Karnartaka,South,1,2,3,2,Silver1
+661,661,662,59,Male,Old,Goa,103,Mobile/Tablet,Android,Yes,5,6,6,1,78227,63363,19,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Goa,South,2,2,6,2,Gold1
+662,662,663,36,Female,Middle,Salem,106,Laptop/PC,Linux,No,2,4,22,6,86114,75780,12,1,5,7,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,5,8,6,3,Gold2
+663,663,664,53,Female,Old,Sangli,142,Laptop/PC,Linux,Yes,4,3,23,6,33668,29627,12,1,5,7,Parts_change,Service_center,5,1488,Non Metro,Maharashtra,South,1,7,3,3,Silver2
+664,664,665,60,Female,Old,Coimbatore,119,Mobile/Tablet,iOS,No,4,5,19,5,33668,25924,23,1,11,1,Technical_Queries,Customer_support,5,0,Metro,Andhra Pradesh,South,3,2,7,3,Gold1
+665,665,666,24,Female,Young,Mangalore,217,Mobile/Tablet,Android,Yes,0,9,49,19,56323,53506,5,0,0,34,Product_upgrade,Customer_support,4,16896,Non Metro,Karnartaka,South,8,4,5,5,Silver1
+666,666,667,42,Female,Middle,Bhavnagar,115,Laptop/PC,Windows,No,3,4,21,6,47192,36337,23,1,4,8,Parts_change,Service_center,4,2014,Non Metro,Gujrat,West,5,3,5,3,Silver1
+667,667,668,22,Male,Young,Hyderabad,170,Laptop/PC,Linux,Yes,1,4,48,19,89528,74308,17,0,0,23,Parts_change,Service_center,5,1602,Metro,Telangana,South,3,7,6,5,Gold2
+668,668,669,45,Female,Middle,Mangalore,139,Mobile/Tablet,iOS,No,2,8,25,7,86114,75780,12,0,0,39,Product_upgrade,Customer_support,2,25834,Non Metro,Karnartaka,South,6,3,10,3,Platinum1
+669,669,670,40,Male,Middle,Guwahati,77,Laptop/PC,Linux,Yes,2,7,28,8,86114,69752,19,0,0,35,Parts_change,Service_center,4,1799,Non Metro,Assam,East,6,8,6,3,Gold2
+670,670,671,43,Female,Middle,Bhiwandi,151,Mobile/Tablet,iOS,Yes,3,8,10,3,47192,38225,19,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,7,4,9,2,Platinum1
+671,671,672,26,Female,Young,Indore,143,Laptop/PC,Windows,Yes,2,4,45,18,86114,66307,23,0,0,20,Parts_change,Service_center,5,824,Non Metro,Madhya Pradesh,West,8,4,6,5,Gold1
+672,672,673,41,Male,Middle,Malappuram,96,Mobile/Tablet,iOS,Yes,4,8,12,3,33668,25924,23,0,0,30,Product_upgrade,Customer_support,4,10100,Non Metro,Kerela,South,3,2,7,3,Gold1
+673,673,674,30,Male,Young,Kannur,149,Mobile/Tablet,iOS,Yes,1,8,29,11,89528,74308,17,1,1,11,Parts_change,Service_center,4,2132,Non Metro,Kerela,South,6,3,10,4,Platinum1
+674,674,675,46,Male,Old,Firozabad,130,Mobile/Tablet,iOS,Yes,5,3,29,8,78227,64928,17,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,2,2,10,3,Platinum1
+675,675,676,41,Male,Middle,Vijayawada,95,Mobile/Tablet,iOS,Yes,2,6,19,5,86114,75780,12,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,7,4,10,3,Platinum1
+676,676,677,33,Male,Young,Agra,138,Mobile/Tablet,Android,No,1,6,50,20,89528,78784,12,0,0,35,Product_upgrade,Customer_support,3,26858,Non Metro,Uttar Pradesh,North,5,3,6,5,Gold1
+677,677,678,40,Male,Middle,Goa,53,Mobile/Tablet,Android,No,4,7,13,3,33668,29627,12,0,0,14,Parts_change,Service_center,4,1414,Non Metro,Goa,South,7,4,3,3,Silver1
+678,678,679,24,Male,Young,Faridabad,157,Laptop/PC,Linux,Yes,2,7,50,20,86114,75780,12,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Haryana,North,3,7,6,5,Gold2
+679,679,680,23,Female,Young,Mysore,211,Mobile/Tablet,iOS,No,2,6,57,22,86114,69752,19,1,12,0,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,7,4,10,5,Platinum1
+680,680,681,45,Male,Middle,Moradabad,121,Laptop/PC,Windows,No,3,6,13,3,47192,39169,17,0,0,17,Product_upgrade,Customer_support,3,14157,Non Metro,Uttar Pradesh,North,5,3,5,3,Silver1
+681,681,682,60,Female,Old,Bhavnagar,120,Laptop/PC,Windows,Yes,3,3,6,1,47192,36337,23,0,0,39,Product_upgrade,Customer_support,4,14157,Non Metro,Gujrat,West,2,2,5,2,Silver1
+682,682,683,42,Female,Middle,Chandigarh,98,Mobile/Tablet,Android,No,4,3,20,6,33668,29627,12,0,0,24,Product_upgrade,Customer_support,4,10100,Non Metro,Punjab,North,6,3,3,3,Silver1
+683,683,684,21,Female,Young,Ujjain,158,Mobile/Tablet,Android,Yes,3,4,47,18,47192,36337,23,0,0,39,Product_upgrade,Customer_support,5,14157,Non Metro,Punjab,North,5,3,5,5,Silver1
+684,684,685,50,Male,Old,Guwahati,140,Mobile/Tablet,iOS,Yes,4,1,25,7,33668,27944,17,0,0,17,Parts_change,Service_center,4,1625,Non Metro,Assam,East,4,4,7,3,Gold1
+685,685,686,49,Male,Old,Mysore,136,Mobile/Tablet,Android,Yes,3,3,4,1,47192,44832,5,0,0,18,Product_upgrade,Customer_support,3,14157,Non Metro,Karnartaka,South,4,4,5,2,Silver1
+686,686,687,34,Female,Young,Moradabad,152,Laptop/PC,Windows,Yes,0,6,54,21,56323,53506,5,0,0,19,Product_upgrade,Customer_support,3,16896,Non Metro,Uttar Pradesh,North,3,2,5,5,Silver1
+687,687,688,55,Male,Old,Ranchi,129,Mobile/Tablet,Android,Yes,4,3,9,2,33668,27271,19,0,0,31,Product_upgrade,Customer_support,2,10100,Non Metro,Jharkhand,East,2,2,3,2,Silver1
+688,688,689,45,Male,Middle,Visakhapatnam,138,Mobile/Tablet,iOS,Yes,2,4,36,10,86114,81808,5,1,0,12,Technical_Queries,Remote_sharing,5,0,Metro,Andhra Pradesh,South,5,3,10,4,Platinum1
+689,689,690,25,Male,Young,Pune,154,Mobile/Tablet,Android,Yes,2,4,53,21,86114,75780,12,0,0,23,Product_upgrade,Customer_support,3,25834,Metro,Maharashtra,South,9,4,6,5,Gold1
+690,690,691,34,Female,Young,Gurgaon,158,Mobile/Tablet,iOS,No,1,4,47,18,89528,74308,17,1,3,9,Technical_Queries,Remote_sharing,4,0,Non Metro,Haryana,North,3,2,10,5,Platinum1
+691,691,692,46,Female,Old,Erode,107,Laptop/PC,Linux,Yes,3,6,8,2,47192,38225,19,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,2,7,5,2,Silver2
+692,692,693,28,Male,Young,Mysore,201,Laptop/PC,Linux,No,0,6,59,23,56323,53506,5,1,4,8,Parts_change,Service_center,4,612,Non Metro,Karnartaka,South,6,8,5,5,Silver2
+693,693,694,30,Female,Young,Mangalore,164,Laptop/PC,Windows,Yes,3,4,60,24,47192,36337,23,0,0,17,Product_upgrade,Customer_support,4,14157,Non Metro,Karnartaka,South,3,2,5,5,Silver1
+694,694,695,29,Male,Young,Hubli–Dharwad,171,Laptop/PC,Windows,No,2,4,33,13,86114,69752,19,1,2,10,Technical_Queries,Remote_sharing,5,0,Non Metro,Karnartaka,South,8,4,6,5,Gold1
+695,695,696,19,Male,Young,Nashik,148,Mobile/Tablet,iOS,No,2,4,27,10,86114,66307,23,0,0,25,Product_upgrade,Customer_support,4,25834,Non Metro,Maharashtra,South,9,4,10,3,Platinum1
+696,696,697,18,Female,Young,Kolkata,161,Laptop/PC,Windows,No,0,7,55,22,56323,43368,23,0,0,20,Product_upgrade,Customer_support,2,16896,Metro,West Bengal,East,3,2,5,5,Silver1
+697,697,698,28,Male,Young,Tiruchirappalli,172,Laptop/PC,Windows,Yes,1,7,46,18,89528,74308,17,0,0,31,Product_upgrade,Customer_support,5,26858,Non Metro,Tamil Nadu,South,6,3,6,5,Gold1
+698,698,699,35,Female,Young,Salem,197,Mobile/Tablet,iOS,Yes,3,7,57,22,47192,39169,17,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,3,2,9,5,Platinum1
+699,699,700,49,Female,Old,Hyderabad,128,Laptop/PC,Windows,No,3,3,21,6,47192,36337,23,0,0,14,Product_upgrade,Customer_support,3,14157,Metro,Telangana,South,3,2,5,3,Silver1
+700,700,701,18,Male,Young,Kanpur,196,Laptop/PC,Windows,Yes,0,3,46,18,56323,53506,5,1,0,12,Parts_change,Service_center,5,1165,Non Metro,Uttar Pradesh,North,4,4,5,5,Silver1
+701,701,702,23,Female,Young,Allahabad,179,Mobile/Tablet,iOS,Yes,3,10,44,17,47192,39169,17,1,1,11,Parts_change,Service_center,4,1659,Non Metro,Uttar Pradesh,North,9,4,9,5,Platinum1
+702,702,703,36,Female,Middle,Bhilai,156,Mobile/Tablet,Android,Yes,3,4,27,8,47192,44832,5,0,0,14,Parts_change,Service_center,5,2330,Non Metro,Chattisgarh,East,6,3,5,3,Silver1
+703,703,704,46,Female,Old,Mumbai,144,Laptop/PC,Linux,No,4,3,25,7,33668,31984,5,1,9,3,Technical_Queries,Customer_support,5,0,Metro,Maharashtra,South,1,7,3,3,Silver2
+704,704,705,40,Male,Middle,Nellore,92,Mobile/Tablet,iOS,No,3,8,27,8,47192,41528,12,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,3,2,9,3,Platinum1
+705,705,706,49,Female,Old,Raipur,103,Mobile/Tablet,Android,Yes,3,5,27,8,47192,38225,19,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Chattisgarh,East,2,2,5,3,Silver1
+706,706,707,47,Male,Old,Firozabad,120,Mobile/Tablet,Android,No,5,1,16,4,78227,74315,5,1,5,7,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,2,2,6,3,Gold1
+707,707,708,48,Male,Old,Noida,110,Mobile/Tablet,Android,Yes,5,5,17,5,78227,68839,12,1,4,8,Parts_change,Service_center,4,2290,Non Metro,Uttar Pradesh,North,2,2,6,3,Gold1
+708,708,709,27,Male,Young,Ujjain,175,Laptop/PC,Windows,Yes,2,5,60,24,86114,66307,23,0,0,33,Parts_change,Service_center,5,960,Non Metro,Punjab,North,4,4,6,5,Gold1
+709,709,710,52,Female,Old,Sangli,142,Mobile/Tablet,Android,Yes,5,3,6,1,78227,63363,19,0,0,23,Parts_change,Service_center,4,973,Non Metro,Maharashtra,South,1,2,6,2,Gold1
+710,710,711,25,Male,Young,Dehradun,211,Mobile/Tablet,Android,Yes,1,3,28,11,89528,78784,12,0,0,29,Parts_change,Service_center,4,1579,Non Metro,Uttrakhand,North,3,2,6,4,Gold1
+711,711,712,52,Male,Old,Meerut,100,Laptop/PC,Linux,Yes,5,3,29,8,78227,74315,5,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,3,7,6,3,Gold2
+712,712,713,33,Female,Young,Bhiwandi,150,Laptop/PC,Windows,No,1,9,52,20,89528,78784,12,1,0,12,Parts_change,Service_center,4,1869,Non Metro,Maharashtra,South,4,4,6,5,Gold1
+713,713,714,44,Male,Middle,Amritsar,126,Mobile/Tablet,iOS,Yes,3,8,13,3,47192,36337,23,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Punjab,North,7,4,9,3,Platinum1
+714,714,715,59,Female,Old,Sangli,116,Laptop/PC,Linux,No,5,5,28,8,78227,64928,17,1,7,5,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,4,9,6,3,Gold2
+715,715,716,21,Male,Young,Kolkata,145,Mobile/Tablet,iOS,No,2,5,40,16,86114,81808,5,1,5,7,Technical_Queries,Remote_sharing,4,0,Metro,West Bengal,East,3,2,10,5,Platinum1
+716,716,717,36,Female,Middle,Guwahati,60,Laptop/PC,Linux,Yes,3,7,36,10,47192,36337,23,1,6,6,Technical_Queries,Remote_sharing,5,0,Non Metro,Assam,East,5,8,5,4,Silver2
+717,717,718,57,Male,Old,Salem,131,Laptop/PC,Windows,Yes,5,3,11,3,78227,68839,12,0,0,25,Parts_change,Service_center,4,487,Non Metro,Tamil Nadu,South,3,2,6,3,Gold1
+718,718,719,51,Female,Old,Jodhpur,141,Mobile/Tablet,iOS,No,5,3,12,3,78227,68839,12,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Rajasthan,West,3,2,10,3,Platinum1
+719,719,720,21,Male,Young,Warangal,210,Mobile/Tablet,Android,No,2,3,60,24,86114,66307,23,0,0,23,Parts_change,Service_center,4,1603,Non Metro,Telangana,South,3,2,6,5,Gold1
+720,720,721,23,Female,Young,Patna,188,Mobile/Tablet,Android,No,2,7,53,21,86114,75780,12,1,2,10,Parts_change,Service_center,4,1157,Non Metro,Bihar,East,8,4,6,5,Gold1
+721,721,722,54,Male,Old,Mangalore,117,Mobile/Tablet,iOS,Yes,4,1,18,5,33668,29627,12,0,0,39,Product_upgrade,Customer_support,3,10100,Non Metro,Karnartaka,South,4,4,7,3,Gold1
+722,722,723,34,Male,Young,Kochi,198,Laptop/PC,Linux,Yes,0,1,31,12,56323,45621,19,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,9,9,5,5,Silver2
+723,723,724,27,Male,Young,Ranchi,182,Laptop/PC,Windows,Yes,1,1,30,12,89528,72517,19,1,11,1,Technical_Queries,Customer_support,4,0,Non Metro,Jharkhand,East,4,4,6,4,Gold1
+724,724,725,39,Female,Middle,Kottayam,57,Mobile/Tablet,Android,No,2,7,15,4,86114,71474,17,1,5,7,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,4,4,6,3,Gold1
+725,725,726,46,Male,Old,Gurgaon,134,Mobile/Tablet,iOS,No,3,5,23,6,47192,38225,19,0,0,30,Parts_change,Service_center,4,1710,Non Metro,Haryana,North,3,2,9,3,Platinum1
+726,726,727,31,Female,Young,Indore,211,Mobile/Tablet,iOS,Yes,2,9,53,21,86114,75780,12,0,0,38,Product_upgrade,Customer_support,3,25834,Non Metro,Madhya Pradesh,West,5,3,10,5,Platinum1
+727,727,728,53,Male,Old,Mysore,129,Laptop/PC,Linux,Yes,4,5,14,4,33668,31984,5,0,0,36,Product_upgrade,Customer_support,2,10100,Non Metro,Karnartaka,South,3,7,3,3,Silver2
+728,728,729,59,Female,Old,Kolhapur,124,Laptop/PC,Windows,Yes,3,5,8,2,47192,44832,5,0,0,17,Product_upgrade,Customer_support,5,14157,Non Metro,Maharashtra,South,3,2,5,2,Silver1
+729,729,730,32,Male,Young,Kolkata,188,Laptop/PC,Linux,Yes,0,5,38,15,56323,49564,12,0,0,39,Product_upgrade,Customer_support,2,16896,Metro,West Bengal,East,6,8,5,5,Silver2
+730,730,731,58,Female,Old,Kottayam,119,Laptop/PC,Linux,Yes,5,3,17,5,78227,74315,5,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,1,7,6,3,Gold2
+731,731,732,55,Female,Old,Bhopal,112,Laptop/PC,Linux,No,3,6,2,0,47192,39169,17,0,0,38,Product_upgrade,Customer_support,5,14157,Non Metro,Madhya Pradesh,West,4,9,5,2,Silver2
+732,732,733,38,Male,Middle,Madurai,86,Mobile/Tablet,iOS,No,2,3,22,6,86114,69752,19,0,0,35,Product_upgrade,Customer_support,5,25834,Non Metro,Tamil Nadu,South,5,3,10,3,Platinum1
+733,733,734,41,Male,Middle,Goa,104,Mobile/Tablet,iOS,No,4,6,18,5,33668,25924,23,0,0,29,Product_upgrade,Customer_support,3,10100,Non Metro,Goa,South,7,4,7,3,Gold1
+734,734,735,25,Male,Young,Kota,174,Mobile/Tablet,iOS,No,1,6,29,11,89528,85051,5,1,4,8,Parts_change,Service_center,5,1447,Non Metro,Rajasthan,West,6,3,10,4,Platinum1
+735,735,736,43,Male,Middle,Raipur,77,Mobile/Tablet,Android,Yes,4,4,29,8,33668,27944,17,0,0,22,Parts_change,Service_center,4,1261,Non Metro,Chattisgarh,East,6,3,3,3,Silver1
+736,736,737,42,Female,Middle,Nagpur,86,Laptop/PC,Windows,No,3,6,20,6,47192,41528,12,0,0,19,Parts_change,Service_center,5,464,Non Metro,Maharashtra,South,4,4,5,3,Silver1
+737,737,738,36,Female,Middle,Jamshedpur,169,Mobile/Tablet,iOS,No,4,3,16,4,33668,29627,12,1,5,7,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,5,3,7,3,Gold1
+738,738,739,25,Female,Young,Mangalore,205,Mobile/Tablet,Android,No,3,9,44,17,47192,36337,23,0,0,34,Parts_change,Service_center,5,1244,Non Metro,Karnartaka,South,7,4,5,5,Silver1
+739,739,740,24,Female,Young,Gulbarga,156,Laptop/PC,Linux,No,3,10,52,20,47192,44832,5,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,5,8,5,5,Silver2
+740,740,741,19,Male,Young,Salem,181,Laptop/PC,Windows,No,2,10,44,17,86114,81808,5,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Tamil Nadu,South,3,2,6,5,Gold1
+741,741,742,33,Male,Young,Bikaner,131,Mobile/Tablet,Android,Yes,2,10,53,21,86114,81808,5,0,0,34,Product_upgrade,Customer_support,5,25834,Non Metro,Rajasthan,West,9,4,6,5,Gold1
+742,742,743,45,Male,Middle,Thiruvananthapuram,108,Mobile/Tablet,Android,No,4,6,18,5,33668,27271,19,1,0,12,Parts_change,Service_center,4,2218,Non Metro,Kerela,South,3,2,3,3,Silver1
+743,743,744,28,Male,Young,Ahmedabad,145,Mobile/Tablet,iOS,No,1,6,45,18,89528,72517,19,0,0,13,Product_upgrade,Customer_support,2,26858,Metro,Gujrat,West,6,3,10,5,Platinum1
+744,744,745,33,Male,Young,Aligarh,165,Laptop/PC,Linux,No,2,6,50,20,86114,75780,12,0,0,28,Product_upgrade,Customer_support,4,25834,Non Metro,Uttar Pradesh,North,5,8,6,5,Gold2
+745,745,746,58,Male,Old,Palakkad,121,Mobile/Tablet,iOS,No,3,5,15,4,47192,38225,19,0,0,19,Product_upgrade,Customer_support,4,14157,Non Metro,Kerela,South,2,2,9,3,Platinum1
+746,746,747,39,Female,Middle,Guntur,162,Mobile/Tablet,iOS,Yes,4,6,10,3,33668,31984,5,0,0,35,Parts_change,Service_center,5,1434,Non Metro,Andhra Pradesh,South,7,4,7,2,Gold1
+747,747,748,28,Male,Young,Guwahati,138,Mobile/Tablet,Android,Yes,2,6,42,16,86114,71474,17,0,0,38,Product_upgrade,Customer_support,4,25834,Non Metro,Assam,East,9,4,6,5,Gold1
+748,748,749,30,Female,Young,Siliguri,152,Mobile/Tablet,Android,No,1,10,48,19,89528,72517,19,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Assam,East,6,3,6,5,Gold1
+749,749,750,24,Male,Young,Jalandhar,155,Mobile/Tablet,iOS,No,2,10,48,19,86114,75780,12,0,0,35,Product_upgrade,Customer_support,2,25834,Non Metro,Punjab,North,9,4,10,5,Platinum1
+750,750,751,39,Female,Middle,Aurangabad,95,Mobile/Tablet,Android,No,2,7,39,11,86114,66307,23,1,2,10,Parts_change,Service_center,4,1555,Non Metro,Uttar Pradesh,North,3,2,6,5,Gold1
+751,751,752,54,Male,Old,Agra,116,Laptop/PC,Windows,No,4,5,23,6,33668,29627,12,0,0,25,Product_upgrade,Customer_support,5,10100,Non Metro,Uttar Pradesh,North,1,2,3,3,Silver1
+752,752,753,25,Female,Young,Chennai,141,Mobile/Tablet,iOS,No,2,9,57,22,86114,66307,23,1,11,1,Technical_Queries,Customer_support,5,0,Metro,Tamil Nadu,South,8,4,10,5,Platinum1
+753,753,754,26,Female,Young,Jabalpur,140,Laptop/PC,Linux,Yes,3,10,60,24,47192,38225,19,0,0,36,Product_upgrade,Customer_support,3,14157,Non Metro,Madhya Pradesh,West,9,9,5,5,Silver2
+754,754,755,54,Male,Old,Gorakhpur,132,Laptop/PC,Linux,Yes,5,3,15,4,78227,63363,19,0,0,13,Product_upgrade,Customer_support,3,23468,Non Metro,Haryana,North,3,7,6,3,Gold2
+755,755,756,26,Male,Young,Rourkela,149,Mobile/Tablet,iOS,Yes,0,3,60,24,56323,53506,5,0,0,25,Parts_change,Service_center,4,756,Non Metro,Orissa,East,9,4,9,5,Platinum1
+756,756,757,55,Female,Old,Kozhikode,105,Laptop/PC,Linux,Yes,5,3,23,6,78227,74315,5,1,3,9,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,3,7,6,3,Gold2
+757,757,758,37,Male,Middle,Bhopal,110,Laptop/PC,Linux,Yes,2,4,19,5,86114,81808,5,0,0,28,Parts_change,Service_center,4,1083,Non Metro,Madhya Pradesh,West,7,9,6,3,Gold2
+758,758,759,28,Female,Young,Gorakhpur,153,Laptop/PC,Linux,Yes,1,9,58,23,89528,78784,12,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Haryana,North,6,8,6,5,Gold2
+759,759,760,47,Male,Old,Bhubaneswar,103,Laptop/PC,Linux,Yes,4,1,22,6,33668,25924,23,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Orissa,East,4,9,3,3,Silver2
+760,760,761,26,Male,Young,Jamshedpur,218,Laptop/PC,Windows,No,1,1,28,11,89528,72517,19,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Jharkhand,East,3,2,6,4,Gold1
+761,761,762,38,Female,Middle,Bikaner,93,Mobile/Tablet,Android,Yes,4,3,24,7,33668,27944,17,0,0,16,Parts_change,Service_center,5,2127,Non Metro,Rajasthan,West,5,3,3,3,Silver1
+762,762,763,57,Female,Old,Nellore,138,Mobile/Tablet,Android,Yes,5,1,29,8,78227,63363,19,1,3,9,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,2,2,6,3,Gold1
+763,763,764,60,Female,Old,Lucknow,121,Laptop/PC,Windows,Yes,4,3,15,4,33668,29627,12,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,4,4,3,3,Silver1
+764,764,765,53,Male,Old,Dhanbad,142,Laptop/PC,Windows,Yes,5,3,5,1,78227,74315,5,1,8,4,Technical_Queries,Customer_support,5,0,Non Metro,Jharkhand,East,1,2,6,2,Gold1
+765,765,766,46,Female,Old,Asansol,131,Laptop/PC,Linux,No,4,1,30,9,33668,27271,19,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,West Bengal,East,3,7,3,3,Silver2
+766,766,767,43,Female,Middle,Vellore,135,Mobile/Tablet,iOS,Yes,2,4,13,3,86114,81808,5,0,0,17,Parts_change,Service_center,4,757,Non Metro,Tamil Nadu,South,4,4,10,3,Platinum1
+767,767,768,22,Female,Young,Noida,212,Mobile/Tablet,Android,No,0,10,49,19,56323,46748,17,1,5,7,Parts_change,Service_center,4,1162,Non Metro,Uttar Pradesh,North,3,2,5,5,Silver1
+768,768,769,33,Female,Young,Meerut,203,Laptop/PC,Linux,No,0,7,47,18,56323,43368,23,0,0,31,Product_upgrade,Customer_support,3,16896,Non Metro,Uttar Pradesh,North,8,9,5,5,Silver2
+769,769,770,34,Female,Young,Malappuram,157,Mobile/Tablet,Android,No,1,7,51,20,89528,72517,19,1,3,9,Technical_Queries,Customer_support,5,0,Non Metro,Kerela,South,4,4,6,5,Gold1
+770,770,771,27,Male,Young,Vijayawada,169,Mobile/Tablet,iOS,Yes,2,7,37,14,86114,69752,19,1,1,11,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,4,4,10,5,Platinum1
+771,771,772,32,Male,Young,Tiruppur,189,Mobile/Tablet,iOS,Yes,1,7,59,23,89528,74308,17,1,0,12,Parts_change,Service_center,4,2372,Non Metro,Tamil Nadu,South,4,4,10,5,Platinum1
+772,772,773,19,Male,Young,Visakhapatnam,207,Laptop/PC,Linux,Yes,2,7,44,17,86114,69752,19,1,1,11,Technical_Queries,Remote_sharing,5,0,Metro,Andhra Pradesh,South,9,9,6,5,Gold2
+773,773,774,25,Female,Young,Nashik,161,Mobile/Tablet,Android,No,2,7,40,16,86114,71474,17,1,0,12,Technical_Queries,Customer_support,5,0,Non Metro,Maharashtra,South,8,4,6,5,Gold1
+774,774,775,39,Female,Middle,Bhubaneswar,59,Laptop/PC,Linux,Yes,4,6,35,10,33668,25924,23,1,12,0,Technical_Queries,Remote_sharing,4,0,Non Metro,Orissa,East,7,9,3,4,Silver2
+775,775,776,28,Female,Young,Delhi,153,Laptop/PC,Linux,No,2,6,41,16,86114,69752,19,0,0,14,Parts_change,Service_center,4,1409,Metro,Delhi,North,7,9,6,5,Gold2
+776,776,777,54,Male,Old,Madurai,149,Laptop/PC,Linux,No,5,5,24,7,78227,63363,19,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,3,7,6,3,Gold2
+777,777,778,56,Female,Old,Kolkata,137,Mobile/Tablet,Android,Yes,5,3,13,3,78227,64928,17,0,0,33,Parts_change,Service_center,4,539,Metro,West Bengal,East,2,2,6,3,Gold1
+778,778,779,19,Female,Young,Salem,211,Laptop/PC,Windows,No,1,9,58,23,89528,85051,5,0,0,24,Product_upgrade,Customer_support,4,26858,Non Metro,Tamil Nadu,South,3,2,6,5,Gold1
+779,779,780,34,Female,Young,Bhilai,155,Mobile/Tablet,iOS,Yes,3,9,55,22,47192,41528,12,1,11,1,Technical_Queries,Customer_support,4,0,Non Metro,Chattisgarh,East,6,3,9,5,Platinum1
+780,780,781,24,Male,Young,Chennai,167,Laptop/PC,Linux,Yes,2,9,55,22,86114,75780,12,0,0,26,Parts_change,Service_center,4,971,Metro,Tamil Nadu,South,8,9,6,5,Gold2
+781,781,782,36,Female,Middle,Salem,139,Laptop/PC,Windows,Yes,4,7,38,11,33668,27271,19,1,2,10,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,3,2,3,5,Silver1
+782,782,783,20,Male,Young,Thiruvananthapuram,196,Mobile/Tablet,Android,Yes,2,7,46,18,86114,75780,12,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Kerela,South,5,3,6,5,Gold1
+783,783,784,24,Male,Young,Warangal,196,Laptop/PC,Linux,Yes,1,7,25,10,89528,72517,19,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Telangana,South,9,9,6,3,Gold2
+784,784,785,40,Female,Middle,Mysore,176,Mobile/Tablet,Android,Yes,3,3,23,6,47192,36337,23,0,0,20,Product_upgrade,Customer_support,2,14157,Non Metro,Karnartaka,South,6,3,5,3,Silver1
+785,785,786,39,Male,Middle,Delhi,120,Laptop/PC,Linux,No,3,7,35,10,47192,38225,19,1,7,5,Technical_Queries,Remote_sharing,5,0,Metro,Delhi,North,6,8,5,4,Silver2
+786,786,787,27,Male,Young,Bhiwandi,178,Mobile/Tablet,Android,No,2,7,32,12,86114,81808,5,0,0,31,Product_upgrade,Customer_support,5,25834,Non Metro,Maharashtra,South,7,4,6,5,Gold1
+787,787,788,59,Male,Old,Guwahati,135,Mobile/Tablet,Android,No,3,5,19,5,47192,36337,23,0,0,30,Parts_change,Service_center,5,611,Non Metro,Assam,East,1,2,5,3,Silver1
+788,788,789,58,Female,Old,Jalandhar,137,Mobile/Tablet,iOS,No,3,6,7,2,47192,44832,5,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Punjab,North,2,2,9,2,Platinum1
+789,789,790,49,Female,Old,Nashik,100,Mobile/Tablet,Android,No,4,3,12,3,33668,27271,19,0,0,36,Product_upgrade,Customer_support,2,10100,Non Metro,Maharashtra,South,3,2,3,3,Silver1
+790,790,791,51,Male,Old,Allahabad,116,Laptop/PC,Linux,No,3,5,11,3,47192,36337,23,0,0,34,Product_upgrade,Customer_support,5,14157,Non Metro,Uttar Pradesh,North,4,9,5,3,Silver2
+791,791,792,18,Male,Young,Kollam,177,Mobile/Tablet,Android,Yes,1,5,57,22,89528,85051,5,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,4,4,6,5,Gold1
+792,792,793,44,Female,Middle,Pondicherry,77,Laptop/PC,Linux,Yes,2,8,36,10,86114,66307,23,0,0,16,Product_upgrade,Customer_support,4,25834,Non Metro,Tamil Nadu,South,4,9,6,4,Gold2
+793,793,794,18,Female,Young,Hyderabad,210,Laptop/PC,Linux,Yes,3,4,51,20,47192,39169,17,1,9,3,Technical_Queries,Remote_sharing,5,0,Metro,Telangana,South,9,9,5,5,Silver2
+794,794,795,19,Male,Young,Kollam,135,Mobile/Tablet,iOS,No,2,4,39,15,86114,66307,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,3,2,10,5,Platinum1
+795,795,796,30,Female,Young,Tiruppur,212,Mobile/Tablet,Android,Yes,1,9,40,16,89528,74308,17,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,8,4,6,5,Gold1
+796,796,797,60,Male,Old,Sangli,104,Mobile/Tablet,Android,No,3,3,10,3,47192,41528,12,1,8,4,Technical_Queries,Remote_sharing,5,0,Non Metro,Maharashtra,South,1,2,5,2,Silver1
+797,797,798,24,Female,Young,Hubli–Dharwad,187,Laptop/PC,Linux,No,1,10,59,23,89528,72517,19,0,0,14,Parts_change,Service_center,4,2325,Non Metro,Karnartaka,South,6,8,6,5,Gold2
+798,798,799,39,Female,Middle,Ajmer,110,Laptop/PC,Linux,No,2,3,21,6,86114,75780,12,0,0,35,Product_upgrade,Customer_support,3,25834,Non Metro,Rajasthan,West,4,9,6,3,Gold2
+799,799,800,38,Female,Middle,Bangalore,156,Laptop/PC,Linux,No,2,7,10,3,86114,75780,12,0,0,22,Parts_change,Service_center,4,2242,Metro,Karnartaka,South,6,8,6,2,Gold2
+800,800,801,24,Male,Young,Jodhpur,160,Laptop/PC,Linux,No,2,7,51,20,86114,66307,23,1,2,10,Parts_change,Service_center,4,1323,Non Metro,Rajasthan,West,9,9,6,5,Gold2
+801,801,802,31,Male,Young,Allahabad,131,Mobile/Tablet,Android,Yes,0,7,28,11,56323,49564,12,0,0,38,Product_upgrade,Customer_support,2,16896,Non Metro,Uttar Pradesh,North,5,3,5,4,Silver1
+802,802,803,60,Female,Old,Bhavnagar,147,Laptop/PC,Linux,Yes,4,1,8,2,33668,25924,23,0,0,25,Parts_change,Service_center,5,1268,Non Metro,Gujrat,West,2,7,3,2,Silver2
+803,803,804,31,Female,Young,Guntur,142,Mobile/Tablet,Android,Yes,1,7,58,23,89528,68936,23,0,0,31,Product_upgrade,Customer_support,5,26858,Non Metro,Andhra Pradesh,South,5,3,6,5,Gold1
+804,804,805,41,Male,Middle,Bhubaneswar,69,Laptop/PC,Windows,Yes,2,7,38,11,86114,75780,12,1,6,6,Technical_Queries,Customer_support,5,0,Non Metro,Orissa,East,5,3,6,5,Gold1
+805,805,806,39,Female,Middle,Mathura,111,Mobile/Tablet,Android,No,4,6,23,6,33668,27944,17,0,0,35,Product_upgrade,Customer_support,5,10100,Non Metro,Uttar Pradesh,North,4,4,3,3,Silver1
+806,806,807,44,Male,Middle,Tiruppur,114,Laptop/PC,Windows,Yes,4,4,23,6,33668,27271,19,0,0,25,Product_upgrade,Customer_support,4,10100,Non Metro,Tamil Nadu,South,6,3,3,3,Silver1
+807,807,808,53,Male,Old,Ajmer,102,Mobile/Tablet,Android,Yes,5,6,3,0,78227,68839,12,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Rajasthan,West,1,2,6,2,Gold1
+808,808,809,26,Female,Young,Kota,152,Laptop/PC,Windows,No,2,9,60,24,86114,75780,12,0,0,23,Product_upgrade,Customer_support,3,25834,Non Metro,Rajasthan,West,4,4,6,5,Gold1
+809,809,810,20,Male,Young,Tirupati,199,Laptop/PC,Windows,Yes,1,9,59,23,89528,74308,17,0,0,31,Parts_change,Service_center,5,1608,Non Metro,Andhra Pradesh,South,3,2,6,5,Gold1
+810,810,811,19,Female,Young,Kannur,177,Laptop/PC,Windows,Yes,2,7,47,18,86114,69752,19,0,0,29,Product_upgrade,Customer_support,5,25834,Non Metro,Kerela,South,7,4,6,5,Gold1
+811,811,812,21,Male,Young,Moradabad,194,Mobile/Tablet,iOS,No,2,7,43,17,86114,69752,19,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,6,3,10,5,Platinum1
+812,812,813,33,Male,Young,Mangalore,187,Mobile/Tablet,iOS,No,2,7,60,24,86114,81808,5,0,0,15,Parts_change,Service_center,4,1799,Non Metro,Karnartaka,South,9,4,10,5,Platinum1
+813,813,814,60,Female,Old,Durgapur,129,Laptop/PC,Windows,No,3,6,12,3,47192,44832,5,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,West Bengal,East,3,2,5,3,Silver1
+814,814,815,49,Male,Old,Rajahmundry,122,Mobile/Tablet,iOS,No,4,3,22,6,33668,27271,19,0,0,37,Product_upgrade,Customer_support,2,10100,Non Metro,Andhra Pradesh,South,2,2,7,3,Gold1
+815,815,816,20,Male,Young,Raipur,162,Laptop/PC,Windows,No,2,3,36,14,86114,69752,19,1,1,11,Technical_Queries,Remote_sharing,5,0,Non Metro,Chattisgarh,East,3,2,6,5,Gold1
+816,816,817,59,Male,Old,Kurnool,125,Laptop/PC,Linux,Yes,3,6,18,5,47192,38225,19,0,0,38,Product_upgrade,Customer_support,3,14157,Non Metro,Andhra Pradesh,South,2,7,5,3,Silver2
+817,817,818,31,Female,Young,Jamshedpur,136,Mobile/Tablet,iOS,No,3,4,46,18,47192,38225,19,1,0,12,Parts_change,Service_center,5,2425,Non Metro,Jharkhand,East,4,4,9,5,Platinum1
+818,818,819,27,Male,Young,Salem,174,Mobile/Tablet,iOS,Yes,1,4,54,21,89528,68936,23,1,5,7,Parts_change,Service_center,4,1799,Non Metro,Tamil Nadu,South,5,3,10,5,Platinum1
+819,819,820,60,Female,Old,Thrissur,118,Mobile/Tablet,iOS,No,3,3,14,4,47192,39169,17,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,2,2,9,3,Platinum1
+820,820,821,55,Female,Old,Ahmedabad,119,Mobile/Tablet,Android,Yes,4,5,16,4,33668,29627,12,1,11,1,Technical_Queries,Customer_support,4,0,Metro,Gujrat,West,4,4,3,3,Silver1
+821,821,822,26,Female,Young,Bijapur,171,Laptop/PC,Linux,No,2,9,55,22,86114,75780,12,1,3,9,Parts_change,Service_center,4,1108,Non Metro,Karnartaka,South,9,9,6,5,Gold2
+822,822,823,53,Male,Old,Kakinada,112,Laptop/PC,Linux,No,3,1,29,8,47192,39169,17,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,4,9,5,3,Silver2
+823,823,824,40,Male,Middle,Asansol,151,Laptop/PC,Windows,No,3,8,30,9,47192,36337,23,1,6,6,Technical_Queries,Remote_sharing,4,0,Non Metro,West Bengal,East,7,4,5,3,Silver1
+824,824,825,33,Female,Young,Ujjain,134,Laptop/PC,Windows,No,0,4,55,22,56323,53506,5,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,3,2,5,5,Silver1
+825,825,826,29,Male,Young,Kannur,143,Mobile/Tablet,iOS,Yes,1,4,39,15,89528,72517,19,0,0,34,Parts_change,Service_center,4,851,Non Metro,Kerela,South,4,4,10,5,Platinum1
+826,826,827,56,Male,Old,Asansol,135,Mobile/Tablet,iOS,Yes,3,5,9,2,47192,36337,23,0,0,27,Parts_change,Service_center,5,2223,Non Metro,West Bengal,East,4,4,9,2,Platinum1
+827,827,828,19,Male,Young,Kanpur,191,Laptop/PC,Linux,No,1,5,55,22,89528,74308,17,1,9,3,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,4,9,6,5,Gold2
+828,828,829,49,Male,Old,Aurangabad,140,Mobile/Tablet,iOS,No,4,6,20,6,33668,27944,17,0,0,17,Parts_change,Service_center,4,2419,Non Metro,Uttar Pradesh,North,4,4,7,3,Gold1
+829,829,830,33,Female,Young,Varanasi,166,Mobile/Tablet,Android,Yes,0,6,45,18,56323,46748,17,0,0,21,Product_upgrade,Customer_support,3,16896,Non Metro,Uttar Pradesh,North,5,3,5,5,Silver1
+830,830,831,48,Male,Old,Allahabad,150,Laptop/PC,Linux,Yes,5,5,5,1,78227,63363,19,1,1,11,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,3,7,6,2,Gold2
+831,831,832,46,Female,Old,Ujjain,122,Mobile/Tablet,iOS,No,4,6,23,6,33668,29627,12,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Punjab,North,3,2,7,3,Gold1
+832,832,833,18,Male,Young,Mathura,183,Mobile/Tablet,Android,No,1,6,42,16,89528,85051,5,0,0,26,Parts_change,Service_center,5,763,Non Metro,Uttar Pradesh,North,8,4,6,5,Gold1
+833,833,834,34,Male,Young,Jalandhar,130,Laptop/PC,Windows,Yes,1,6,35,14,89528,72517,19,1,8,4,Technical_Queries,Customer_support,5,0,Non Metro,Punjab,North,3,2,6,5,Gold1
+834,834,835,59,Female,Old,Guntur,127,Laptop/PC,Windows,Yes,3,5,20,6,47192,39169,17,0,0,21,Parts_change,Service_center,4,1817,Non Metro,Andhra Pradesh,South,2,2,5,3,Silver1
+835,835,836,32,Female,Young,Mumbai,159,Mobile/Tablet,Android,No,1,10,41,16,89528,85051,5,1,7,5,Technical_Queries,Customer_support,5,0,Metro,Maharashtra,South,4,4,6,5,Gold1
+836,836,837,32,Female,Young,Noida,193,Mobile/Tablet,Android,No,3,10,43,17,47192,39169,17,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,9,4,5,5,Silver1
+837,837,838,49,Male,Old,Ludhiana,143,Laptop/PC,Linux,No,5,1,6,1,78227,60234,23,1,7,5,Technical_Queries,Customer_support,5,0,Non Metro,Punjab,North,2,7,6,2,Gold2
+838,838,839,60,Male,Old,Mangalore,122,Mobile/Tablet,iOS,Yes,5,6,24,7,78227,74315,5,1,7,5,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,3,2,10,3,Platinum1
+839,839,840,21,Female,Young,Rajkot,130,Mobile/Tablet,Android,No,3,6,49,19,47192,41528,12,0,0,32,Product_upgrade,Customer_support,4,14157,Non Metro,Gujrat,West,4,4,5,5,Silver1
+840,840,841,32,Male,Young,Rajahmundry,142,Mobile/Tablet,Android,No,0,6,28,11,56323,53506,5,1,12,0,Technical_Queries,Remote_sharing,5,0,Non Metro,Andhra Pradesh,South,4,4,5,4,Silver1
+841,841,842,42,Male,Middle,Pondicherry,118,Laptop/PC,Linux,Yes,4,6,31,9,33668,27944,17,0,0,21,Parts_change,Service_center,5,1788,Non Metro,Tamil Nadu,South,6,8,3,4,Silver2
+842,842,843,44,Male,Middle,Tirunelveli,88,Mobile/Tablet,iOS,Yes,2,8,32,9,86114,69752,19,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,5,3,10,4,Platinum1
+843,843,844,60,Male,Old,Goa,130,Mobile/Tablet,iOS,Yes,4,5,4,1,33668,27271,19,1,3,9,Parts_change,Service_center,4,2369,Non Metro,Goa,South,1,2,7,2,Gold1
+844,844,845,19,Female,Young,Varanasi,205,Laptop/PC,Windows,Yes,3,10,50,20,47192,38225,19,1,0,12,Parts_change,Service_center,4,1227,Non Metro,Uttar Pradesh,North,3,2,5,5,Silver1
+845,845,846,58,Female,Old,Vijayawada,145,Laptop/PC,Windows,No,4,3,10,3,33668,31984,5,0,0,17,Parts_change,Service_center,4,1354,Non Metro,Andhra Pradesh,South,2,2,3,2,Silver1
+846,846,847,20,Male,Young,Ujjain,138,Mobile/Tablet,Android,Yes,0,3,53,21,56323,46748,17,1,3,9,Technical_Queries,Customer_support,5,0,Non Metro,Punjab,North,5,3,5,5,Silver1
+847,847,848,25,Male,Young,Ahmedabad,173,Mobile/Tablet,Android,Yes,0,3,29,11,56323,53506,5,1,3,9,Parts_change,Service_center,5,646,Metro,Gujrat,West,4,4,5,4,Silver1
+848,848,849,58,Male,Old,Varanasi,144,Laptop/PC,Windows,No,3,6,19,5,47192,36337,23,0,0,27,Product_upgrade,Customer_support,3,14157,Non Metro,Uttar Pradesh,North,3,2,5,3,Silver1
+849,849,850,30,Male,Young,Vijayawada,145,Laptop/PC,Windows,No,1,6,33,13,89528,72517,19,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Andhra Pradesh,South,3,2,6,5,Gold1
+850,850,851,58,Male,Old,Bhavnagar,104,Laptop/PC,Linux,No,4,5,12,3,33668,27944,17,1,2,10,Parts_change,Service_center,4,1705,Non Metro,Gujrat,West,3,7,3,3,Silver2
+851,851,852,42,Female,Middle,Jamshedpur,111,Mobile/Tablet,Android,Yes,4,4,17,5,33668,25924,23,0,0,34,Product_upgrade,Customer_support,4,10100,Non Metro,Jharkhand,East,5,3,3,3,Silver1
+852,852,853,40,Female,Middle,Bhopal,70,Laptop/PC,Windows,No,4,7,36,10,33668,31984,5,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Madhya Pradesh,West,4,4,3,4,Silver1
+853,853,854,56,Female,Old,Bhopal,112,Mobile/Tablet,Android,Yes,3,1,24,7,47192,44832,5,0,0,21,Product_upgrade,Customer_support,3,14157,Non Metro,Madhya Pradesh,West,3,2,5,3,Silver1
+854,854,855,53,Male,Old,Chandigarh,108,Laptop/PC,Linux,No,5,1,11,3,78227,68839,12,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Punjab,North,2,7,6,3,Gold2
+855,855,856,56,Female,Old,Bhubaneswar,130,Mobile/Tablet,Android,Yes,5,5,14,4,78227,60234,23,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Orissa,East,2,2,6,3,Gold1
+856,856,857,58,Female,Old,Jamnagar,127,Laptop/PC,Linux,Yes,3,3,20,6,47192,38225,19,1,4,8,Technical_Queries,Customer_support,5,0,Non Metro,Gujrat,West,1,7,5,3,Silver2
+857,857,858,48,Female,Old,Kozhikode,142,Laptop/PC,Windows,No,3,1,26,7,47192,39169,17,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,4,4,5,3,Silver1
+858,858,859,55,Male,Old,Bhilai,130,Mobile/Tablet,iOS,No,5,3,8,2,78227,64928,17,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Chattisgarh,East,3,2,10,2,Platinum1
+859,859,860,31,Male,Young,Gwalior,191,Laptop/PC,Linux,No,0,3,38,15,56323,46748,17,0,0,17,Parts_change,Service_center,5,715,Non Metro,Madhya Pradesh,West,9,9,5,5,Silver2
+860,860,861,42,Female,Middle,Visakhapatnam,136,Mobile/Tablet,Android,No,4,7,30,9,33668,29627,12,1,1,11,Parts_change,Service_center,5,847,Metro,Andhra Pradesh,South,5,3,3,3,Silver1
+861,861,862,29,Male,Young,Gurgaon,220,Laptop/PC,Linux,No,2,7,58,23,86114,81808,5,0,0,38,Product_upgrade,Customer_support,2,25834,Non Metro,Haryana,North,6,8,6,5,Gold2
+862,862,863,26,Male,Young,Gurgaon,150,Mobile/Tablet,Android,Yes,0,7,54,21,56323,49564,12,0,0,35,Parts_change,Service_center,4,1681,Non Metro,Haryana,North,7,4,5,5,Silver1
+863,863,864,42,Female,Middle,Kakinada,142,Laptop/PC,Windows,No,4,7,17,5,33668,25924,23,0,0,37,Product_upgrade,Customer_support,5,10100,Non Metro,Andhra Pradesh,South,4,4,3,3,Silver1
+864,864,865,41,Male,Middle,Guntur,127,Mobile/Tablet,Android,Yes,4,8,38,11,33668,25924,23,0,0,36,Product_upgrade,Customer_support,2,10100,Non Metro,Andhra Pradesh,South,3,2,3,5,Silver1
+865,865,866,60,Male,Old,Faridabad,149,Mobile/Tablet,Android,Yes,5,6,3,0,78227,60234,23,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Haryana,North,4,4,6,2,Gold1
+866,866,867,47,Female,Old,Palakkad,117,Mobile/Tablet,iOS,Yes,4,1,1,0,33668,27271,19,1,11,1,Technical_Queries,Customer_support,4,0,Non Metro,Kerela,South,1,2,7,2,Gold1
+867,867,868,27,Male,Young,Hubli–Dharwad,173,Laptop/PC,Windows,Yes,2,1,31,12,86114,66307,23,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Karnartaka,South,7,4,6,5,Gold1
+868,868,869,22,Female,Young,Ujjain,193,Mobile/Tablet,Android,No,1,9,50,20,89528,85051,5,0,0,35,Product_upgrade,Customer_support,4,26858,Non Metro,Punjab,North,4,4,6,5,Gold1
+869,869,870,26,Male,Young,Lucknow,205,Mobile/Tablet,iOS,Yes,2,9,29,11,86114,75780,12,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,6,3,10,4,Platinum1
+870,870,871,34,Male,Young,Raipur,176,Mobile/Tablet,Android,No,0,9,26,10,56323,43368,23,0,0,24,Product_upgrade,Customer_support,3,16896,Non Metro,Chattisgarh,East,4,4,5,3,Silver1
+871,871,872,52,Female,Old,Patna,111,Laptop/PC,Windows,No,4,5,7,2,33668,27271,19,1,9,3,Technical_Queries,Remote_sharing,4,0,Non Metro,Bihar,East,4,4,3,2,Silver1
+872,872,873,18,Female,Young,Raipur,214,Mobile/Tablet,Android,No,0,9,55,22,56323,49564,12,1,2,10,Technical_Queries,Customer_support,5,0,Non Metro,Chattisgarh,East,9,4,5,5,Silver1
+873,873,874,22,Male,Young,Jaipur,138,Mobile/Tablet,Android,No,1,9,43,17,89528,68936,23,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Rajasthan,West,9,4,6,5,Gold1
+874,874,875,42,Female,Middle,Vijayawada,126,Laptop/PC,Windows,Yes,4,3,34,10,33668,31984,5,1,3,9,Parts_change,Service_center,4,1027,Non Metro,Andhra Pradesh,South,6,3,3,4,Silver1
+875,875,876,19,Female,Young,Srinagar,153,Mobile/Tablet,iOS,Yes,2,9,51,20,86114,71474,17,0,0,22,Product_upgrade,Customer_support,4,25834,Non Metro,Jammu and Kashmir,North,8,4,10,5,Platinum1
+876,876,877,36,Female,Middle,Kollam,89,Mobile/Tablet,iOS,No,4,6,26,7,33668,25924,23,1,4,8,Parts_change,Service_center,5,1917,Non Metro,Kerela,South,6,3,7,3,Gold1
+877,877,878,55,Female,Old,Moradabad,111,Mobile/Tablet,iOS,No,4,3,12,3,33668,25924,23,1,9,3,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,4,4,7,3,Gold1
+878,878,879,49,Male,Old,Jaipur,146,Mobile/Tablet,iOS,Yes,5,1,12,3,78227,60234,23,1,6,6,Technical_Queries,Remote_sharing,4,0,Non Metro,Rajasthan,West,2,2,10,3,Platinum1
+879,879,880,19,Female,Young,BokaroSteelCity,156,Laptop/PC,Windows,Yes,1,4,41,16,89528,68936,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Jharkhand,East,3,2,6,5,Gold1
+880,880,881,46,Female,Old,Jamnagar,115,Laptop/PC,Linux,No,3,1,7,2,47192,44832,5,0,0,18,Product_upgrade,Customer_support,5,14157,Non Metro,Gujrat,West,3,7,5,2,Silver2
+881,881,882,49,Male,Old,Tiruppur,125,Laptop/PC,Windows,No,4,3,26,7,33668,27271,19,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,2,2,3,3,Silver1
+882,882,883,52,Female,Old,Tiruvannamalai,110,Laptop/PC,Linux,No,5,3,3,0,78227,74315,5,0,0,35,Parts_change,Service_center,4,1284,Non Metro,Andhra Pradesh,South,3,7,6,2,Gold2
+883,883,884,51,Male,Old,Malappuram,124,Laptop/PC,Linux,No,5,6,7,2,78227,63363,19,1,11,1,Technical_Queries,Remote_sharing,5,0,Non Metro,Kerela,South,1,7,6,2,Gold2
+884,884,885,31,Female,Young,Nagpur,156,Mobile/Tablet,iOS,No,0,6,55,22,56323,53506,5,1,1,11,Parts_change,Service_center,5,1937,Non Metro,Maharashtra,South,3,2,9,5,Platinum1
+885,885,886,51,Female,Old,Kollam,114,Mobile/Tablet,iOS,Yes,3,1,12,3,47192,36337,23,1,2,10,Parts_change,Service_center,4,1662,Non Metro,Kerela,South,2,2,9,3,Platinum1
+886,886,887,33,Female,Young,Jodhpur,177,Mobile/Tablet,Android,Yes,3,4,43,17,47192,44832,5,1,2,10,Parts_change,Service_center,5,1838,Non Metro,Rajasthan,West,6,3,5,5,Silver1
+887,887,888,23,Female,Young,Thiruvananthapuram,189,Laptop/PC,Windows,No,1,9,44,17,89528,74308,17,1,1,11,Parts_change,Service_center,5,975,Non Metro,Kerela,South,4,4,6,5,Gold1
+888,888,889,25,Male,Young,Ranchi,198,Laptop/PC,Linux,Yes,2,9,31,12,86114,66307,23,0,0,24,Product_upgrade,Customer_support,4,25834,Non Metro,Jharkhand,East,3,7,6,5,Gold2
+889,889,890,37,Male,Middle,Srinagar,179,Laptop/PC,Linux,Yes,2,6,12,3,86114,81808,5,1,2,10,Parts_change,Service_center,5,601,Non Metro,Jammu and Kashmir,North,5,8,6,3,Gold2
+890,890,891,30,Female,Young,Raipur,219,Mobile/Tablet,iOS,Yes,2,9,59,23,86114,75780,12,1,3,9,Technical_Queries,Customer_support,5,0,Non Metro,Chattisgarh,East,5,3,10,5,Platinum1
+891,891,892,43,Male,Middle,Belgaum,180,Mobile/Tablet,iOS,No,4,6,28,8,33668,25924,23,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,4,4,7,3,Gold1
+892,892,893,31,Male,Young,Jaipur,177,Laptop/PC,Windows,No,2,6,37,14,86114,81808,5,0,0,24,Parts_change,Service_center,5,2102,Non Metro,Rajasthan,West,9,4,6,5,Gold1
+893,893,894,60,Male,Old,Siliguri,127,Mobile/Tablet,Android,No,3,1,21,6,47192,44832,5,1,12,0,Technical_Queries,Remote_sharing,5,0,Non Metro,Assam,East,2,2,5,3,Silver1
+894,894,895,37,Male,Middle,Surat,139,Laptop/PC,Windows,No,2,4,35,10,86114,81808,5,1,11,1,Technical_Queries,Remote_sharing,4,0,Metro,Gujrat,West,6,3,6,4,Gold1
+895,895,896,39,Male,Middle,Mathura,62,Mobile/Tablet,iOS,Yes,3,6,26,7,47192,41528,12,1,3,9,Parts_change,Service_center,4,755,Non Metro,Uttar Pradesh,North,6,3,9,3,Platinum1
+896,896,897,29,Male,Young,Kollam,179,Mobile/Tablet,Android,No,2,6,29,11,86114,71474,17,0,0,28,Parts_change,Service_center,5,2128,Non Metro,Kerela,South,7,4,6,4,Gold1
+897,897,898,29,Female,Young,Firozabad,180,Laptop/PC,Windows,No,0,7,58,23,56323,53506,5,0,0,31,Parts_change,Service_center,5,536,Non Metro,Uttar Pradesh,North,8,4,5,5,Silver1
+898,898,899,46,Male,Old,Goa,147,Laptop/PC,Windows,Yes,3,5,4,1,47192,44832,5,0,0,24,Product_upgrade,Customer_support,3,14157,Non Metro,Goa,South,3,2,5,2,Silver1
+899,899,900,54,Female,Old,Kolhapur,142,Mobile/Tablet,iOS,Yes,5,5,11,3,78227,74315,5,0,0,17,Parts_change,Service_center,5,986,Non Metro,Maharashtra,South,2,2,10,3,Platinum1
+900,900,901,36,Female,Middle,Agra,75,Mobile/Tablet,iOS,No,2,3,40,12,86114,69752,19,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,3,2,10,5,Platinum1
+901,901,902,25,Male,Young,Vellore,219,Mobile/Tablet,Android,No,1,3,31,12,89528,72517,19,1,2,10,Technical_Queries,Customer_support,4,0,Non Metro,Tamil Nadu,South,3,2,6,5,Gold1
+902,902,903,32,Female,Young,Siliguri,176,Mobile/Tablet,Android,Yes,1,4,55,22,89528,68936,23,0,0,35,Parts_change,Service_center,4,1752,Non Metro,Assam,East,9,4,6,5,Gold1
+903,903,904,57,Male,Old,Erode,115,Laptop/PC,Windows,No,3,1,30,9,47192,38225,19,0,0,14,Product_upgrade,Customer_support,5,14157,Non Metro,Tamil Nadu,South,3,2,5,3,Silver1
+904,904,905,24,Male,Young,Tiruvannamalai,169,Mobile/Tablet,iOS,No,2,1,39,15,86114,75780,12,0,0,15,Product_upgrade,Customer_support,3,25834,Non Metro,Andhra Pradesh,South,9,4,10,5,Platinum1
+905,905,906,27,Male,Young,Nanded,204,Laptop/PC,Linux,No,1,1,50,20,89528,68936,23,1,4,8,Parts_change,Service_center,5,1708,Non Metro,Maharashtra,South,9,9,6,5,Gold2
+906,906,907,20,Female,Young,Hubli–Dharwad,189,Laptop/PC,Windows,No,2,4,58,23,86114,75780,12,0,0,38,Product_upgrade,Customer_support,3,25834,Non Metro,Karnartaka,South,3,2,6,5,Gold1
+907,907,908,42,Male,Middle,Rajahmundry,85,Laptop/PC,Windows,Yes,3,4,30,9,47192,44832,5,1,0,12,Technical_Queries,Remote_sharing,4,0,Non Metro,Andhra Pradesh,South,3,2,5,3,Silver1
+908,908,909,60,Female,Old,Kolhapur,126,Laptop/PC,Linux,Yes,5,6,7,2,78227,60234,23,0,0,27,Product_upgrade,Customer_support,2,23468,Non Metro,Maharashtra,South,4,9,6,2,Gold2
+909,909,910,26,Female,Young,Ghaziabad,177,Laptop/PC,Linux,Yes,2,4,41,16,86114,69752,19,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,8,9,6,5,Gold2
+910,910,911,44,Female,Middle,Pondicherry,144,Mobile/Tablet,Android,No,3,4,19,5,47192,41528,12,1,11,1,Technical_Queries,Customer_support,5,0,Non Metro,Tamil Nadu,South,7,4,5,3,Silver1
+911,911,912,43,Male,Middle,Gulbarga,76,Laptop/PC,Linux,Yes,3,7,14,4,47192,38225,19,1,1,11,Technical_Queries,Customer_support,5,0,Non Metro,Karnartaka,South,5,8,5,3,Silver2
+912,912,913,39,Female,Middle,Firozabad,165,Laptop/PC,Linux,Yes,4,8,38,11,33668,27944,17,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,3,7,3,5,Silver2
+913,913,914,44,Male,Middle,Gulbarga,150,Laptop/PC,Linux,Yes,4,6,40,12,33668,29627,12,1,11,1,Technical_Queries,Remote_sharing,4,0,Non Metro,Karnartaka,South,3,7,3,5,Silver2
+914,914,915,24,Female,Young,Ranchi,144,Mobile/Tablet,Android,No,3,7,51,20,47192,39169,17,0,0,34,Parts_change,Service_center,4,682,Non Metro,Jharkhand,East,8,4,5,5,Silver1
+915,915,916,31,Female,Young,Aligarh,219,Mobile/Tablet,iOS,Yes,0,6,49,19,56323,45621,19,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,8,4,9,5,Platinum1
+916,916,917,60,Male,Old,Firozabad,108,Laptop/PC,Windows,No,3,3,6,1,47192,38225,19,1,4,8,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,1,2,5,2,Silver1
+917,917,918,40,Male,Middle,Ujjain,79,Laptop/PC,Linux,Yes,3,7,30,9,47192,39169,17,1,2,10,Parts_change,Service_center,4,1144,Non Metro,Punjab,North,4,9,5,3,Silver2
+918,918,919,53,Female,Old,Mysore,120,Mobile/Tablet,Android,Yes,5,3,17,5,78227,60234,23,0,0,32,Parts_change,Service_center,4,1671,Non Metro,Karnartaka,South,3,2,6,3,Gold1
+919,919,920,22,Male,Young,Jodhpur,179,Laptop/PC,Linux,No,2,3,51,20,86114,66307,23,0,0,38,Product_upgrade,Customer_support,5,25834,Non Metro,Rajasthan,West,4,9,6,5,Gold2
+920,920,921,18,Male,Young,Pune,198,Mobile/Tablet,Android,No,2,3,53,21,86114,75780,12,0,0,32,Parts_change,Service_center,4,711,Metro,Maharashtra,South,3,2,6,5,Gold1
+921,921,922,18,Male,Young,Pondicherry,135,Mobile/Tablet,Android,Yes,2,3,25,10,86114,81808,5,0,0,30,Product_upgrade,Customer_support,4,25834,Non Metro,Tamil Nadu,South,8,4,6,3,Gold1
+922,922,923,37,Male,Middle,Jhansi,99,Laptop/PC,Linux,No,2,3,29,8,86114,69752,19,1,10,2,Technical_Queries,Customer_support,5,0,Non Metro,Uttar Pradesh,North,3,7,6,3,Gold2
+923,923,924,51,Male,Old,Jaipur,110,Laptop/PC,Windows,No,3,3,28,8,47192,36337,23,0,0,33,Parts_change,Service_center,5,1117,Non Metro,Rajasthan,West,4,4,5,3,Silver1
+924,924,925,33,Female,Young,Jhansi,194,Laptop/PC,Linux,Yes,0,6,49,19,56323,49564,12,0,0,32,Parts_change,Service_center,4,1642,Non Metro,Uttar Pradesh,North,5,8,5,5,Silver2
+925,925,926,55,Female,Old,Durgapur,140,Laptop/PC,Windows,No,3,1,30,9,47192,39169,17,0,0,14,Product_upgrade,Customer_support,5,14157,Non Metro,West Bengal,East,4,4,5,3,Silver1
+926,926,927,47,Male,Old,Mathura,104,Laptop/PC,Linux,No,3,1,18,5,47192,36337,23,0,0,17,Product_upgrade,Customer_support,5,14157,Non Metro,Uttar Pradesh,North,2,7,5,3,Silver2
+927,927,928,45,Male,Middle,Meerut,114,Mobile/Tablet,Android,Yes,2,7,33,9,86114,66307,23,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,7,4,6,4,Gold1
+928,928,929,52,Female,Old,Aligarh,126,Laptop/PC,Windows,Yes,4,3,7,2,33668,27271,19,1,4,8,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,2,2,3,2,Silver1
+929,929,930,53,Female,Old,Bhavnagar,130,Mobile/Tablet,iOS,No,4,6,17,5,33668,29627,12,1,4,8,Parts_change,Service_center,4,1690,Non Metro,Gujrat,West,3,2,7,3,Gold1
+930,930,931,50,Female,Old,Moradabad,128,Laptop/PC,Windows,Yes,4,6,4,1,33668,27271,19,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Uttar Pradesh,North,2,2,3,2,Silver1
+931,931,932,33,Female,Young,Aligarh,134,Laptop/PC,Windows,No,3,6,43,17,47192,38225,19,0,0,39,Product_upgrade,Customer_support,2,14157,Non Metro,Uttar Pradesh,North,7,4,5,5,Silver1
+932,932,933,57,Male,Old,Kanpur,114,Mobile/Tablet,Android,No,3,5,2,0,47192,44832,5,0,0,31,Parts_change,Service_center,5,651,Non Metro,Uttar Pradesh,North,4,4,5,2,Silver1
+933,933,934,28,Male,Young,Chandigarh,181,Mobile/Tablet,iOS,Yes,2,5,48,19,86114,66307,23,1,7,5,Technical_Queries,Customer_support,4,0,Non Metro,Punjab,North,4,4,10,5,Platinum1
+934,934,935,36,Male,Middle,Mathura,71,Mobile/Tablet,iOS,No,3,7,26,7,47192,44832,5,0,0,20,Product_upgrade,Customer_support,3,14157,Non Metro,Uttar Pradesh,North,5,3,9,3,Platinum1
+935,935,936,35,Female,Middle,Bhiwandi,153,Mobile/Tablet,iOS,No,3,6,34,10,47192,44832,5,1,0,12,Parts_change,Service_center,4,1458,Non Metro,Maharashtra,South,4,4,9,4,Platinum1
+936,936,937,25,Female,Young,Guwahati,135,Laptop/PC,Linux,Yes,0,4,53,21,56323,43368,23,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Assam,East,7,9,5,5,Silver2
+937,937,938,23,Female,Young,Kannur,182,Laptop/PC,Linux,No,0,10,46,18,56323,46748,17,0,0,24,Parts_change,Service_center,4,2142,Non Metro,Kerela,South,4,9,5,5,Silver2
+938,938,939,45,Male,Middle,Gulbarga,115,Mobile/Tablet,Android,No,2,4,37,11,86114,66307,23,0,0,26,Parts_change,Service_center,4,1533,Non Metro,Karnartaka,South,4,4,6,5,Gold1
+939,939,940,52,Female,Old,Jabalpur,114,Laptop/PC,Windows,No,4,3,11,3,33668,25924,23,1,0,12,Technical_Queries,Customer_support,4,0,Non Metro,Madhya Pradesh,West,4,4,3,3,Silver1
+940,940,941,41,Female,Middle,Amravati,176,Mobile/Tablet,Android,Yes,2,7,16,4,86114,81808,5,0,0,17,Parts_change,Service_center,4,2307,Non Metro,Maharashtra,South,5,3,6,3,Gold1
+941,941,942,56,Female,Old,Mysore,107,Laptop/PC,Linux,No,3,6,19,5,47192,44832,5,0,0,18,Product_upgrade,Customer_support,3,14157,Non Metro,Karnartaka,South,2,7,5,3,Silver2
+942,942,943,28,Female,Young,Vasai-VirarCity,212,Mobile/Tablet,iOS,No,1,9,55,22,89528,72517,19,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Maharashtra,South,7,4,10,5,Platinum1
+943,943,944,49,Female,Old,Gwalior,108,Laptop/PC,Linux,No,3,3,4,1,47192,39169,17,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Madhya Pradesh,West,4,9,5,2,Silver2
+944,944,945,39,Male,Middle,Kolhapur,112,Mobile/Tablet,iOS,Yes,3,8,29,8,47192,39169,17,1,12,0,Technical_Queries,Remote_sharing,4,0,Non Metro,Maharashtra,South,7,4,9,3,Platinum1
+945,945,946,34,Male,Young,Rajkot,186,Mobile/Tablet,Android,Yes,0,8,49,19,56323,43368,23,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Gujrat,West,8,4,5,5,Silver1
+946,946,947,54,Female,Old,Vadodara,100,Mobile/Tablet,Android,Yes,3,5,9,2,47192,36337,23,0,0,20,Parts_change,Service_center,5,785,Non Metro,Gujrat,West,4,4,5,2,Silver1
+947,947,948,39,Male,Middle,Ranchi,134,Mobile/Tablet,iOS,No,4,6,11,3,33668,29627,12,0,0,34,Parts_change,Service_center,5,2301,Non Metro,Jharkhand,East,4,4,7,3,Gold1
+948,948,949,30,Male,Young,Vijayawada,200,Mobile/Tablet,iOS,Yes,2,6,29,11,86114,75780,12,0,0,36,Product_upgrade,Customer_support,2,25834,Non Metro,Andhra Pradesh,South,7,4,10,4,Platinum1
+949,949,950,58,Female,Old,Vadodara,137,Laptop/PC,Windows,Yes,5,3,13,3,78227,60234,23,1,2,10,Parts_change,Service_center,5,1307,Non Metro,Gujrat,West,2,2,6,3,Gold1
+950,950,951,41,Male,Middle,Amritsar,178,Laptop/PC,Windows,Yes,4,3,26,7,33668,31984,5,0,0,30,Parts_change,Service_center,4,1986,Non Metro,Punjab,North,3,2,3,3,Silver1
+951,951,952,59,Female,Old,Dehradun,122,Mobile/Tablet,iOS,Yes,4,5,4,1,33668,25924,23,1,3,9,Technical_Queries,Customer_support,4,0,Non Metro,Uttrakhand,North,4,4,7,2,Gold1
+952,952,953,28,Female,Young,Moradabad,165,Laptop/PC,Linux,Yes,1,10,45,18,89528,74308,17,0,0,17,Parts_change,Service_center,5,697,Non Metro,Uttar Pradesh,North,9,9,6,5,Gold2
+953,953,954,45,Male,Middle,Jamshedpur,139,Laptop/PC,Linux,No,2,3,39,11,86114,66307,23,0,0,39,Product_upgrade,Customer_support,3,25834,Non Metro,Jharkhand,East,3,7,6,5,Gold2
+954,954,955,43,Male,Middle,Ujjain,58,Laptop/PC,Windows,No,3,3,12,3,47192,41528,12,1,1,11,Parts_change,Service_center,4,1008,Non Metro,Punjab,North,6,3,5,3,Silver1
+955,955,956,59,Female,Old,Mumbai,112,Mobile/Tablet,iOS,No,4,1,9,2,33668,27944,17,1,0,12,Technical_Queries,Customer_support,5,0,Metro,Maharashtra,South,1,2,7,2,Gold1
+956,956,957,40,Female,Middle,Jalandhar,171,Mobile/Tablet,Android,No,2,6,35,10,86114,75780,12,0,0,31,Parts_change,Service_center,4,753,Non Metro,Punjab,North,7,4,6,4,Gold1
+957,957,958,32,Male,Young,Raipur,168,Mobile/Tablet,iOS,No,0,6,28,11,56323,45621,19,0,0,36,Product_upgrade,Customer_support,2,16896,Non Metro,Chattisgarh,East,9,4,9,4,Platinum1
+958,958,959,30,Male,Young,Raipur,180,Laptop/PC,Windows,Yes,2,6,50,20,86114,81808,5,0,0,27,Product_upgrade,Customer_support,2,25834,Non Metro,Chattisgarh,East,5,3,6,5,Gold1
+959,959,960,34,Male,Young,Durgapur,151,Laptop/PC,Linux,No,0,6,57,22,56323,49564,12,0,0,38,Product_upgrade,Customer_support,3,16896,Non Metro,West Bengal,East,5,8,5,5,Silver2
+960,960,961,18,Female,Young,Raipur,158,Laptop/PC,Linux,No,0,7,52,20,56323,46748,17,1,4,8,Parts_change,Service_center,4,454,Non Metro,Chattisgarh,East,7,9,5,5,Silver2
+961,961,962,28,Female,Young,Kanpur,198,Laptop/PC,Windows,Yes,2,9,59,23,86114,69752,19,1,1,11,Parts_change,Service_center,4,1531,Non Metro,Uttar Pradesh,North,3,2,6,5,Gold1
+962,962,963,34,Male,Young,Jamshedpur,143,Laptop/PC,Windows,No,2,9,48,19,86114,69752,19,0,0,27,Product_upgrade,Customer_support,5,25834,Non Metro,Jharkhand,East,5,3,6,5,Gold1
+963,963,964,39,Female,Middle,Jamshedpur,149,Mobile/Tablet,Android,No,2,7,24,7,86114,75780,12,0,0,21,Parts_change,Service_center,5,1003,Non Metro,Jharkhand,East,5,3,6,3,Gold1
+964,964,965,54,Female,Old,Hubli–Dharwad,120,Laptop/PC,Windows,Yes,3,3,13,3,47192,39169,17,1,2,10,Technical_Queries,Customer_support,5,0,Non Metro,Karnartaka,South,2,2,5,3,Silver1
+965,965,966,54,Female,Old,BokaroSteelCity,114,Mobile/Tablet,Android,Yes,3,6,4,1,47192,39169,17,1,2,10,Parts_change,Service_center,5,2274,Non Metro,Jharkhand,East,1,2,5,2,Silver1
+966,966,967,27,Female,Young,Bhilai,214,Mobile/Tablet,iOS,No,2,10,48,19,86114,71474,17,1,1,11,Technical_Queries,Customer_support,4,0,Non Metro,Chattisgarh,East,5,3,10,5,Platinum1
+967,967,968,44,Female,Middle,Tiruppur,70,Mobile/Tablet,iOS,No,2,7,36,10,86114,81808,5,1,10,2,Technical_Queries,Remote_sharing,5,0,Non Metro,Tamil Nadu,South,5,3,10,4,Platinum1
+968,968,969,30,Male,Young,Jamnagar,132,Mobile/Tablet,Android,No,2,7,51,20,86114,81808,5,1,10,2,Technical_Queries,Remote_sharing,4,0,Non Metro,Gujrat,West,9,4,6,5,Gold1
+969,969,970,40,Female,Middle,Nanded,140,Laptop/PC,Windows,No,2,8,35,10,86114,66307,23,0,0,36,Product_upgrade,Customer_support,5,25834,Non Metro,Maharashtra,South,6,3,6,4,Gold1
+970,970,971,37,Male,Middle,Ujjain,117,Mobile/Tablet,iOS,Yes,3,7,36,10,47192,36337,23,1,2,10,Parts_change,Service_center,5,1813,Non Metro,Punjab,North,7,4,9,4,Platinum1
+971,971,972,27,Male,Young,Patna,192,Laptop/PC,Linux,No,0,7,41,16,56323,53506,5,1,3,9,Parts_change,Service_center,4,1667,Non Metro,Bihar,East,8,9,5,5,Silver2
+972,972,973,58,Male,Old,Siliguri,121,Laptop/PC,Windows,Yes,4,6,24,7,33668,27271,19,1,4,8,Technical_Queries,Customer_support,4,0,Non Metro,Assam,East,3,2,3,3,Silver1
+973,973,974,47,Female,Old,Jodhpur,114,Mobile/Tablet,iOS,No,3,3,27,8,47192,39169,17,0,0,16,Product_upgrade,Customer_support,2,14157,Non Metro,Rajasthan,West,4,4,9,3,Platinum1
+974,974,975,46,Female,Old,Chennai,103,Laptop/PC,Windows,Yes,5,3,25,7,78227,63363,19,1,2,10,Parts_change,Service_center,5,1954,Metro,Tamil Nadu,South,4,4,6,3,Gold1
+975,975,976,31,Female,Young,Kakinada,178,Mobile/Tablet,Android,No,1,4,57,22,89528,74308,17,0,0,28,Parts_change,Service_center,4,1174,Non Metro,Andhra Pradesh,South,7,4,6,5,Gold1
+976,976,977,59,Female,Old,Kanpur,103,Mobile/Tablet,Android,No,5,5,15,4,78227,60234,23,1,8,4,Technical_Queries,Remote_sharing,4,0,Non Metro,Uttar Pradesh,North,2,2,6,3,Gold1
+977,977,978,52,Female,Old,Patna,110,Laptop/PC,Windows,No,4,5,10,3,33668,25924,23,0,0,17,Product_upgrade,Customer_support,3,10100,Non Metro,Bihar,East,1,2,3,2,Silver1
+978,978,979,40,Female,Middle,Kannur,144,Mobile/Tablet,iOS,Yes,2,8,21,6,86114,66307,23,0,0,30,Product_upgrade,Customer_support,2,25834,Non Metro,Kerela,South,3,2,10,3,Platinum1
+979,979,980,54,Female,Old,Malappuram,122,Mobile/Tablet,iOS,Yes,5,6,7,2,78227,60234,23,0,0,18,Product_upgrade,Customer_support,2,23468,Non Metro,Kerela,South,2,2,10,2,Platinum1
+980,980,981,38,Female,Middle,Bijapur,127,Laptop/PC,Windows,No,2,7,17,5,86114,71474,17,1,0,12,Parts_change,Service_center,5,851,Non Metro,Karnartaka,South,3,2,6,3,Gold1
+981,981,982,49,Female,Old,Mysore,137,Laptop/PC,Windows,Yes,3,1,19,5,47192,38225,19,1,8,4,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,3,2,5,3,Silver1
+982,982,983,24,Male,Young,Hyderabad,138,Mobile/Tablet,iOS,Yes,1,1,44,17,89528,68936,23,1,9,3,Technical_Queries,Customer_support,5,0,Metro,Telangana,South,7,4,10,5,Platinum1
+983,983,984,49,Male,Old,Allahabad,114,Laptop/PC,Linux,Yes,3,1,22,6,47192,36337,23,1,9,3,Technical_Queries,Remote_sharing,5,0,Non Metro,Uttar Pradesh,North,3,7,5,3,Silver2
+984,984,985,35,Female,Old,Surat,199,Laptop/PC,Linux,Yes,3,6,17,5,47192,44832,5,0,0,21,Product_upgrade,Customer_support,4,14157,Metro,Gujrat,West,1,7,5,3,Silver2
+985,985,986,34,Male,Young,Kakinada,155,Mobile/Tablet,iOS,Yes,0,6,42,16,56323,53506,5,1,6,6,Technical_Queries,Customer_support,4,0,Non Metro,Andhra Pradesh,South,8,4,9,5,Platinum1
+986,986,987,50,Female,Old,Dhanbad,145,Laptop/PC,Windows,No,4,3,29,8,33668,27944,17,1,0,12,Parts_change,Service_center,5,1719,Non Metro,Jharkhand,East,1,2,3,3,Silver1
+987,987,988,33,Male,Young,Madurai,215,Laptop/PC,Windows,No,2,3,55,22,86114,66307,23,1,6,6,Technical_Queries,Remote_sharing,4,0,Non Metro,Tamil Nadu,South,4,4,6,5,Gold1
+988,988,989,36,Female,Middle,Visakhapatnam,108,Mobile/Tablet,Android,Yes,3,8,16,4,47192,41528,12,1,10,2,Technical_Queries,Customer_support,5,0,Metro,Andhra Pradesh,South,5,3,5,3,Silver1
+989,989,990,41,Male,Middle,Amritsar,112,Laptop/PC,Windows,Yes,3,6,10,3,47192,41528,12,0,0,37,Product_upgrade,Customer_support,5,14157,Non Metro,Punjab,North,4,4,5,2,Silver1
+990,990,991,25,Female,Young,Guwahati,209,Mobile/Tablet,Android,Yes,0,7,55,22,56323,49564,12,0,0,31,Parts_change,Service_center,4,1415,Non Metro,Assam,East,3,2,5,5,Silver1
+991,991,992,43,Male,Middle,Vadodara,147,Mobile/Tablet,iOS,No,4,6,28,8,33668,27944,17,0,0,14,Parts_change,Service_center,4,1961,Non Metro,Gujrat,West,4,4,7,3,Gold1
+992,992,993,39,Male,Middle,Mysore,173,Mobile/Tablet,iOS,No,4,3,38,11,33668,27271,19,1,4,8,Technical_Queries,Customer_support,4,0,Non Metro,Karnartaka,South,5,3,7,5,Gold1
+993,993,994,28,Female,Young,Bikaner,184,Laptop/PC,Windows,Yes,2,10,60,24,86114,81808,5,0,0,35,Parts_change,Service_center,5,533,Non Metro,Rajasthan,West,7,4,6,5,Gold1
+994,994,995,42,Male,Middle,Jhansi,173,Laptop/PC,Windows,No,4,8,29,8,33668,27944,17,0,0,33,Product_upgrade,Customer_support,3,10100,Non Metro,Uttar Pradesh,North,3,2,3,3,Silver1
+995,995,996,33,Male,Young,Jamnagar,133,Laptop/PC,Linux,Yes,2,8,48,19,86114,69752,19,0,0,32,Parts_change,Service_center,5,2368,Non Metro,Gujrat,West,5,8,6,5,Gold2
+996,996,997,32,Female,Young,Hyderabad,206,Mobile/Tablet,Android,Yes,3,9,50,20,47192,44832,5,1,8,4,Technical_Queries,Customer_support,5,0,Metro,Telangana,South,5,3,5,5,Silver1
+997,997,998,47,Female,Old,Raipur,102,Laptop/PC,Windows,Yes,5,1,28,8,78227,60234,23,1,10,2,Technical_Queries,Customer_support,4,0,Non Metro,Chattisgarh,East,3,2,6,3,Gold1
+998,998,999,60,Female,Old,Jabalpur,110,Laptop/PC,Linux,No,4,1,8,2,33668,27944,17,1,12,0,Technical_Queries,Customer_support,4,0,Non Metro,Madhya Pradesh,West,4,9,3,2,Silver2
+999,999,1000,43,Female,Middle,Delhi,86,Laptop/PC,Windows,Yes,4,7,15,4,33668,27271,19,0,0,39,Product_upgrade,Customer_support,3,10100,Metro,Delhi,North,6,3,3,3,Silver1

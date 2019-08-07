@@ -1,0 +1,8 @@
+,Model,Score
+0,Logistic,0.55
+1,Linear Discriminant Analysis,0.55
+2,KNN Classifier,0.575
+3,DecisionTree,0.58
+4,Support Vector Classifier,0.55
+5,XG Boost Classifier,0.625
+6,Random Forest,0.635
